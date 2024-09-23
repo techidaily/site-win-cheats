@@ -1,7 +1,7 @@
 ---
 title: Microsoft's Enduring Mobile Strategy Flaws - A Decade of Setbacks Highlighted by ZDNet
-date: 2024-09-19 10:58:55
-updated: 2024-09-20 12:56:28
+date: 2024-09-19T16:37:52.850Z
+updated: 2024-09-23T17:03:46.118Z
 tags:
   - microsoft
 categories:
@@ -63,6 +63,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **3\. Switch to ChromeOS**
 
 You can use a web browser, right? If you really can't see yourself learning Linux, try ChromeOS.
@@ -115,15 +122,36 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
+  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -159,11 +187,27 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-premium-cloud-based-recorder-tech/"><u>[New] 2024 Approved Premium Cloud-Based Recorder Tech</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-bridging-the-gap-transitioning-youtube-to-televisions-smoothly/"><u>[New] In 2024, Bridging the Gap Transitioning YouTube to Televisions Smoothly</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-cutting-edge-openings-at-no-cost-the-best-youtube-intro-makers/"><u>[New] In 2024, Cutting-Edge Openings at No Cost The Best YouTube Intro Makers</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-android-photo-editing-uncovered-complete-review-of-lightroom-app/"><u>[Updated] Android Photo Editing Uncovered Complete Review of Lightroom App</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/conversion-libre-dun-fichier-video-mpeg-vers-ogg-en-ligne-avec-movavi/"><u>Conversion Libre D'un Fichier Vidéo MPEG Vers Ogg en Ligne Avec Movavi</u></a></li>
+<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-oppo-a2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Oppo A2 | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-full-explainer-leveraging-google-docs-for-audio-to-text-conversion/"><u>In 2024, Full Explainer Leveraging Google Docs for Audio to Text Conversion</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/os-melhores-programas-de-edicao-de-videos-de-alta-definicao-facil-navegacao-por-editores-top-em-4k-para-o-ano-que-virao/"><u>Os Melhores Programas De Edição De Vídeos De Alta Definição - Fácil Navegação Por Editores Top Em 4K Para O Ano Que Virão</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/the-art-of-appreciation-multilingual-thank-you-expressions-156/"><u>The Art of Appreciation: Multilingual Thank You Expressions (156)</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/top-15-video-software-options-featuring-facecam-functionality-a-comprehensive-review-of-the-best-recording-tools/"><u>Top 15 Video Software Options Featuring Facecam Functionality: A Comprehensive Review of the Best Recording Tools</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/top-5-dvd-to-mp4-converter-programs-for-pc-and-web-the-best-options-available/"><u>Top 5 DVD to MP4 Converter Programs for PC and Web: The Best Options Available</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/transforma-facilmente-archivos-mkv-en-avi-tecnica-expedita-y-sencilla-con-movavi/"><u>Transforma Fácilmente Archivos MKV en AVI: Técnica Expedita Y Sencilla Con Movavi</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/turn-your-ts-audio-clips-into-high-quality-wav-no-cost/"><u>Turn Your TS Audio Clips Into High-Quality WAV - No Cost!</u></a></li>
+</ul></div>
+

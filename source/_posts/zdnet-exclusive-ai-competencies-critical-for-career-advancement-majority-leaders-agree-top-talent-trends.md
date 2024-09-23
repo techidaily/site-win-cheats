@@ -1,7 +1,7 @@
 ---
 title: "ZDNet Exclusive: AI Competencies Critical for Career Advancement, Majority Leaders Agree | Top Talent Trends"
-date: 2024-09-18 10:19:53
-updated: 2024-09-20 12:18:23
+date: 2024-09-17T16:15:42.590Z
+updated: 2024-09-23T16:34:05.988Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -62,6 +69,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -82,6 +96,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -114,6 +135,13 @@ In addition, the ESUs provide only security updates. There will be no new featur
 In summary, commercial organizations will pay $61 to $244 per device over three years, while education gets heavily discounted pricing of $1 to $4 per license. Consumer pricing is still to be determined.
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
 
@@ -159,11 +187,31 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-making-a-lasting-impression-with-profile-clips/"><u>[Updated] 2024 Approved Making a Lasting Impression with Profile Clips</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-elevate-your-online-presence-mastering-youtube-edits-in-premiere/"><u>[Updated] Elevate Your Online Presence Mastering YouTube Edits in Premiere</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-from-followers-to-brand-ambassadors-the-five-pillars-of-influencer-success/"><u>[Updated] In 2024, From Followers to Brand Ambassadors The Five Pillars of Influencer Success</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-the-efficiency-of-apple-macbook-air-with-m1-for-editors/"><u>[Updated] The Efficiency of Apple MacBook Air with M1 for Editors</u></a></li>
+<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-samsung-galaxy-f15-5g-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Samsung Galaxy F15 5G Wont Charge | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-empires-edge-scoring-the-ultimate-7-grand-wars/"><u>2024 Approved Empire's Edge Scoring the Ultimate 7 Grand Wars</u></a></li>
+<li><a href="https://techtrends.techidaily.com/assessing-zamzars-compliance-understanding-its-legality-and-privacy-measures/"><u>Assessing Zamzar's Compliance - Understanding Its Legality & Privacy Measures</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/conversion-libre-dun-fichier-video-mpeg-vers-ogg-en-ligne-avec-movavi/"><u>Conversion Libre D'un Fichier Vidéo MPEG Vers Ogg en Ligne Avec Movavi</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/discover-the-best-3d-animation-suites-of-202n-a-comprehensive-guide-to-the-leading-animating-tools-on-the-market/"><u>Discover the Best 3D Animation Suites of 202N: A Comprehensive Guide to the Leading Animating Tools on the Market</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>How to Fix Pokemon Go Route Not Working On Apple iPhone 11? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-poco-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Poco X6 Pro? | Dr.fone</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/os-melhores-programas-de-edicao-de-videos-de-alta-definicao-facil-navegacao-por-editores-top-em-4k-para-o-ano-que-virao/"><u>Os Melhores Programas De Edição De Vídeos De Alta Definição - Fácil Navegação Por Editores Top Em 4K Para O Ano Que Virão</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/top-15-video-software-options-featuring-facecam-functionality-a-comprehensive-review-of-the-best-recording-tools/"><u>Top 15 Video Software Options Featuring Facecam Functionality: A Comprehensive Review of the Best Recording Tools</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/top-5-dvd-to-mp4-converter-programs-for-pc-and-web-the-best-options-available/"><u>Top 5 DVD to MP4 Converter Programs for PC and Web: The Best Options Available</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/transforma-facilmente-archivos-mkv-en-avi-tecnica-expedita-y-sencilla-con-movavi/"><u>Transforma Fácilmente Archivos MKV en AVI: Técnica Expedita Y Sencilla Con Movavi</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/turn-your-ts-audio-clips-into-high-quality-wav-no-cost/"><u>Turn Your TS Audio Clips Into High-Quality WAV - No Cost!</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/1726226909481-wavmp3-movavi/"><u>오늘날의 가장 최고의 온라인 WAV/MP3 전환 도구 - Movavi</u></a></li>
+</ul></div>
+

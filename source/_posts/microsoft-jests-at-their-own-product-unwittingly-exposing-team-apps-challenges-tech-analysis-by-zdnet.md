@@ -1,7 +1,7 @@
 ---
 title: Microsoft Jests at Their Own Product, Unwittingly Exposing Team App's Challenges | Tech Analysis by ZDNET
-date: 2024-09-19 12:45:50
-updated: 2024-09-20 12:53:53
+date: 2024-09-16T16:57:39.849Z
+updated: 2024-09-23T17:13:36.162Z
 tags:
   - microsoft
 categories:
@@ -63,6 +63,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **3\. Switch to ChromeOS**
 
 You can use a web browser, right? If you really can't see yourself learning Linux, try ChromeOS.
@@ -82,6 +89,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -115,11 +129,25 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
@@ -159,11 +187,29 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-real-time-visualizer-for-2024/"><u>[New] Real-Time Visualizer for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-screensnap-sage-mastering-captures-technology/"><u>[New] ScreenSnap Sage Mastering Captures Technology</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-mastering-instagram-stories-step-by-step-recording-guide/"><u>[Updated] 2024 Approved Mastering Instagram Stories Step-by-Step Recording Guide</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-navigating-the-world-of-android-video-snapshots/"><u>[Updated] Navigating the World of Android Video Snapshots</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/discover-the-best-free-editing-software-to-replace-final-cut-pro-for-windows-users-easy-downloads-available/"><u>Discover the Best Free Editing Software to Replace Final Cut Pro for Windows Users - Easy Downloads Available</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/free-online-conversion-of-qt-files-expert-guide-with-movavi/"><u>Free Online Conversion of QT Files - Expert Guide with Movavi</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/gratis-online-convertereerminator-converteren-van-tod-naar-mov-met-movavi/"><u>Gratis Online Convertereerminator: Converteren Van TOD Naar MOV Met MOVAVI</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/gratuito-conversor-de-video-em-mp4-para-aac-online-pela-movavi/"><u>Gratuito Conversor De Vídeo Em MP4 Para AAC Online Pela Movavi</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-rise-to-the-top-mastering-youtube-descriptions-with-customizable-templates/"><u>In 2024, Rise to the Top Mastering YouTube Descriptions with Customizable Templates</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-superior-obs-configurations-budget-edition/"><u>In 2024, Superior OBS Configurations - Budget Edition</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/mov-a-flac-il-processo-facile-e-gratis-di-convertire-video-su-moveavi-online-non-ce-bisogno-di-immatricolarsi/"><u>MOV a FLAC: Il Processo Facile E Gratis Di Convertire Video Su Moveavi Online – Non C'è Bisogno Di Immatricolarsi</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolving-your-imessage-steps-to-correct-signed-out-notifications-on-ios-devices/"><u>Resolving Your iMessage: Steps to Correct 'Signed Out' Notifications on iOS Devices</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-xiaomi-redmi-12-5g-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Xiaomi Redmi 12 5G | Dr.fone</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/top-websites-com-modelo-de-fotocolagem-livre-melhore-seu-design-online/"><u>Top Websites Com Modelo De Fotocolagem Livre: Melhore Seu Design Online</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/video-storage-assessment-for-128gb-drives/"><u>Video Storage Assessment for 128GB Drives</u></a></li>
+</ul></div>
+

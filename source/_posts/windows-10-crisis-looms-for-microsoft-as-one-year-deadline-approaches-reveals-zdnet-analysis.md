@@ -1,7 +1,7 @@
 ---
 title: Windows 10 Crisis Looms for Microsoft as One-Year Deadline Approaches, Reveals ZDNet Analysis
-date: 2024-09-19 16:59:29
-updated: 2024-09-20 11:22:43
+date: 2024-09-18T16:57:16.006Z
+updated: 2024-09-23T17:42:48.507Z
 tags:
   - microsoft
 categories:
@@ -52,6 +52,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **2\. Install Linux**
 
@@ -115,15 +122,36 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -159,11 +187,34 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/tep-by-step-tutorial-to-create-engaging-valorant-videos-with-thumbnails-for-2024/"><u>[New] Step-by-Step Tutorial to Create Engaging Valorant Videos with Thumbnails for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-bridging-the-gap-youtube-editing-mastered-in-imovie-workflows/"><u>[Updated] Bridging the Gap YouTube Editing Mastered in iMovie Workflows</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/pngtiff/"><u>「オンラインで簡単！無料PNG・TIFF形式変換 - モバビ」</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/1726220173637-mov-3gpp-movavi/"><u>自由下載 MOV 格式專用 3GPP翻譯器 - Movavi 轉換器</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/aanvangseloosbare-online-omzettingen-van-aiff-naar-mov-gratuit-via-movavi/"><u>Aanvangseloosbare Online-Omzettingen Van AIFF Naar MOV - Gratuit via Movavi</u></a></li>
+<li><a href="https://facebook.techidaily.com/beyond-the-job-title-facebooks-next-phase/"><u>Beyond the Job Title: Facebook's Next Phase</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/conversione-gratuita-di-mp4-a-wma-con-movavi-il-tuo-riferimento-per-la-codifica-audio-online/"><u>Conversione Gratuita Di MP4 a WMA Con Movavi: Il Tuo Riferimento per La Codifica Audio Online</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/conversione-mov-a-mxf-liberamente-online-tramite-servizio-gratuito-di-movavi/"><u>Conversione MOV a MXF Liberamente Online Tramite Servizio Gratuito Di Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cutting-edge-ai-applications-for-modern-writers/"><u>Cutting Edge AI Applications for Modern Writers</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/download-de-conversor-m4b-para-mp3-gratuito-online-pelo-movavi/"><u>Download De Conversor M4B Para MP3 Gratuito Online Pelo Movavi</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/enhanced-reality-gaming-top-10-pc-vr-players-for-virtual-adventures/"><u>Enhanced Reality Gaming Top 10 PC VR Players for Virtual Adventures</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/guia-do-iniciante-os-melhores-programas-de-edicao-de-videos-escolhidos-para-o-ano-de-2nvidei-2024/"><u>Guia Do Iniciante: Os Melhores Programas De Edição De Vídeos Escolhidos Para O Ano De 2Nvidei-2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-rebirth-your-vintage-pcs-using-damn-small-linux-the-easy-way/"><u>How to Rebirth Your Vintage PCs Using Damn Small Linux – The Easy Way</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-motorola-moto-g-5g-2023-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Motorola Moto G 5G (2023) Location | Dr.fone</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/los-mejores-5-editores-de-video-libres-para-windows-y-macos/"><u>Los Mejores 5 Editores De Video Libres Para Windows Y macOS</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/master-the-art-of-converting-fb-to-mp4-720p1080p-without-paying/"><u>Master the Art of Converting FB to MP4, 720P/1080p, Without Paying</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-googles-game-service-on-desktops-a-guide/"><u>Navigating Google's Game Service on Desktops: A Guide</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/unlock-the-power-of-language-mastering-spanish-with-top-10-greetings/"><u>Unlock the Power of Language: Mastering Spanish with Top 10 Greetings</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/mp4-10-top-5/"><u>모두에게 영감을 주는 유튜브 MP4 제작을 위한 신제품인 10가지 추출기 - TOP 5</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/mkv-3gp/"><u>영상 제공 - MKV에서 3GP로의 용이한 온라인 변환</u></a></li>
+</ul></div>
+

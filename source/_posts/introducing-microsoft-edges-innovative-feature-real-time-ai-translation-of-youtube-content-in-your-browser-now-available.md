@@ -1,7 +1,7 @@
 ---
 title: "Introducing Microsoft Edge's Innovative Feature: Real-Time AI Translation of YouTube Content in Your Browser, Now Available!"
-date: 2024-09-18 15:27:50
-updated: 2024-09-20 10:14:26
+date: 2024-09-22T16:55:20.072Z
+updated: 2024-09-23T17:24:25.656Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -62,6 +69,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -82,6 +96,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -114,6 +135,13 @@ In addition, the ESUs provide only security updates. There will be no new featur
 In summary, commercial organizations will pay $61 to $244 per device over three years, while education gets heavily discounted pricing of $1 to $4 per license. Consumer pricing is still to be determined.
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
 
@@ -159,11 +187,27 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-engage-more-dissuade-less-top-6-ways-to-increase-watch-time-and-stayers/"><u>[New] 2024 Approved Engage More, Dissuade Less Top 6 Ways to Increase Watch Time and Stayers</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-boost-your-channels-a-guide-to-best-youtube-seo-resources/"><u>[Updated] In 2024, Boost Your Channels A Guide to Best YouTube SEO Resources</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unveiling-iphone-features-producing-and-modifying-videos-at-a-tranquil-pace/"><u>[Updated] Unveiling iPhone Features Producing and Modifying Videos at a Tranquil Pace</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-ultimate-list-of-ae-title-enhancement-methods/"><u>2024 Approved Ultimate List of AE Title Enhancement Methods</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/discover-the-best-free-editing-software-to-replace-final-cut-pro-for-windows-users-easy-downloads-available/"><u>Discover the Best Free Editing Software to Replace Final Cut Pro for Windows Users - Easy Downloads Available</u></a></li>
+<li><a href="https://article-helps.techidaily.com/effortless-techniques-for-second-rate-signature-cleanup-for-2024/"><u>Effortless Techniques for Second-Rate Signature Cleanup for 2024</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/free-online-conversion-of-qt-files-expert-guide-with-movavi/"><u>Free Online Conversion of QT Files - Expert Guide with Movavi</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/gratis-online-convertereerminator-converteren-van-tod-naar-mov-met-movavi/"><u>Gratis Online Convertereerminator: Converteren Van TOD Naar MOV Met MOVAVI</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-a-locked-oppo-reno-8t-5g-phone-by-drfone-android/"><u>How to Reset a Locked Oppo Reno 8T 5G Phone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-sharpen-your-gpt-interactions-without-mistakes/"><u>How to Sharpen Your GPT Interactions Without Mistakes</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/mov-a-flac-il-processo-facile-e-gratis-di-convertire-video-su-moveavi-online-non-ce-bisogno-di-immatricolarsi/"><u>MOV a FLAC: Il Processo Facile E Gratis Di Convertire Video Su Moveavi Online – Non C'è Bisogno Di Immatricolarsi</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-iphone-12-data-from-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover iPhone 12 Data From iTunes Backup | Dr.fone</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/top-websites-com-modelo-de-fotocolagem-livre-melhore-seu-design-online/"><u>Top Websites Com Modelo De Fotocolagem Livre: Melhore Seu Design Online</u></a></li>
+</ul></div>
+

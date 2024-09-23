@@ -1,7 +1,7 @@
 ---
 title: "Intel or ARM-Based Surface Pro: Making the Smart Choice - In-Depth Comparison & Analysis | ZDNET Insights"
-date: 2024-09-17 16:16:59
-updated: 2024-09-20 12:42:23
+date: 2024-09-22T17:04:03.787Z
+updated: 2024-09-23T17:29:25.703Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -82,6 +89,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -115,6 +129,19 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -124,6 +151,19 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -159,11 +199,34 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-invaluable-slide-show-tools-for-business-executives/"><u>[New] 2024 Approved Invaluable Slide Show Tools for Business Executives</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-eating-entertainment-tiktoks-top-culinary-shows/"><u>[New] In 2024, Eating Entertainment TikTok's Top Culinary Shows</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-pinnacle-of-hd-recording-expertly-curated-list/"><u>[New] In 2024, Pinnacle of HD Recording Expertly Curated List</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-visual-narratives-that-speak-volumes-with-instagramcaptions-for-2024/"><u>[New] Visual Narratives That Speak Volumes with #InstagramCaptions for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-elevate-your-mac-broadcast-top-5-live-streaming-applications/"><u>[Updated] 2024 Approved Elevate Your Mac Broadcast Top 5 Live Streaming Applications</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-guide-to-recovering-stopped-fb-livestreams/"><u>2024 Approved Guide to Recovering Stopped FB Livestreams</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-macs-visual-excellence-10-list-of-ultimate-screens/"><u>2024 Approved Mac's Visual Excellence #10 List of Ultimate Screens</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-oneplus-nord-ce-3-5g-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your OnePlus Nord CE 3 5G Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/discover-the-best-free-editing-software-to-replace-final-cut-pro-for-windows-users-easy-downloads-available/"><u>Discover the Best Free Editing Software to Replace Final Cut Pro for Windows Users - Easy Downloads Available</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/download-de-conversor-m4b-para-mp3-gratuito-online-pelo-movavi/"><u>Download De Conversor M4B Para MP3 Gratuito Online Pelo Movavi</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-the-latest-epson-wf-3640-printer-drivers-for-your-windows-pc/"><u>Download the Latest Epson WF-3640 Printer Drivers for Your Windows PC</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/free-online-conversion-of-qt-files-expert-guide-with-movavi/"><u>Free Online Conversion of QT Files - Expert Guide with Movavi</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/gratis-online-convertereerminator-converteren-van-tod-naar-mov-met-movavi/"><u>Gratis Online Convertereerminator: Converteren Van TOD Naar MOV Met MOVAVI</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/gratuito-conversor-de-video-em-mp4-para-aac-online-pela-movavi/"><u>Gratuito Conversor De Vídeo Em MP4 Para AAC Online Pela Movavi</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/guia-do-iniciante-os-melhores-programas-de-edicao-de-videos-escolhidos-para-o-ano-de-2nvidei-2024/"><u>Guia Do Iniciante: Os Melhores Programas De Edição De Vídeos Escolhidos Para O Ano De 2Nvidei-2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-meme-world-for-iphone-enthusiasts/"><u>In 2024, Meme World for iPhone Enthusiasts</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/mov-a-flac-il-processo-facile-e-gratis-di-convertire-video-su-moveavi-online-non-ce-bisogno-di-immatricolarsi/"><u>MOV a FLAC: Il Processo Facile E Gratis Di Convertire Video Su Moveavi Online – Non C'è Bisogno Di Immatricolarsi</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/top-websites-com-modelo-de-fotocolagem-livre-melhore-seu-design-online/"><u>Top Websites Com Modelo De Fotocolagem Livre: Melhore Seu Design Online</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/trasformatore-video-fatto-in-casa-renderli-compatibili-con-iphone-senza-problemi/"><u>Trasformatore Vidéo Fatto in Casa: Renderli Compatibili Con iPhone Senza Problemi</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/mkv-3gp/"><u>영상 제공 - MKV에서 3GP로의 용이한 온라인 변환</u></a></li>
+</ul></div>
+

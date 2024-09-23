@@ -1,7 +1,7 @@
 ---
 title: "Don't Miss the Deadline: Protect Your PC by Switching From Windows 11 21H2 and Nh2 Before It's Too Late | Tech News"
-date: 2024-09-17 23:51:22
-updated: 2024-09-20 12:25:26
+date: 2024-09-22T17:37:50.065Z
+updated: 2024-09-23T16:12:08.745Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -62,6 +69,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -115,6 +129,13 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -124,6 +145,13 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -159,11 +187,31 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-solved-muted-youtube-shorts-appearance/"><u>[New] 2024 Approved Solved Muted YouTube Shorts Appearance</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-a-step-into-anti-time-original-techniques-to-rewind-yt-videos/"><u>[New] A Step Into Anti-Time Original Techniques to Rewind YT Videos</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-ahead-of-tomorrow-key-youtube-gatherings-post-vidcon-for-2024/"><u>[New] Ahead of Tomorrow Key Youtube Gatherings (Post-VidCon) for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-journey-through-the-maze-old-vs-innovative-rpgs-for-2024/"><u>[New] Journey Through the Maze Old Vs. Innovative RPGs for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-ignite-your-creative-journey-blending-photography-and-videos-through-pixiz/"><u>[Updated] In 2024, Ignite Your Creative Journey Blending Photography & Videos Through Pixiz</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-stealthy-speakers-sanctuary-discovering-quiet-voice-apps-androidios/"><u>[Updated] Stealthy Speakers' Sanctuary Discovering Quiet Voice Apps (Android/iOS)</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-the-archivists-edge-cutting-edge-strategies-for-social-downloads/"><u>[Updated] The Archivist's Edge Cutting-Edge Strategies for Social Downloads</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/pngtiff/"><u>「オンラインで簡単！無料PNG・TIFF形式変換 - モバビ」</u></a></li>
+<li><a href="https://facebook.techidaily.com/8-excellent-tools-for-your-content-calendar-management/"><u>8 Excellent Tools for Your Content Calendar Management</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/1726220173637-mov-3gpp-movavi/"><u>自由下載 MOV 格式專用 3GPP翻譯器 - Movavi 轉換器</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/conversion-libre-dun-fichier-video-mpeg-vers-ogg-en-ligne-avec-movavi/"><u>Conversion Libre D'un Fichier Vidéo MPEG Vers Ogg en Ligne Avec Movavi</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/conversione-mov-a-mxf-liberamente-online-tramite-servizio-gratuito-di-movavi/"><u>Conversione MOV a MXF Liberamente Online Tramite Servizio Gratuito Di Movavi</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-tecno-spark-20-proplus-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Tecno Spark 20 Pro+ Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/los-mejores-5-editores-de-video-libres-para-windows-y-macos/"><u>Los Mejores 5 Editores De Video Libres Para Windows Y macOS</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/os-melhores-programas-de-edicao-de-videos-de-alta-definicao-facil-navegacao-por-editores-top-em-4k-para-o-ano-que-virao/"><u>Os Melhores Programas De Edição De Vídeos De Alta Definição - Fácil Navegação Por Editores Top Em 4K Para O Ano Que Virão</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/top-15-video-software-options-featuring-facecam-functionality-a-comprehensive-review-of-the-best-recording-tools/"><u>Top 15 Video Software Options Featuring Facecam Functionality: A Comprehensive Review of the Best Recording Tools</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/mp4-10-top-5/"><u>모두에게 영감을 주는 유튜브 MP4 제작을 위한 신제품인 10가지 추출기 - TOP 5</u></a></li>
+</ul></div>
+
