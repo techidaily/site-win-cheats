@@ -1,7 +1,7 @@
 ---
 title: "Action-Packed Guide: Master Live Gaming Sessions on Facebook"
-date: 2024-09-22T04:51:03.324Z
-updated: 2024-09-27T19:02:15.173Z
+date: 2024-09-27T06:26:31.325Z
+updated: 2024-10-03T06:43:40.771Z
 tags:
   - product
 categories:
@@ -46,6 +46,13 @@ Action Tutorials
   
  Share this tutorial:
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Introduction 
 
  With Action! LIVE Streaming option you can stream all your Windows PC activity, all videos and gameplays directly to Facebook. Play games, videos, use your favorite apps and share it with friends and viewers from all over the world! 
@@ -65,10 +72,10 @@ Action Tutorials
 ![Mirillis Action! - Facebook](https://mirillis.com/res/old/gfx/tutorials/live/mirillis_action_live_streaming_login_facebook.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Login to your Facebook account
@@ -76,6 +83,13 @@ Action Tutorials
  Click **Log in to Facebook** button. 
 
 ![Mirillis Action! - Accounts Manager](https://mirillis.com/res/old/gfx/tutorials/live/mirillis_action_live_streaming_accounts_facebook.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Login to your Facebook with new Login window diplayed and accept MirillisStreamer app to post on your Facebook. 
 
@@ -86,10 +100,10 @@ Action Tutorials
 ![Mirillis Action! - Logged in with Google](https://mirillis.com/res/old/gfx/tutorials/live/mirillis_action_live_streaming_broadcast_settings_facebook_logged_in.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## LIVE Streaming settings
@@ -97,6 +111,19 @@ Action Tutorials
  Use video settings (size, framerate and bitrate) to setup your Facebook broadcast. 
 
 ![Mirillis Action! - Streaming settings](https://mirillis.com/res/old/gfx/tutorials/live/mirillis_action_live_streaming_video_settings.jpg) 
+
+<!-- affiliate ads begin -->
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  To live stream to Facebook in smooth HD video quality we recommend to use PCs with AMD APP, Intel Quick Sync Video or NVIDIA NVENC video encoding hardware acceleration.
 
@@ -116,22 +143,15 @@ Action Tutorials
 
 ![Mirillis Action! - Streaming gameplay to Facebook](https://mirillis.com/res/old/gfx/tutorials/live/mirillis_action_live_streaming_hud_viewers.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Press Ctrl+F9 hotkey again to stop your Facebook live stream. 
 
 ![Mirillis Action! - Streaming finished](https://mirillis.com/res/old/gfx/tutorials/basics/mirillis_action_HUD_normal_status_game.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Streaming to selected Facebook page or channel using Stream Key
@@ -144,53 +164,27 @@ Action Tutorials
 
 ![Mirillis Action! - Custom Streaming Service selected](https://mirillis.com/res/old/gfx/tutorials/live/mirillis_action_live_streaming_broadcast_settings_custom_service.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2\. Open Facebook page with web browser, log in to your Facebook Page, and select Publishing Tools in the top navigation bar. 
 
  3\. On the left menu, click on the Video Library option under the Videos section and click on the + Live button to setup your Live post. 
 
 ![Mirillis Action! - RTMP URL for Twitch.tv](https://mirillis.com/res/old/gfx/tutorials/live/mirillis_action_live_streaming_broadcast_settings_custom_service_facebook_live.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4\. Check the **Separate Fields** group for Server URL and Stream Key. 
 
 ![Mirillis Action! - RTMP URL for Twitch.tv](https://mirillis.com/res/old/gfx/tutorials/live/mirillis_action_live_streaming_broadcast_settings_custom_service_facebook_streamkey_show.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5\. Copy and paste both Server URL and Stream Key to Action!   
 You are ready to live stream to your Facebook Page.
 
 ![Mirillis Action! - RTMP URL for Twitch.tv](https://mirillis.com/res/old/gfx/tutorials/live/mirillis_action_live_streaming_broadcast_settings_custom_service_facebook_streamkey.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -207,22 +201,19 @@ You are ready to live stream to your Facebook Page.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-expert-strategies-for-hulu-screen-grabs-everywhere/"><u>[New] 2024 Approved Expert Strategies for Hulu Screen Grabs Everywhere</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/1716069112976-new-2024-approved-top-ios-psp-games-and-emulators-revealed/"><u>[New] 2024 Approved Top iOS PSP Games & Emulators Revealed!</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-immediate-removal-policy-for-videos-user-concerns/"><u>[Updated] 2024 Approved Immediate Removal Policy for Videos - User Concerns</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-superior-lineup-elite-webcam-mounts/"><u>2024 Approved Superior Lineup Elite Webcam Mounts</u></a></li>
-<li><a href="https://review-topics.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-honor-x50-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Honor X50 by Name | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-balance-and-beauty-premier-photos-tripods-for-smartphones/"><u>[New] In 2024, Balance and Beauty Premier Photos Tripods for Smartphones</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-make-waves-in-the-social-ocean-integrate-tiktok-into-your-insta-reels/"><u>[New] Make Waves in the Social Ocean Integrate TikTok Into Your Insta Reels</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-auditory-augmentation-for-win11-clips/"><u>2024 Approved Auditory Augmentation for Win11 Clips</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/dying-light-performance-problem-fixed-no-more-lags/"><u>Dying Light Performance Problem Fixed - No More Lags!</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/effortlessly-download-your-favorite-videos-from-ellentv-as-high-quality-files-mp4-wmv-avi-flv-mov-using-our-exclusive-software/"><u>Effortlessly Download Your Favorite Videos From Ellentv as High-Quality Files (MP4, WMV, AVI, FLV, MOV) Using Our Exclusive Software</u></a></li>
 <li><a href="https://win-cheats.techidaily.com/engineering-and-science-video-pack-free-nptel-course-materials-get-your-copy-now/"><u>Engineering & Science Video Pack: Free NPTEL Course Materials - Get Your Copy Now!</u></a></li>
 <li><a href="https://win-cheats.techidaily.com/find-your-perfect-youtube-download-solution-with-our-top-picks-an-excellent-alternative-to-dvdvideosoft-for-pc-and-mac-users/"><u>Find Your Perfect YouTube Download Solution with Our Top Picks, an Excellent Alternative to DVDVideoSoft for PC and MAC Users</u></a></li>
 <li><a href="https://win-cheats.techidaily.com/free-downloads-of-vulture-films-and-series-watch-movies-and-tv-with-vultures/"><u>Free Downloads of Vulture Films & Series - Watch Movies and Tv with Vultures</u></a></li>
 <li><a href="https://win-cheats.techidaily.com/get-your-free-video-downloads-from-the-ultimate-pattern-source-e-patterns-central/"><u>Get Your Free Video Downloads From the Ultimate Pattern Source - E-Patterns Central</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/guide-on-converting-youtube-rentals-into-popular-video-formats-like-mp4-mov-and-avi/"><u>Guide on Converting YouTube Rentals Into Popular Video Formats Like MP4, MOV, and AVI</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/how-to-save-and-convert-videolecturesnet-content-to-mp4-format-for-offline-viewing/"><u>How to Save and Convert VideoLectures.net Content to MP4 Format for Offline Viewing</u></a></li>
-<li><a href="https://fox-info.techidaily.com/how-to-unlock-full-potential-with-iphone-hdr/"><u>How to Unlock Full Potential with iPhone HDR</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/list-of-ipads-with-integrated-gps-technology/"><u>List of iPads with Integrated GPS Technology</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/navigating-soundscape-dilution-via-audacity-tools/"><u>Navigating Soundscape Dilution via Audacity Tools</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/resolving-convert2mp3-issues-a-comprehensive-guide/"><u>Resolving Convert2MP3 Issues - A Comprehensive Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reviving-lost-steam-gaming-glory-a-how-to-manual/"><u>Reviving Lost Steam Gaming Glory: A How-To Manual</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/save-and-play-codecademy-tutorials-anywhere-download-in-mp4-or-avi-format-for-pcs-and-macs/"><u>Save and Play Codecademy Tutorials Anywhere – Download in MP4 or AVI Format for PCs & Macs.</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-are-location-permissions-life360-on-honor-play-7t-drfone-by-drfone-virtual-android/"><u>In 2024, What are Location Permissions Life360 On Honor Play 7T? | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/simple-steps-to-acquire-and-set-up-essential-hp-drivers/"><u>Simple Steps to Acquire and Set Up Essential HP Drivers</u></a></li>
+<li><a href="https://win11.techidaily.com/smooth-conversations-testing-microphones-and-cameras-in-windows/"><u>Smooth Conversations: Testing Microphones & Cameras in Windows</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-illustrator-guide-to-dynamic-text-art-for-2024/"><u>The Illustrator Guide to Dynamic Text Art for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/uniting-your-social-media-and-chat-life-on-whatsapp/"><u>Uniting Your Social Media and Chat Life on WhatsApp</u></a></li>
 </ul></div>
 

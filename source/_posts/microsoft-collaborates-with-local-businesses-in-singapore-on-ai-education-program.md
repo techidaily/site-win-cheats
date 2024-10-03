@@ -1,7 +1,7 @@
 ---
 title: Microsoft Collaborates with Local Businesses in Singapore on AI Education Program
-date: 2024-09-21T06:46:00.002Z
-updated: 2024-09-27T23:33:36.631Z
+date: 2024-10-02T01:14:51.539Z
+updated: 2024-10-03T04:15:58.210Z
 tags:
   - microsoft
 categories:
@@ -114,28 +114,27 @@ I fear, though, that for very many people, Excel is just a dull, efficient, util
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-crafting-revenue-in-20-second-chunks-youtube-shorts-magic/"><u>[New] In 2024, Crafting Revenue in 20-Second Chunks YouTube Shorts Magic</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-mastering-mac-snipers-top-5-recommended-tools/"><u>2024 Approved Mastering Mac Snipers Top 5 Recommended Tools</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-perfectiphone-podcast-guide-seamlessly-download-from-anywhere/"><u>2024 Approved PerfectiPhone Podcast Guide – Seamlessly Download From Anywhere</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-realme-12-proplus-5g-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Realme 12 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/easy-install-of-epson-wf-2750-printer-driver-download-now/"><u>Easy Install of Epson WF-2750 Printer Driver - Download Now!</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/guide-transforming-dvd-media-into-wmv-format-with-excellent-quality-on-pc/"><u>Guide: Transforming DVD Media Into WMV Format with Excellent Quality on PC</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-turning-off-two-factor-authentication-from-apple-iphone-8-plus-5-tips-you-must-know-by-drfone-ios/"><u>In 2024, Turning Off Two Factor Authentication From Apple iPhone 8 Plus? 5 Tips You Must Know</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/real-time-streaming-and-virtual-camera-app-master-the-art-of-online-broadcasts-with-manycam/"><u>Real-Time Streaming and Virtual Camera App: Master the Art of Online Broadcasts with ManyCam</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/resolving-convert2mp3-issues-a-comprehensive-guide/"><u>Resolving Convert2MP3 Issues - A Comprehensive Guide</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/save-and-play-codecademy-tutorials-anywhere-download-in-mp4-or-avi-format-for-pcs-and-macs/"><u>Save and Play Codecademy Tutorials Anywhere – Download in MP4 or AVI Format for PCs & Macs.</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/step-by-step-guide-converting-tunepk-videos-into-multiple-formats-like-mp4-avi-and-mov/"><u>Step-by-Step Guide: Converting Tune.PK Videos Into Multiple Formats Like MP4, AVI, and MOV</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/step-by-step-guide-downloading-acland-anatomy-educational-films-for-macos-and-windows-pcs/"><u>Step-by-Step Guide: Downloading Acland Anatomy Educational Films for macOS & Windows PCs</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/step-by-step-process-for-acquiring-syfy-series-episodes-online/"><u>Step-by-Step Process for Acquiring Syfy Series Episodes Online</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/the-ultimate-guide-to-extracting-and-saving-v-live-shows-with-transcripts-for-offline-viewing/"><u>The Ultimate Guide to Extracting and Saving V-Live Shows with Transcripts for Offline Viewing</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-years-finest-photo-framers-and-organizers-compilation-for-2024/"><u>The Year's Finest Photo Framers & Organizers Compilation for 2024</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/transferring-youtube-video-content-into-prores-files-on-macos-and-windows-tutorial/"><u>Transferring YouTube Video Content Into ProRes Files on macOS and Windows - Tutorial</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-dynamic-and-simple-building-a-subscriber-button-for-youtube-using-filmora/"><u>[New] 2024 Approved Dynamic and Simple Building a Subscriber Button for YouTube Using Filmora</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-transcending-platform-boundaries-from-tiktok-to-fb/"><u>[New] 2024 Approved Transcending Platform Boundaries From TikTok To FB</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-expert-dj-tools-for-windows-for-2024/"><u>[Updated] Expert DJ Tools for Windows for 2024</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/countdown-begins-how-microsoft-must-resolve-the-critical-issues-of-windows-11-in-under-a-year-insights-from-zdnet/"><u>Countdown Begins: How Microsoft Must Resolve the Critical Issues of Windows 11 in Under a Year | Insights From ZDNet</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/future-update-cost-microsoft-reveals-plans-to-charge-for-windows-11-upgrades-in-coming-years-estimated-prices-inside/"><u>Future Update Cost: Microsoft Reveals Plans to Charge for Windows 11 Upgrades in Coming Years - Estimated Prices Inside</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-samsung-galaxy-f15-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for Samsung Galaxy F15 5G | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-a-how-to-guide-on-bypassing-apple-iphone-11-icloud-activation-lock-by-drfone-ios/"><u>In 2024, A How-To Guide on Bypassing Apple iPhone 11 iCloud Activation Lock</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-redmi-k70-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi Redmi K70 Bootloader Easily</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/microsoft-jests-at-their-own-product-unwittingly-exposing-team-apps-challenges-tech-analysis-by-zdnet/"><u>Microsoft Jests at Their Own Product, Unwittingly Exposing Team App's Challenges | Tech Analysis by ZDNET</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/mobile-streams-on-youtube-less-than-1000-subs-no-problem/"><u>Mobile Streams on YouTube Less Than 1000 Subs? No Problem</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/the-next-leap-in-coding-simplification-integrating-generative-ai-into-the-evolution-of-low-to-no-code-technologies-zdnet-insights/"><u>The Next Leap in Coding Simplification: Integrating Generative AI Into the Evolution of Low to No-Code Technologies | ZDNET Insights</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/the-ultimate-guide-to-leveraging-copilot-pro-for-enhanced-word-processing-and-analysis/"><u>The Ultimate Guide to Leveraging Copilot Pro for Enhanced Word Processing and Analysis</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/top-tier-durable-tablet-a-windows-device-that-enhances-productivity-with-built-in-stylus-insights-from-a-zdnet-review/"><u>Top-Tier Durable Tablet: A Windows Device That Enhances Productivity with Built-In Stylus - Insights From a ZDNet Review</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-ps4-input-pc-and-mac-integration-guide/"><u>Unlocking PS4 Input: PC & Mac Integration Guide</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/why-upgrade-your-comprehensive-roadmap-to-joining-the-microsoft-windows-insider-community/"><u>Why Upgrade? Your Comprehensive Roadmap to Joining the Microsoft Windows Insider Community</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

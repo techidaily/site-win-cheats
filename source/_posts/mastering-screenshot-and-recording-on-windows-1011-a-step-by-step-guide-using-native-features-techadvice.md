@@ -1,7 +1,7 @@
 ---
 title: "Mastering Screenshot and Recording on Windows 10/11: A Step-by-Step Guide Using Native Features - TechAdvice"
-date: 2024-09-24T16:26:04.793Z
-updated: 2024-09-27T23:30:26.861Z
+date: 2024-09-29T06:44:09.479Z
+updated: 2024-10-03T04:59:53.908Z
 tags:
   - windows
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,16 +85,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -112,10 +106,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
-  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -187,20 +181,22 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-boost-views-with-your-own-youtube-thumbnail-design/"><u>[Updated] 2024 Approved Boost Views with Your Own YouTube Thumbnail Design</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-global-giga-viewers-worlds-favorite-youtube-stars/"><u>[Updated] 2024 Approved Global Giga-Viewers World's Favorite YouTube Stars</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-amplify-clarity-in-cloud-calls-zooming-out-distortion/"><u>2024 Approved Amplify Clarity in Cloud Calls Zooming Out Distortion</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/best-top-rated-substitutes-for-solarmovie-an-expert-guide/"><u>Best Top-Rated Substitutes for SolarMovie: An Expert Guide</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/convert-and-download-your-videos-in-multiple-formats-with-myvidster-mp4-mov-avi/"><u>Convert & Download Your Videos in Multiple Formats with MyVidster - MP4, MOV, AVI</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/convert-and-save-your-favorite-xhamster-videos-in-high-quality-mp4-format-with-these-simple-steps/"><u>Convert and Save Your Favorite xHamster Videos in High-Quality MP4 Format with These Simple Steps!</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/download-from-streamcloud-multiformat-movie-conversion-to-mp4-flv-mkv-get-your-favorites/"><u>Download From StreamCloud: Multiformat Movie Conversion to MP4, FLV, MKV – Get Your Favorites!</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/download-high-quality-video-from-pornoxo-in-mp4movavi-format-with-easy-converter/"><u>Download High-Quality Video From Pornoxo in MP4/MOV/AVI Format with Easy Converter</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/get-your-favorite-tamil-and-telugu-movies-for-free-stream-at-blu-ray-resolution/"><u>Get Your Favorite Tamil & Telugu Movies for Free – Stream at Blu-Ray Resolution!</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-iphone-8-plus-online-without-jailbreak-by-drfone-ios/"><u>How to Unlock SIM Card on iPhone 8 Plus online without jailbreak</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-battle-of-digital-universes-metaverse-vs-omniverse/"><u>In 2024, The Ultimate Battle of Digital Universes Metaverse Vs. Omniverse</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/second-chances-at-multilingualism/"><u>Second Chances at Multilingualism</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/step-by-step-guide-adding-bookmarks-in-your-flip-image-collection-using-flipbuilder/"><u>Step-by-Step Guide: Adding Bookmarks in Your Flip Image Collection Using FlipBuilder</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/the-ultimate-guide-to-fb-timing-and-free-tools/"><u>The Ultimate Guide to FB Timing & Free Tools</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/title-option-1/"><u>Title Option 1</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-top-5-timelapse-recording-software/"><u>[Updated] Top 5 Timelapse Recording Software</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/38533923-2024-approved-your-guide-to-exceptional-online-marketing-savor-our-selection-of-50-free-ads/"><u>2024 Approved Your Guide to Exceptional Online Marketing – Savor Our Selection of 50 FREE Ads!</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/boosting-surface-pro-capacity-without-breaking-the-bank-effortless-storage-expansion-in-just-7-steps-tech-savvy-wallet/"><u>Boosting Surface Pro Capacity Without Breaking the Bank: Effortless Storage Expansion in Just 7 Steps | Tech Savvy Wallet</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/compendium-of-video-camera-classifications/"><u>Compendium of Video Camera Classifications</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/from-idea-to-execution-creating-youtube-trailers-in-filmora-for-2024/"><u>From Idea to Execution Creating YouTube Trailers in Filmora for 2024</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/get-discounted-microsoft-office-2019-secure-your-essential-tools-for-just-25-on-windows-and-mac-detailed-purchase-guide-by-zdnet/"><u>Get Discounted Microsoft Office 2019: Secure Your Essential Tools for Just $25 on Windows & Mac – Detailed Purchase Guide by ZDNet</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/get-microsoft-office-2019-on-windowsmac-at-just-25-your-comprehensive-guide/"><u>Get Microsoft Office 2019 on Windows/Mac at Just $25: Your Comprehensive Guide</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-tecno-spark-10-4g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Tecno Spark 10 4G to iPhone | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mac-users-ultimate-tutorial-mastering-whatsapp-communication/"><u>Mac Users' Ultimate Tutorial: Mastering WhatsApp Communication</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/maximize-software-excellence-invest-in-microsofts-premier-development-experts/"><u>Maximize Software Excellence - Invest in Microsoft's Premier Development Experts</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/microsoft-transforms-windows-copilot-into-everyday-essential-app-discover-the-benefits/"><u>Microsoft Transforms Windows Copilot Into Everyday Essential App – Discover the Benefits!</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/microsoft-unveils-open-source-version-of-its-internal-generative-ai-red-team-framework-zdnet/"><u>Microsoft Unveils Open-Source Version of Its Internal Generative AI Red Team Framework - ZDNet</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-next-gen-audio-transcription-technologies-and-their-applications-for-2024/"><u>New Next-Gen Audio Transcription Technologies and Their Applications for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/symphony-in-softness-playback-reduction-guide-for-2024/"><u>Symphony in Softness Playback Reduction Guide for 2024</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/top-rated-durable-tablet-with-active-pen-and-windows-os-reviewed-by-tech-expert/"><u>Top-Rated Durable Tablet With Active Pen and Windows OS Reviewed by Tech Expert</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722993817324-unexpected-graphic-faults-in-valorant-heres-how-you-can-fix-them-swiftly/"><u>Unexpected Graphic Faults in Valorant? Here's How You Can Fix Them Swiftly</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/unveiling-educational-tools-pc-manufacturers-reveal-windows-11-se-powered-school-devices-zdnet-insights/"><u>Unveiling Educational Tools: PC Manufacturers Reveal Windows 11 SE-Powered School Devices - ZDNet Insights</u></a></li>
 </ul></div>
 
