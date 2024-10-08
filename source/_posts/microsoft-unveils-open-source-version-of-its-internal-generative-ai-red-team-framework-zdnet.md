@@ -1,7 +1,7 @@
 ---
 title: Microsoft Unveils Open-Source Version of Its Internal Generative AI Red Team Framework - ZDNet
-date: 2024-09-26T20:02:52.443Z
-updated: 2024-10-02T20:08:00.334Z
+date: 2024-10-05T17:05:56.140Z
+updated: 2024-10-08T17:50:12.664Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -71,10 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -96,6 +96,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -129,13 +136,6 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -147,10 +147,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,18 +196,17 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-use-jump-cuts-in-your-vlog/"><u>[New] 2024 Approved How To Use Jump Cuts in Your Vlog</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-edu-core-definitive-learning-channels-online-for-2024/"><u>[New] Edu-Core Definitive Learning Channels Online for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-premium-quality-computers-at-your-desk/"><u>[New] In 2024, Premium Quality Computers at Your Desk</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-unlocking-your-most-watched-fb-movies-for-2024/"><u>[New] Unlocking Your Most-Watched Fb Movies for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-tips-for-seamlessly-screening-instagram-stories/"><u>2024 Approved Tips for Seamlessly Screening Instagram Stories</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/creating-an-interactive-digital-book-converting-multiple-pdfs-into-one-e-book-with-flipbuilder/"><u>Creating an Interactive Digital Book: Converting Multiple PDFs Into One E-Book with FlipBuilder</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/discovering-various-forms-how-many-book-options-does-flipoffice-offer-for-authors/"><u>Discovering Various Forms: How Many Book Options Does FlipOffice Offer for Authors?</u></a></li>
-<li><a href="https://extra-information.techidaily.com/dominate-any-space-the-ultimate-metaverse-device-guide/"><u>Dominate Any Space The Ultimate Metaverse Device Guide</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/easy-steps-to-organize-your-digital-books-using-flipbuilders-bookmarking-feature/"><u>Easy Steps to Organize Your Digital Books Using FlipBuilder's Bookmarking Feature</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/enhance-your-digital-pamphlets-with-unique-typography-using-flipbuilder/"><u>Enhance Your Digital Pamphlets with Unique Typography Using FlipBuilder</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/enhancing-image-performance-for-your-flip-gallery-on-flipbuilder-a-comprehensive-tutorial/"><u>Enhancing Image Performance for Your Flip Gallery on FlipBuilder – A Comprehensive Tutorial</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/free-online-chm-to-pdf-converter-safely-transform-microsoft-help-guides-into-pdf-ebooks-with-flipbuilder/"><u>Free Online CHM-to-PDF Converter: Safely Transform Microsoft Help Guides Into PDF Ebooks with FlipBuilder</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/reflect-your-vision-affordable-personalization-of-professional-logo-designs-free/"><u>Reflect Your Vision Affordable Personalization of Professional Logo Designs (Free)</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-maximize-your-iphone-x-10-proven-strategies/"><u>[New] In 2024, Maximize Your iPhone X 10 Proven Strategies</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-enhancing-video-production-for-instagram-reels/"><u>[Updated] In 2024, Enhancing Video Production for Instagram Reels</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-a-complete-rundown-reels-vs-stories-on-instagram/"><u>2024 Approved A Complete Rundown Reels vs Stories on Instagram</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/download-from-streamcloud-multiformat-movie-conversion-to-mp4-flv-mkv-get-your-favorites/"><u>Download From StreamCloud: Multiformat Movie Conversion to MP4, FLV, MKV – Get Your Favorites!</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/download-high-quality-video-from-pornoxo-in-mp4movavi-format-with-easy-converter/"><u>Download High-Quality Video From Pornoxo in MP4/MOV/AVI Format with Easy Converter</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/download-rtmp-videos-easily-ultimate-guide-to-using-an-rtmp-downloader-on-pc-and-mac/"><u>Download RTMP Videos Easily: Ultimate Guide to Using an RTMP Downloader on PC and MAC</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/easy-guide-to-converting-svtplayse-content-into-common-video-formats/"><u>Easy Guide to Converting SVTPlay.SE Content Into Common Video Formats</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/effortlessly-download-your-favorite-videos-from-ellentv-as-high-quality-files-mp4-wmv-avi-flv-mov-using-our-exclusive-software/"><u>Effortlessly Download Your Favorite Videos From Ellentv as High-Quality Files (MP4, WMV, AVI, FLV, MOV) Using Our Exclusive Software</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expert-advice-on-how-to-stop-unwanted-subwoofer-noise-and-improve-sound-quality/"><u>Expert Advice on How to Stop Unwanted Subwoofer Noise and Improve Sound Quality</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-elite-virtual-reality-setups-for-uavs/"><u>In 2024, Elite Virtual Reality Setups for UAVs</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-itel-p55plus-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Itel P55+ Is Unlocked</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-how-to-optimize-your-next-4k-camera-lens-purchase/"><u>In 2024, How to Optimize Your Next 4K Camera Lens Purchase</u></a></li>
 </ul></div>
 

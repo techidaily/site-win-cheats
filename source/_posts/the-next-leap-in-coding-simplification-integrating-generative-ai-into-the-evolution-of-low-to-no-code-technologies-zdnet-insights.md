@@ -1,7 +1,7 @@
 ---
 title: "The Next Leap in Coding Simplification: Integrating Generative AI Into the Evolution of Low to No-Code Technologies | ZDNET Insights"
-date: 2024-09-25T16:37:06.244Z
-updated: 2024-10-02T20:22:51.170Z
+date: 2024-10-04T18:00:37.904Z
+updated: 2024-10-08T16:50:50.028Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -71,10 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -129,13 +129,6 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -143,15 +136,22 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,17 +196,22 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-fusionflicker-compiling-media-on-sierra-screens/"><u>[New] 2024 Approved FusionFlicker Compiling Media on Sierra Screens</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-cutting-edge-creatives-choice-the-ultimate-selection-of-10-dynamic-background-alternators-for-2024/"><u>[Updated] Cutting-Edge Creatives Choice The Ultimate Selection of 10 Dynamic Background Alternators for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-harnessing-googles-capability-for-exact-speech-recognition/"><u>[Updated] In 2024, Harnessing Google’s Capability for Exact Speech Recognition</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-boost-your-imagery-title-placement-techniques-on-video-clips-with-photos/"><u>2024 Approved Boost Your Imagery Title Placement Techniques on Video Clips with Photos</u></a></li>
-<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-vivo-v27-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Vivo V27 Pro | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-realme-12plus-5g-drfone-by-drfone-android/"><u>How to Screen Mirroring Realme 12+ 5G? | Dr.fone</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-optimized-obs-operations-on-android-platforms/"><u>In 2024, Optimized OBS Operations on Android Platforms</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/innovative-methods-for-capturing-yourself-on-camera-the-ultimate-guide-to-self-filming/"><u>Innovative Methods for Capturing Yourself on Camera: The Ultimate Guide to Self-Filming</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/leading-digital-facial-exchange-software-effortlessly-edit-your-photos-online/"><u>Leading Digital Facial Exchange Software: Effortlessly Edit Your Photos Online</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/step-by-step-guide-moving-your-iphone-contacts-to-a-samsung-galaxy-s5/"><u>Step-by-Step Guide: Moving Your iPhone Contacts to a Samsung Galaxy S5</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/the-ultimate-guide-6-best-apps-for-seamless-subtitle-integration-on-instagram-reels/"><u>The Ultimate Guide: 6 Best Apps for Seamless Subtitle Integration on Instagram Reels</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/top-strategies-for-crafting-engaging-gameplay-footage-plus-insider-advice-on-boosting-your-viewership-in-gaming-videos/"><u>Top Strategies for Crafting Engaging Gameplay Footage + Insider Advice on Boosting Your Viewership in Gaming Videos</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-ultimate-guide-to-calculate-your-youtube-views-and-money/"><u>[New] In 2024, Ultimate Guide to Calculate Your YouTube Views and Money</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-decreasing-complications-with-el-capitan-on-macos/"><u>[Updated] In 2024, Decreasing Complications with El Capitan on macOS</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-oneplus-nord-n30-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track OnePlus Nord N30 5G without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-honor-magic-vs-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Honor Magic Vs 2 | Dr.fone</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/conversion-libre-dun-fichier-video-mpeg-vers-ogg-en-ligne-avec-movavi/"><u>Conversion Libre D'un Fichier Vidéo MPEG Vers Ogg en Ligne Avec Movavi</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/discover-the-best-3d-animation-suites-of-202n-a-comprehensive-guide-to-the-leading-animating-tools-on-the-market/"><u>Discover the Best 3D Animation Suites of 202N: A Comprehensive Guide to the Leading Animating Tools on the Market</u></a></li>
+<li><a href="https://facebook.techidaily.com/facebooks-swipe-and-tap-worth-investing-in/"><u>Facebook's Swipe and Tap: Worth Investing In?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-oneplus-open-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On OnePlus Open | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-remove-your-apple-id-permanently-from-apple-iphone-6s-by-drfone-ios/"><u>In 2024, How To Delete iCloud Account Remove Your Apple ID Permanently From Apple iPhone 6s</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-text-messages-from-motorola-edge-40-pro-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Text Messages from Motorola Edge 40 Pro to New Phone | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-streamline-your-content-with-these-4-instagram-looping-hacks/"><u>In 2024, Streamline Your Content with These 4 Instagram Looping Hacks</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/os-melhores-programas-de-edicao-de-videos-de-alta-definicao-facil-navegacao-por-editores-top-em-4k-para-o-ano-que-virao/"><u>Os Melhores Programas De Edição De Vídeos De Alta Definição - Fácil Navegação Por Editores Top Em 4K Para O Ano Que Virão</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/top-15-video-software-options-featuring-facecam-functionality-a-comprehensive-review-of-the-best-recording-tools/"><u>Top 15 Video Software Options Featuring Facecam Functionality: A Comprehensive Review of the Best Recording Tools</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/top-5-dvd-to-mp4-converter-programs-for-pc-and-web-the-best-options-available/"><u>Top 5 DVD to MP4 Converter Programs for PC and Web: The Best Options Available</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/transforma-facilmente-archivos-mkv-en-avi-tecnica-expedita-y-sencilla-con-movavi/"><u>Transforma Fácilmente Archivos MKV en AVI: Técnica Expedita Y Sencilla Con Movavi</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/turn-your-ts-audio-clips-into-high-quality-wav-no-cost/"><u>Turn Your TS Audio Clips Into High-Quality WAV - No Cost!</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/mp4-10-top-5/"><u>모두에게 영감을 주는 유튜브 MP4 제작을 위한 신제품인 10가지 추출기 - TOP 5</u></a></li>
 </ul></div>
 

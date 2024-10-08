@@ -1,7 +1,7 @@
 ---
 title: "Don't Miss the Deadline: Protect Your PC by Switching From Windows 11 21H2 and Nh2 Before It's Too Late | Tech News"
-date: 2024-10-01T10:43:10.830Z
-updated: 2024-10-02T17:13:45.325Z
+date: 2024-10-04T16:55:23.043Z
+updated: 2024-10-08T17:33:13.715Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -89,6 +89,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -123,10 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -136,22 +143,15 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,16 +196,18 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/-visual-voyage-through-youtubes-2017-data-deluge/"><u>[New] A Visual Voyage Through Youtube's 2017 Data Deluge</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/1-customizing-your-flipbook-how-to-set-specific-sizes-and-colors-with-flipbuilder/"><u>1) Customizing Your FlipBook: How to Set Specific Sizes & Colors with FlipBuilder</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-discovering-the-magic-filmora-editors-top-10-highlights/"><u>2024 Approved Discovering the Magic Filmora Editor's Top 10 Highlights</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/can-you-design-an-original-icon-with-flipbuilder-online-tool/"><u>Can You Design an Original Icon with FlipBuilder Online Tool?</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/can-you-edit-flipbooks-page-background-using-flipbuildercom-features/"><u>Can You Edit Flipbook's Page Background Using FlipBuilder.com Features?</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/convert-pdfs-to-html-gratis-with-flipbuilder-simple-fast-and-no-cost/"><u>Convert PDFs to HTML Gratis with FlipBuilder – Simple, Fast & No Cost</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/create-a-personalized-photo-book-at-home-with-ease-learn-diy-techniques-via-flipbuilder/"><u>Create a Personalized Photo Book at Home with Ease - Learn DIY Techniques via FlipBuilder</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-install-or-update-your-microsoft-bluetooth-drivers-for-windows-11-10-8-and-7/"><u>How to Install or Update Your Microsoft Bluetooth Drivers for Windows 11, 10, 8 & 7</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-samsung-galaxy-a05s-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Samsung Galaxy A05s Phone Hassle-Free</u></a></li>
-<li><a href="https://extra-information.techidaily.com/soundscapes-for-your-status-story/"><u>Soundscapes for Your Status Story</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/unveiling-the-secrets-to-youtube-comment-insight/"><u>Unveiling the Secrets to YouTube Comment Insight</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-deciphering-if-reviews-on-products-are-paid-for-2024/"><u>[New] Deciphering if Reviews on Products Are Paid for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-unlock-your-content-potential-best-ideas-for-youtube-themes/"><u>[New] Unlock Your Content Potential Best Ideas for YouTube Themes</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-the-ultimate-guide-to-using-sticker-queries-on-instagram/"><u>[Updated] 2024 Approved The Ultimate Guide to Using Sticker Queries on Instagram</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-from-tweets-to-tomes-the-full-year-in-video/"><u>2024 Approved From Tweets to Tomes The Full Year in Video</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/best-top-rated-substitutes-for-solarmovie-an-expert-guide/"><u>Best Top-Rated Substitutes for SolarMovie: An Expert Guide</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/convert-and-download-your-videos-in-multiple-formats-with-myvidster-mp4-mov-avi/"><u>Convert & Download Your Videos in Multiple Formats with MyVidster - MP4, MOV, AVI</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/convert-and-save-your-favorite-xhamster-videos-in-high-quality-mp4-format-with-these-simple-steps/"><u>Convert and Save Your Favorite xHamster Videos in High-Quality MP4 Format with These Simple Steps!</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-motorola-edge-40-neo-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Motorola Edge 40 Neo Device</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/solving-the-mystery-of-nonfunctioning-hyperlinks-in-html-based-ebooks-created-with-flipbuilder/"><u>Solving the Mystery of Nonfunctioning Hyperlinks in HTML-Based eBooks Created with FlipBuilder</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/step-by-step-guide-adding-bookmarks-in-your-flip-image-collection-using-flipbuilder/"><u>Step-by-Step Guide: Adding Bookmarks in Your Flip Image Collection Using FlipBuilder</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-alluring-lenovo-ideapad-320-showcase-exceptional-mobility-meets-lenovos-signature-keyboard-design-insightful-review/"><u>The Alluring Lenovo IdeaPad 320 Showcase: Exceptional Mobility Meets Lenovo's Signature Keyboard Design – Insightful Review</u></a></li>
+<li><a href="https://win-dash.techidaily.com/the-bridges-of-madison-county/"><u>The Bridges of Madison County</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/title-option-1/"><u>Title Option 1</u></a></li>
 </ul></div>
 

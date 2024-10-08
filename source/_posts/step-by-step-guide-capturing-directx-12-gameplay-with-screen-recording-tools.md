@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Capturing DirectX 12 Gameplay with Screen Recording Tools"
-date: 2024-09-30T01:48:58.345Z
-updated: 2024-10-03T03:03:34.585Z
+date: 2024-10-05T17:02:15.498Z
+updated: 2024-10-08T16:36:24.831Z
 tags:
   - product
 categories:
@@ -67,10 +67,10 @@ Action Tutorials
 ![Mirillis Action! - DirectX 12 game recording mode](https://mirillis.com/res/old/gfx/tutorials/basics/mirillis_action_games_applications_recording_mode.jpg "Select DirectX 12 game recording mode") 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Now, run your DirectX 12 game. Action! HUD appears in the top right corner of your DirectX 12 game window showing current game framerate in blue color. This means that Action! connected to your DirectX 12 game successfully and is ready to start game recording. 
@@ -78,10 +78,10 @@ Action Tutorials
 ![Mirillis Action! - Ready to start DirectX 12 video recording](https://mirillis.com/res/old/gfx/tutorials/games/mirillis_action_HUD_directx12_game_normal_status.jpg "Action! HUD shows it is ready to start DirectX12 recording") 
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
-  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  DirectX 12 game recording
@@ -96,18 +96,18 @@ Action Tutorials
 
 ![Mirillis Action! - DirectX 12 game recording finished](https://mirillis.com/res/old/gfx/tutorials/games/mirillis_action_HUD_directx12_game_normal_status.jpg "Action! HUD - recording is finished") 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Pause DirectX 12 gameplay recording
 
  Use   **Shift+F9** hotkey during your DirectX 12 game recording to pause recording. Action! HUD will display pause icon. 
 
 ![Mirillis Action! - paused game recording](https://mirillis.com/res/old/gfx/tutorials/games/mirillis_action_HUD_directx12_game_recording_paused_status.jpg "Action! HUD - recording is paused") 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  To resume your paused DirectX 12 game recording use   **Shift+F9** hotkey again. 
 
@@ -117,15 +117,22 @@ Action Tutorials
 
 ![Mirillis Action! - DirectX 12 game recording](https://mirillis.com/res/old/gfx/tutorials/games/mirillis_action_directx12_game_recording_thumbnail_dx12.jpg "Action! recordings manager") 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Double click opens Action! video player dedicated for fast video recordings playback. 
 
 ![Mirillis Action! - gameplay recording playback with Action! player](https://mirillis.com/res/old/gfx/tutorials/games/mirillis_action_directx12_game_recording_playback_dx12.jpg "Action! player - recording playback") 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Action! HUD on DirectX 12 games recordings
@@ -141,10 +148,10 @@ Action Tutorials
 ![Mirillis Action! - Uploading DirectX 12 game recording to YouTube](https://mirillis.com/res/old/gfx/tutorials/export/mirillis_action_export_selecting_youtube_hd_profile.jpg "Upload recording to YouTube") 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Add webcam to your DirectX 12 games recordings
@@ -155,13 +162,6 @@ Action Tutorials
 
 ![Mirillis Action! - Add webcam to DirectX 12 game recordings](https://mirillis.com/res/old/gfx/tutorials/games/mirillis_action_directx12_game_recording_webcam_dx12.jpg "Action! - recording with webcam") 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Add custom logos to DirectX 12 gameplay recordings
 
  With Action! you can add a logo or other graphics to your DirectX 12 gameplay recordings. To configure overlay graphics please open Action! Video capture tab, enable **"Overlay graphics"** and select your graphic input file. Set graphics position on the video, run your DirectX 12 game and start recording. 
@@ -169,10 +169,10 @@ Action Tutorials
 ![Mirillis Action! - Add logo to DirectX 12 game recordings](https://mirillis.com/res/old/gfx/tutorials/games/mirillis_action_games_overlay_graphics_settings.jpg "Action! - overlay graphics settings") 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
-  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## DirectX 12 games recording troubleshooting
@@ -198,14 +198,16 @@ Action Tutorials
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/n-2024-elevate-video-production-the-audio-edition-on-youtube/"><u>[New] In 2024, Elevate Video Production The Audio Edition on YouTube</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-tranquil-escapes-top-12-pc-titles/"><u>[Updated] In 2024, Tranquil Escapes Top 12 PC Titles</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/1-convert-nponl-media-files-download-mp4-wmv-mov-avi-flv-formats-for-pc-and-mac/"><u>1. Convert npo.nl Media Files: Download MP4, WMV, MOV, AVI, FLV Formats for PC & Mac</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discover-how-to-use-chatgpt-on-your-iphone-or-ipad-available-now/"><u>Discover How to Use ChatGPT on Your iPhone or iPad – Available Now</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/explore-the-best-ways-to-record-sound-in-your-latest-windows-11-pc/"><u>Explore the Best Ways to Record Sound in Your Latest Windows 11 PC</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/navigate-with-innovation-google-maps-expansion-into-advanced-ar-technology/"><u>Navigate with Innovation: Google Maps' Expansion Into Advanced AR Technology</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/transferring-youtube-video-content-into-prores-files-on-macos-and-windows-tutorial/"><u>Transferring YouTube Video Content Into ProRes Files on macOS and Windows - Tutorial</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/ultimate-guide-converting-and-downloading-your-favorite-martial-arts-films-in-multiple-formats/"><u>Ultimate Guide: Converting and Downloading Your Favorite Martial Arts Films in Multiple Formats</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/ultimate-tutorial-on-securely-downloading-nbc-content-for-personal-collection/"><u>Ultimate Tutorial on Securely Downloading NBC Content for Personal Collection</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-aerial-units-phylogeny/"><u>[New] Aerial Units' Phylogeny</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-digital-artisans-exclusive-summit/"><u>[New] In 2024, Digital Artisans' Exclusive Summit</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-rethinking-streaming-new-platforms-challenge-obs/"><u>[Updated] In 2024, Rethinking Streaming New Platforms Challenge OBS</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-voiceover-vitality-energizing-your-powerpoint-presentations/"><u>[Updated] Voiceover Vitality Energizing Your PowerPoint Presentations</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/boosting-surface-pro-capacity-without-breaking-the-bank-effortless-storage-expansion-in-just-7-steps-tech-savvy-wallet/"><u>Boosting Surface Pro Capacity Without Breaking the Bank: Effortless Storage Expansion in Just 7 Steps | Tech Savvy Wallet</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/get-discounted-microsoft-office-2019-secure-your-essential-tools-for-just-25-on-windows-and-mac-detailed-purchase-guide-by-zdnet/"><u>Get Discounted Microsoft Office 2019: Secure Your Essential Tools for Just $25 on Windows & Mac – Detailed Purchase Guide by ZDNet</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-motorola-edge-40-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Motorola Edge 40 | Dr.fone</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/microsoft-transforms-windows-copilot-into-everyday-essential-app-discover-the-benefits/"><u>Microsoft Transforms Windows Copilot Into Everyday Essential App – Discover the Benefits!</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/microsoft-unveils-open-source-version-of-its-internal-generative-ai-red-team-framework-zdnet/"><u>Microsoft Unveils Open-Source Version of Its Internal Generative AI Red Team Framework - ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/novice-friendly-roadmap-to-understanding-and-setting-up-your-home-stereo-system/"><u>Novice-Friendly Roadmap to Understanding and Setting Up Your Home Stereo System</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/unveiling-educational-tools-pc-manufacturers-reveal-windows-11-se-powered-school-devices-zdnet-insights/"><u>Unveiling Educational Tools: PC Manufacturers Reveal Windows 11 SE-Powered School Devices - ZDNet Insights</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "ZDNet Reveals: Free Artificial Intelligence Companion by Microsoft and Khan Academy Exclusively for Teachers in the USA"
-date: 2024-09-25T22:33:44.214Z
-updated: 2024-10-03T05:42:05.896Z
+date: 2024-10-06T17:51:19.177Z
+updated: 2024-10-08T16:40:13.130Z
 tags:
   - microsoft
 categories:
@@ -114,29 +114,26 @@ I fear, though, that for very many people, Excel is just a dull, efficient, util
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/updated-navigating-your-sierra-cloud-storage-effortlessly/"><u>[Updated] Navigating Your Sierra Cloud Storage Effortlessly</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-precision-in-production-5-advanced-methods-for-trimming-on-vimeo-platform/"><u>[Updated] Precision in Production 5 Advanced Methods for Trimming on Vimeo Platform</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/boosting-surface-pro-capacity-without-breaking-the-bank-effortless-storage-expansion-in-just-7-steps-tech-savvy-wallet/"><u>Boosting Surface Pro Capacity Without Breaking the Bank: Effortless Storage Expansion in Just 7 Steps | Tech Savvy Wallet</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/experience-the-ultimate-robust-microsoft-tablet-expert-zdnet-analysis-of-its-unbeatable-stylus-integration-and-reliability-features/"><u>Experience the Ultimate Robust Microsoft Tablet: Expert ZDNET Analysis of Its Unbeatable Stylus Integration and Reliability Features</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/get-microsoft-office-2019-on-windowsmac-at-just-25-your-comprehensive-guide/"><u>Get Microsoft Office 2019 on Windows/Mac at Just $25: Your Comprehensive Guide</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-change-samsung-galaxy-m54-5g-lock-screen-password-by-drfone-android/"><u>How To Change Samsung Galaxy M54 5G Lock Screen Password?</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-fix-a-crashing-problem-in-frostpunk-a-comprehensive-guide/"><u>How to Fix a Crashing Problem in Frostpunk: A Comprehensive Guide</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-itel-p40-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Itel P40 | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Motorola Moto G73 5G | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-vivo-y78plus-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Vivo Y78+ | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-thaw-out-with-five-inviting-winterscapes-for-video-filming/"><u>In 2024, Thaw Out with Five Inviting Winterscapes for Video Filming</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-metaverse-and-multiplemetaverse-explained-key-contrasts-highlighted/"><u>In 2024, The Metaverse & MultipleMetaverse Explained Key Contrasts Highlighted</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/maximize-software-excellence-invest-in-microsofts-premier-development-experts/"><u>Maximize Software Excellence - Invest in Microsoft's Premier Development Experts</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/microsoft-collaborates-with-local-businesses-in-singapore-on-ai-education-program/"><u>Microsoft Collaborates with Local Businesses in Singapore on AI Education Program</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/microsoft-transforms-windows-copilot-into-everyday-essential-app-discover-the-benefits/"><u>Microsoft Transforms Windows Copilot Into Everyday Essential App – Discover the Benefits!</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/the-game-changing-arrival-of-new-apps-for-windows-on-arm-what-makes-it-so-significant/"><u>The Game-Changing Arrival of New Apps for Windows on ARM: What Makes It So Significant?</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/unveiling-educational-tools-pc-manufacturers-reveal-windows-11-se-powered-school-devices-zdnet-insights/"><u>Unveiling Educational Tools: PC Manufacturers Reveal Windows 11 SE-Powered School Devices - ZDNet Insights</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-a-stepwise-journey-through-the-world-of-professional-srt-creation/"><u>[New] 2024 Approved A Stepwise Journey Through the World of Professional SRT Creation</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-decoding-the-mystery-of-facebook-data-a-novices-handbook/"><u>[New] In 2024, Decoding the Mystery of Facebook Data A Novice’s Handbook</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-perfect-illumination-the-ultimate-guide-to-hdr-photography-for-2024/"><u>[New] Perfect Illumination The Ultimate Guide to HDR Photography for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-fixes-for-pdhdll-errors-and-disappearances/"><u>Comprehensive Fixes for Pdh.dll Errors and Disappearances</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-vivo-x100-pro-drfone-by-drfone-android/"><u>How to Screen Mirroring Vivo X100 Pro? | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-nubia-red-magic-9-pro-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Nubia Red Magic 9 Pro? | Dr.fone</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/mastering-screenshot-and-recording-on-windows-1011-a-step-by-step-guide-using-native-features-techadvice/"><u>Mastering Screenshot and Recording on Windows 10/11: A Step-by-Step Guide Using Native Features - TechAdvice</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/mastering-the-windows-11-transition-essential-tips-to-minimize-irritations-as-recommended-by-zdnet/"><u>Mastering the Windows 11 Transition: Essential Tips to Minimize Irritations, as Recommended by ZDNet</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/microsoft-faces-tight-timeframe-for-fixing-major-issues-in-windows-11-less-than-a-year-remaining-digital-frontier-news/"><u>Microsoft Faces Tight Timeframe for Fixing Major Issues in Windows 11 - Less Than a Year Remaining | Digital Frontier News</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/pc-gaming-community-preference-windows-11-surpasses-windows-10-according-to-recent-rankings/"><u>PC Gaming Community Preference: Windows 11 Surpasses Windows 10 According to Recent Rankings</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/switching-from-ie-to-microsoft-edge-a-simple-guide-zdnet/"><u>Switching From IE to Microsoft Edge: A Simple Guide - ZDNet</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ten-practical-ways-to-prevent-vr-sickness-for-2024/"><u>Ten Practical Ways to Prevent VR Sickness for 2024</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/the-downsides-of-debloating-windows-why-it-can-damage-your-system-and-better-solutions/"><u>The Downsides of Debloating Windows - Why It Can Damage Your System & Better Solutions</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/the-ultimate-valheim-planting-manual-for-2024/"><u>The Ultimate Valheim Planting Manual for 2024</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

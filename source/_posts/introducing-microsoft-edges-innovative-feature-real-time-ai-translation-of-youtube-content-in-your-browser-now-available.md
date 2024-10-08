@@ -1,7 +1,7 @@
 ---
 title: "Introducing Microsoft Edge's Innovative Feature: Real-Time AI Translation of YouTube Content in Your Browser, Now Available!"
-date: 2024-09-29T19:07:46.292Z
-updated: 2024-10-03T05:19:54.399Z
+date: 2024-10-07T16:30:03.808Z
+updated: 2024-10-08T17:26:44.664Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,19 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -64,10 +77,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -91,10 +104,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -129,29 +142,22 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,19 +202,19 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-explore-the-power-of-easy-video-editing-in-photos-and-windows-11/"><u>[New] Explore the Power of Easy Video Editing in Photos & Windows 11</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-exploring-advanced-techniques-making-a-difference-with-your-slow-motion-images-on-instagram/"><u>[New] In 2024, Exploring Advanced Techniques Making a Difference with Your Slow Motion Images on Instagram</u></a></li>
-<li><a href="https://techtrends.techidaily.com/solved-logitech-k520-keyboard-not-working-quickly-and-easily/"><u>[SOLVED] Logitech K520 Keyboard Not Working | Quickly & Easily</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-insightful-analysis-of-magix-media-plug-ins/"><u>[Updated] Insightful Analysis of MAGIX Media Plug-Ins</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-changing-the-game-unveiling-top-6-in-nft-arts-and-culture/"><u>2024 Approved Changing the Game Unveiling Top 6 in NFT Arts & Culture</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/como-cambiar-de-rmvb-a-avi-gratis-online-con-herramientas-faciles-de-usar-resumen-eficaz-del-proceso-por-movavi/"><u>Cómo Cambiar De RMVB a AVI Gratis Online Con Herramientas Fáciles De Usar: Resumen Eficaz Del Proceso Por Movavi</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/effortlessly-transform-ape-audio-into-wma-use-movavis-no-cost-web-service/"><u>Effortlessly Transform APE Audio Into WMA - Use Movavi's No-Cost Web Service</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/excel-2021-stuck-at-opening-file-0-resolve-performance-issues-stellar-by-stellar-guide/"><u>Excel 2021 Stuck at Opening File 0 - Resolve Performance Issues | Stellar</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/free-online-image-converter-bmp-to-gif-with-movavi/"><u>Free Online Image Converter: BMP to GIF with Movavi</u></a></li>
-<li><a href="https://media-tips.techidaily.com/how-to-guide-setting-up-miracast-technology-on-your-windows-pc-android-phone-iphone-and-ipad/"><u>How-To Guide: Setting Up Miracast Technology on Your Windows PC, Android Phone, iPhone & iPad</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/is-optimal-hdr-with-aurora-worth-it-in-2024/"><u>Is Optimal HDR with Aurora Worth It, In 2024</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/m4r-a-ogg-sin-coste-el-proceso-paso-a-paso-con-movavi-para-la-transformacion-en-linea-gratis/"><u>M4R a OGG Sin Coste: El Proceso Paso a Paso Con Movavi Para La Transformación en Línea Gratis</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/microsoft-windows-n-7-gelistirecegiz-yeni-bir-ucretsiz-prog-duzenleme-arayislamak-turkcesi-2024/"><u>Microsoft Windows N 7 Geliştireceğiz | Yeni Bir Ücretsiz Prog. Düzenleme Arayışlamak Türkçesi, 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/showdown-analyzing-the-differences-between-ring-and-nest-doorbells/"><u>Showdown: Analyzing the Differences Between Ring & Nest Doorbells</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-unraveling-youtubes-monetization-policy-overhaul/"><u>[New] 2024 Approved Unraveling YouTube’s Monetization Policy Overhaul</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-pro-techniques-for-professional-iphone-shots/"><u>[New] Pro Techniques for Professional Iphone Shots</u></a></li>
+<li><a href="https://driver-error.techidaily.com/quick-fix-unresponsive-rtx-game-heres-how-we-fixed-it/"><u>[Quick Fix] Unresponsive RTX Game? Here’s How We Fixed It</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-peering-through-the-printer-one-persons-3dr-story/"><u>[Updated] In 2024, Peering Through the Printer One Person’s '3DR' Story</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-step-by-step-guide-to-brighter-youtube-video-editing/"><u>2024 Approved Step-by-Step Guide to Brighter YouTube Video Editing</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ing-your-youtube-presence-key-tips-for-popularity-for-2024/"><u>Boosting Your YouTube Presence Key Tips for Popularity for 2024</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/create-a-personalized-photo-book-at-home-with-ease-learn-diy-techniques-via-flipbuilder/"><u>Create a Personalized Photo Book at Home with Ease - Learn DIY Techniques via FlipBuilder</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/creating-an-interactive-digital-book-converting-multiple-pdfs-into-one-e-book-with-flipbuilder/"><u>Creating an Interactive Digital Book: Converting Multiple PDFs Into One E-Book with FlipBuilder</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/discovering-various-forms-how-many-book-options-does-flipoffice-offer-for-authors/"><u>Discovering Various Forms: How Many Book Options Does FlipOffice Offer for Authors?</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/easy-steps-to-organize-your-digital-books-using-flipbuilders-bookmarking-feature/"><u>Easy Steps to Organize Your Digital Books Using FlipBuilder's Bookmarking Feature</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/enhance-your-digital-pamphlets-with-unique-typography-using-flipbuilder/"><u>Enhance Your Digital Pamphlets with Unique Typography Using FlipBuilder</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/enhancing-image-performance-for-your-flip-gallery-on-flipbuilder-a-comprehensive-tutorial/"><u>Enhancing Image Performance for Your Flip Gallery on FlipBuilder – A Comprehensive Tutorial</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixes-and-solutions-realtek-hd-sound-driver-error-why-it-wont-launch/"><u>Fixes & Solutions: RealTek HD Sound Driver Error - Why It Won't Launch</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/story-2-the-risc-revelation/"><u>Story 2: The RISC Revelation</u></a></li>
 </ul></div>
 

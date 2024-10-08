@@ -1,7 +1,7 @@
 ---
 title: Microsoft Jests at Their Own Product, Unwittingly Exposing Team App's Challenges | Tech Analysis by ZDNET
-date: 2024-09-25T20:59:53.612Z
-updated: 2024-10-02T21:49:42.989Z
+date: 2024-10-06T16:51:27.758Z
+updated: 2024-10-08T17:48:10.262Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -62,13 +69,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -91,10 +91,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -130,10 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -143,10 +143,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -196,16 +196,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-iphones-guide-creating-your-first-music-video-for-2024/"><u>[New] IPhone's Guide Creating Your First Music Video for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-switch-onoff-youtubes-pip-mode-on-your-iphone/"><u>[Updated] Switch On/Off YouTube's PIP Mode on Your iPhone</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-easyvidwin11-the-simplest-way-to-record-your-pc-screen/"><u>2024 Approved EasyVidWin11 The Simplest Way to Record Your PC Screen</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-top-webinar-designers-toolset/"><u>2024 Approved Top Webinar Designer's Toolset</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/amazing-methods-for-broadcasting-iphone-screen-live-to-your-pc/"><u>Amazing Methods for Broadcasting iPhone Screen Live to Your PC</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/imessage-essentials-the-ultimate-how-to-guide-for-texting-on-an-ipad/"><u>IMessage Essentials: The Ultimate How-To Guide for Texting on an iPad</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-web-archival-a-step-by-step-guide-to-using-the-wayback-machine/"><u>Mastering Web Archival: A Step-by-Step Guide to Using the Wayback Machine</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/mirroring-mobile-magic-transferring-your-android-data-to-a-chromebook-effortlessly/"><u>Mirroring Mobile Magic: Transferring Your Android Data to a Chromebook Effortlessly</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-lenovo-fn-key-issues-a-step-by-step-guide-for-immediate-results/"><u>Overcoming Lenovo Fn Key Issues: A Step-by-Step Guide for Immediate Results</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/reactivating-your-locked-iphone-without-using-itunes-a-complete-guide/"><u>Reactivating Your Locked iPhone Without Using iTunes - A Complete Guide</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/story-3-confusing-symptoms-with-common-cold-or-flu/"><u>Story 3: Confusing Symptoms with Common Cold or Flu</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-rapid-strategies-for-securing-identity-in-image-editing/"><u>[New] Rapid Strategies for Securing Identity in Image Editing</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/pngtiff/"><u>「オンラインで簡単！無料PNG・TIFF形式変換 - モバビ」</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-drone-visual-spectrum-20-first-time-free-luts-included/"><u>2024 Approved Drone Visual Spectrum - 20 First-Time FREE LUTS Included</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-enhance-efficiency-engage-creativity-with-mematic/"><u>2024 Approved Enhance Efficiency, Engage Creativity with Mematic</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/1726220173637-mov-3gpp-movavi/"><u>自由下載 MOV 格式專用 3GPP翻譯器 - Movavi 轉換器</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/balancing-acts-in-youtube-music-mixes/"><u>Balancing Acts in YouTube Music Mixes</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/conversione-mov-a-mxf-liberamente-online-tramite-servizio-gratuito-di-movavi/"><u>Conversione MOV a MXF Liberamente Online Tramite Servizio Gratuito Di Movavi</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/first-timers-map-to-earning-wealth-with-periscope/"><u>First-Timer's Map to Earning Wealth with Periscope</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/humor-harmony-optimal-websites-for-fun-ringtones-for-2024/"><u>Humor Harmony Optimal Websites for Fun Ringtones for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-realme-narzo-60x-5g-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Realme Narzo 60x 5G to Roku | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-7-ways-to-unlock-a-locked-vivo-s17t-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Vivo S17t Phone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-oppo-reno-11-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/is-your-blue-yeti-not-responding-discover-how-to-restore-its-functionality/"><u>Is Your Blue Yeti Not Responding? Discover How to Restore Its Functionality</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/los-mejores-5-editores-de-video-libres-para-windows-y-macos/"><u>Los Mejores 5 Editores De Video Libres Para Windows Y macOS</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/step-by-step-guide-recording-live-skiesports-broadcasts-on-pc-and-mac/"><u>Step-by-Step Guide: Recording Live Skiesports Broadcasts on PC & Mac</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/step-by-step-instructions-on-retrieving-lost-images-from-an-iphone-device/"><u>Step-by-Step Instructions on Retrieving Lost Images From an iPhone Device</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/streamlined-steps-syncing-television-series-from-ipad-to-desktoplaptop/"><u>Streamlined Steps: Syncing Television Series From iPad to Desktop/Laptop</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/the-ultimate-guide-fast-and-reliable-ways-to-download-hip-hop-tracks/"><u>The Ultimate Guide: Fast and Reliable Ways to Download Hip-Hop Tracks</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/top-rated-mac-games-discover-your-next-favorite-play/"><u>Top-Rated Mac Games: Discover Your Next Favorite Play</u></a></li>
 </ul></div>
 

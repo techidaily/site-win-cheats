@@ -1,7 +1,7 @@
 ---
 title: "Mastering Screenshot and Recording on Windows 10/11: A Step-by-Step Guide Using Native Features - TechAdvice"
-date: 2024-09-29T06:44:09.479Z
-updated: 2024-10-03T04:59:53.908Z
+date: 2024-10-01T17:15:18.442Z
+updated: 2024-10-08T16:57:53.511Z
 tags:
   - windows
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +85,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +106,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
-  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,22 +181,24 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/updated-top-5-timelapse-recording-software/"><u>[Updated] Top 5 Timelapse Recording Software</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/38533923-2024-approved-your-guide-to-exceptional-online-marketing-savor-our-selection-of-50-free-ads/"><u>2024 Approved Your Guide to Exceptional Online Marketing – Savor Our Selection of 50 FREE Ads!</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/boosting-surface-pro-capacity-without-breaking-the-bank-effortless-storage-expansion-in-just-7-steps-tech-savvy-wallet/"><u>Boosting Surface Pro Capacity Without Breaking the Bank: Effortless Storage Expansion in Just 7 Steps | Tech Savvy Wallet</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/compendium-of-video-camera-classifications/"><u>Compendium of Video Camera Classifications</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/from-idea-to-execution-creating-youtube-trailers-in-filmora-for-2024/"><u>From Idea to Execution Creating YouTube Trailers in Filmora for 2024</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/get-discounted-microsoft-office-2019-secure-your-essential-tools-for-just-25-on-windows-and-mac-detailed-purchase-guide-by-zdnet/"><u>Get Discounted Microsoft Office 2019: Secure Your Essential Tools for Just $25 on Windows & Mac – Detailed Purchase Guide by ZDNet</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/get-microsoft-office-2019-on-windowsmac-at-just-25-your-comprehensive-guide/"><u>Get Microsoft Office 2019 on Windows/Mac at Just $25: Your Comprehensive Guide</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-tecno-spark-10-4g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Tecno Spark 10 4G to iPhone | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mac-users-ultimate-tutorial-mastering-whatsapp-communication/"><u>Mac Users' Ultimate Tutorial: Mastering WhatsApp Communication</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/maximize-software-excellence-invest-in-microsofts-premier-development-experts/"><u>Maximize Software Excellence - Invest in Microsoft's Premier Development Experts</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/microsoft-transforms-windows-copilot-into-everyday-essential-app-discover-the-benefits/"><u>Microsoft Transforms Windows Copilot Into Everyday Essential App – Discover the Benefits!</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/microsoft-unveils-open-source-version-of-its-internal-generative-ai-red-team-framework-zdnet/"><u>Microsoft Unveils Open-Source Version of Its Internal Generative AI Red Team Framework - ZDNet</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-next-gen-audio-transcription-technologies-and-their-applications-for-2024/"><u>New Next-Gen Audio Transcription Technologies and Their Applications for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/symphony-in-softness-playback-reduction-guide-for-2024/"><u>Symphony in Softness Playback Reduction Guide for 2024</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/top-rated-durable-tablet-with-active-pen-and-windows-os-reviewed-by-tech-expert/"><u>Top-Rated Durable Tablet With Active Pen and Windows OS Reviewed by Tech Expert</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722993817324-unexpected-graphic-faults-in-valorant-heres-how-you-can-fix-them-swiftly/"><u>Unexpected Graphic Faults in Valorant? Here's How You Can Fix Them Swiftly</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/unveiling-educational-tools-pc-manufacturers-reveal-windows-11-se-powered-school-devices-zdnet-insights/"><u>Unveiling Educational Tools: PC Manufacturers Reveal Windows 11 SE-Powered School Devices - ZDNet Insights</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-an-in-depth-review-of-dji-drone-model-3s-performance/"><u>[New] An In-Depth Review of DJI Drone Model 3'S Performance</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-photobooth-lags-steadying-the-playback-journey/"><u>[New] Photobooth Lags Steadying the Playback Journey</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-pro-tips-for-impressive-gopro-time-lapse-cinematography/"><u>[New] Pro Tips for Impressive GoPro Time-Lapse Cinematography</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-mastering-the-art-of-screen-sharing-in-zoom-for-2024/"><u>[Updated] Mastering the Art of Screen Sharing in Zoom for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-a-peek-at-the-cutting-edge-features-for-windows-users/"><u>2024 Approved A Peek at the Cutting-Edge Features for Windows Users</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/elevate-your-ppc-with-advanced-cookiebot-features/"><u>Elevate Your PPC with Advanced Cookiebot Features</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-vivo-y36-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Vivo Y36 by Name | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-profound-overview-a-full-look-at-bublcam-360-technology/"><u>In 2024, Profound Overview A Full Look at Bublcam 360 Technology</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-vivo-y100-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Vivo Y100 | Dr.fone</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/is-too-early-enough-an-excuse-the-backlash-on-microsofts-newest-creation-windows-11-a-deep-dive-techworld/"><u>Is 'Too Early' Enough an Excuse? The Backlash on Microsoft's Newest Creation: Windows 11 - A Deep Dive | TechWorld</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/microsoft-faces-tight-timeframe-for-fixing-major-issues-in-windows-11-less-than-a-year-remaining-digital-frontier-news/"><u>Microsoft Faces Tight Timeframe for Fixing Major Issues in Windows 11 - Less Than a Year Remaining | Digital Frontier News</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/pc-gaming-community-preference-windows-11-surpasses-windows-10-according-to-recent-rankings/"><u>PC Gaming Community Preference: Windows 11 Surpasses Windows 10 According to Recent Rankings</u></a></li>
+<li><a href="https://fox-info.techidaily.com/snapchat-like-stories-adding-movement-to-instagram-texts/"><u>Snapchat-Like Stories Adding Movement to Instagram Texts</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/switching-from-ie-to-microsoft-edge-a-simple-guide-zdnet/"><u>Switching From IE to Microsoft Edge: A Simple Guide - ZDNet</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/the-downsides-of-debloating-windows-why-it-can-damage-your-system-and-better-solutions/"><u>The Downsides of Debloating Windows - Why It Can Damage Your System & Better Solutions</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/the-growing-frustrations-of-using-a-windows-pc-insights-from-zdnet/"><u>The Growing Frustrations of Using a Windows PC: Insights From ZDNet</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/top-affordable-windows-laptop-picks-comparing-brands-like-acer-and-dell-expert-insights/"><u>Top Affordable Windows Laptop Picks: Comparing Brands Like Acer & Dell - Expert Insights</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/ultra-fast-gaming-with-innovsn-40c1rs-144hz-widescreen-display-a-comprehensive-review/"><u>Ultra-Fast Gaming with Innovsn 40C1R's 144Hz Widescreen Display – A Comprehensive Review</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/windows-11-hopes-of-ongo-groaned-as-silent-denial-echoes-from-redmonds-halls-tech-chronicles/"><u>Windows 11: Hopes of Ongo Groaned as Silent Denial Echoes From Redmond's Halls | Tech Chronicles</u></a></li>
 </ul></div>
 

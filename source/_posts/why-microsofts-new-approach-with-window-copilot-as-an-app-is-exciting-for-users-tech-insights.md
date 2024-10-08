@@ -1,7 +1,7 @@
 ---
 title: Why Microsoft's New Approach with Window Copilot as an App Is Exciting for Users | Tech Insights
-date: 2024-09-28T07:45:55.815Z
-updated: 2024-10-03T08:13:47.885Z
+date: 2024-10-01T17:10:24.747Z
+updated: 2024-10-08T16:44:07.190Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -89,13 +89,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -130,10 +123,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -142,21 +135,28 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -202,20 +202,21 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-deciphering-and-crafting-accurate-slug-line-annotations/"><u>[New] 2024 Approved Deciphering and Crafting Accurate Slug Line Annotations</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-leveraging-the-strengths-of-ez-grabber-software/"><u>[New] 2024 Approved Leveraging the Strengths of EZ Grabber Software</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/evealing-the-identity-of-viewers-on-youtube/"><u>[New] Revealing the Identity of Viewers on YouTube</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-ultimate-mkv-player-for-windows-and-mobile/"><u>[New] Ultimate MKV Player for Windows & Mobile</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-shine-through-the-game-fixes-for-dark-capture-by-obs-for-2024/"><u>[Updated] Shine Through the Game Fixes for Dark Capture by OBS for 2024</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/convert-and-download-your-videos-in-multiple-formats-with-myvidster-mp4-mov-avi/"><u>Convert & Download Your Videos in Multiple Formats with MyVidster - MP4, MOV, AVI</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/convert-and-save-your-favorite-xhamster-videos-in-high-quality-mp4-format-with-these-simple-steps/"><u>Convert and Save Your Favorite xHamster Videos in High-Quality MP4 Format with These Simple Steps!</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/discerning-true-excellence-active-vs-record-leaders-for-2024/"><u>Discerning True Excellence Active vs Record Leaders for 2024</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/download-from-streamcloud-multiformat-movie-conversion-to-mp4-flv-mkv-get-your-favorites/"><u>Download From StreamCloud: Multiformat Movie Conversion to MP4, FLV, MKV – Get Your Favorites!</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/download-high-quality-video-from-pornoxo-in-mp4movavi-format-with-easy-converter/"><u>Download High-Quality Video From Pornoxo in MP4/MOV/AVI Format with Easy Converter</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/download-rtmp-videos-easily-ultimate-guide-to-using-an-rtmp-downloader-on-pc-and-mac/"><u>Download RTMP Videos Easily: Ultimate Guide to Using an RTMP Downloader on PC and MAC</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/easy-guide-to-converting-svtplayse-content-into-common-video-formats/"><u>Easy Guide to Converting SVTPlay.SE Content Into Common Video Formats</u></a></li>
-<li><a href="https://techtrends.techidaily.com/iosiphoneipadipad/"><u>IOSデバイス間でスムーズに情報共有するための同期方法｜iPhoneとiPadの統合｜パソコンとiPad同期テクニック</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-the-ultimate-adobe-premiere-plugin-collection-top-15-tools-free-and-paid-for-2024/"><u>New The Ultimate Adobe Premiere Plugin Collection Top 15 Tools (Free & Paid) for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overhauling-obscured-screens-of-desktops-and-laptops/"><u>Overhauling Obscured Screens of Desktops and Laptops</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-best-5-rapid-setup-techniques-for-home-cinematography/"><u>[New] Best 5 Rapid Setup Techniques for Home Cinematography</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-premier-online-repositories-for-typography/"><u>[Updated] Premier Online Repositories for Typography</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-twitters-crown-jewels-the-most-liked-and-binge-watched-content-for-2024/"><u>[Updated] Twitter's Crown Jewels The Most Liked & Binge-Watched Content for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-photos-come-alive-with-accompanied-melodies/"><u>2024 Approved Photos Come Alive with Accompanied Melodies</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-electronically-sign-a-excel-2007-using-digisigner-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to Electronically Sign a Excel 2007 Using DigiSigner</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-15-pro-max-to-the-latest-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 15 Pro Max to the Latest iOS Version? | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-a-celebs-brief-appearance-scrutiny/"><u>In 2024, A Celeb’s Brief Appearance Scrutiny</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-oppo-reno-8t-5g-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Oppo Reno 8T 5G Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/spotlight-on-queer-representation-the-ultimate-list-of-lgbtq-shows-to-watch-on-netflix-july-2024/"><u>Spotlight on Queer Representation: The Ultimate List of LGBTQ Shows to Watch on Netflix (July 2024)</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/step-by-step-guide-converting-tunepk-videos-into-multiple-formats-like-mp4-avi-and-mov/"><u>Step-by-Step Guide: Converting Tune.PK Videos Into Multiple Formats Like MP4, AVI, and MOV</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/step-by-step-guide-downloading-acland-anatomy-educational-films-for-macos-and-windows-pcs/"><u>Step-by-Step Guide: Downloading Acland Anatomy Educational Films for macOS & Windows PCs</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/step-by-step-process-for-acquiring-syfy-series-episodes-online/"><u>Step-by-Step Process for Acquiring Syfy Series Episodes Online</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/the-ultimate-guide-to-extracting-and-saving-v-live-shows-with-transcripts-for-offline-viewing/"><u>The Ultimate Guide to Extracting and Saving V-Live Shows with Transcripts for Offline Viewing</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/transferring-youtube-video-content-into-prores-files-on-macos-and-windows-tutorial/"><u>Transferring YouTube Video Content Into ProRes Files on macOS and Windows - Tutorial</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/ultimate-guide-converting-and-downloading-your-favorite-martial-arts-films-in-multiple-formats/"><u>Ultimate Guide: Converting and Downloading Your Favorite Martial Arts Films in Multiple Formats</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/ultimate-tutorial-on-securely-downloading-nbc-content-for-personal-collection/"><u>Ultimate Tutorial on Securely Downloading NBC Content for Personal Collection</u></a></li>
 </ul></div>
 

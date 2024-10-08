@@ -1,7 +1,7 @@
 ---
 title: "Boosting Surface Pro Capacity Without Breaking the Bank: Effortless Storage Expansion in Just 7 Steps | Tech Savvy Wallet"
-date: 2024-09-27T03:00:01.464Z
-updated: 2024-10-03T07:55:42.655Z
+date: 2024-10-01T16:08:02.420Z
+updated: 2024-10-08T17:54:30.426Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,13 +69,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -96,6 +89,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -130,16 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -148,16 +142,16 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -202,20 +196,22 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-capture-and-replay-top-four-strategies-for-gameplay-recording/"><u>[New] 2024 Approved Capture & Replay Top Four Strategies for Gameplay Recording</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-globe-spin-technology-in-lenses-versus-depth-perception-tech/"><u>[New] Globe-Spin Technology in Lenses versus Depth Perception Tech</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/5-solutions-for-asus-rog-phone-7-ultimate-unlock-without-password-by-drfone-android/"><u>5 Solutions For Asus ROG Phone 7 Ultimate Unlock Without Password</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/audio-troubleshooting-for-windows-11-top-fixes-and-tips/"><u>Audio Troubleshooting for Windows 11: Top Fixes and Tips</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/canon-pixma-mp280-driver-software-download-guide-windows-compatibility/"><u>Canon PIXMA MP280 Driver Software Download Guide - Windows Compatibility</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/close-up-cinematic-magic-with-kinemaster-software/"><u>Close-Up Cinematic Magic with Kinemaster Software</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/guide-on-converting-youtube-rentals-into-popular-video-formats-like-mp4-mov-and-avi/"><u>Guide on Converting YouTube Rentals Into Popular Video Formats Like MP4, MOV, and AVI</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-xiaomi-13t-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Xiaomi 13T | Dr.fone</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/how-to-save-and-convert-videolecturesnet-content-to-mp4-format-for-offline-viewing/"><u>How to Save and Convert VideoLectures.net Content to MP4 Format for Offline Viewing</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-how-to-gently-lower-volume-without-distortion/"><u>In 2024, How to Gently Lower Volume Without Distortion</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/resolving-convert2mp3-issues-a-comprehensive-guide/"><u>Resolving Convert2MP3 Issues - A Comprehensive Guide</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/save-and-play-codecademy-tutorials-anywhere-download-in-mp4-or-avi-format-for-pcs-and-macs/"><u>Save and Play Codecademy Tutorials Anywhere – Download in MP4 or AVI Format for PCs & Macs.</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/step-by-step-guide-converting-tunepk-videos-into-multiple-formats-like-mp4-avi-and-mov/"><u>Step-by-Step Guide: Converting Tune.PK Videos Into Multiple Formats Like MP4, AVI, and MOV</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/step-by-step-guide-downloading-acland-anatomy-educational-films-for-macos-and-windows-pcs/"><u>Step-by-Step Guide: Downloading Acland Anatomy Educational Films for macOS & Windows PCs</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/step-by-step-process-for-acquiring-syfy-series-episodes-online/"><u>Step-by-Step Process for Acquiring Syfy Series Episodes Online</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-a-detailed-walkthrough-for-integrating-instagram-effects-on-archive-media/"><u>[New] 2024 Approved A Detailed Walkthrough for Integrating Instagram Effects on Archive Media</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-essential-skillset-how-to-execute-screen-recording-on-mac/"><u>[New] 2024 Approved Essential Skillset How to Execute Screen Recording on Mac</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-crafting-the-perfect-soundscape-with-googles-ringtone-for-2024/"><u>[Updated] Crafting the Perfect Soundscape with Google's Ringtone for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-youtube-shorts-earnings-guide-must-knows-and-future-potential/"><u>2024 Approved Youtube Shorts Earnings Guide Must-Knows & Future Potential</u></a></li>
+<li><a href="https://some-skills.techidaily.com/9-essential-yet-underrated-features-in-evernote-for-enhanced-organization-and-workflow/"><u>9 Essential, Yet Underrated, Features in Evernote for Enhanced Organization and Workflow</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/action-packed-guide-master-live-gaming-sessions-on-facebook/"><u>Action-Packed Guide: Master Live Gaming Sessions on Facebook</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/discover-the-ultimate-replacements-for-kissanime-a-comprehensive-list-of-5-great-options/"><u>Discover the Ultimate Replacements for KissAnime: A Comprehensive List of 5 Great Options</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/download-and-watch-peppa-pig-shows-anywhere-how-to-save-episodes-as-mp4-or-avi-files-for-offline-enjoyment/"><u>Download and Watch Peppa Pig Shows Anywhere - How to Save Episodes as MP4 or AVI Files for Offline Enjoyment</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/easy-methods-for-saving-your-favorite-espn-broadcasts-as-high-quality-mp4avi-files-on-pc-and-mac/"><u>Easy Methods for Saving Your Favorite ESPN Broadcasts as High-Quality MP4/AVI Files on PC and Mac</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/free-video-converter-for-bangbros-content-convert-and-save-in-mp4-mov-or-avi-format/"><u>Free Video Converter for Bangbros Content - Convert and Save in MP4, MOV, or AVI Format</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/get-top-notch-video-clarity-how-to-download-high-resolution-1080p-footage-from-youtube-using-windows-or-macos/"><u>Get Top-Notch Video Clarity: How to Download High-Resolution (1080P) Footage From YouTube Using Windows or MacOS</u></a></li>
+<li><a href="https://discover-best.techidaily.com/maximizing-business-outcomes-with-cutting-edge-ai-and-content-analytics-expertise-from-the-abbyy-perspective/"><u>Maximizing Business Outcomes with Cutting-Edge AI and Content Analytics | Expertise From the ABBYY Perspective</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/mp3-conversion-of-kannada-music-files-a-step-by-step-guide-for-mac-and-pc-users/"><u>MP3 Conversion of Kannada Music Files: A Step-by-Step Guide for Mac & PC Users</u></a></li>
+<li><a href="https://article-helps.techidaily.com/simplify-your-workflow-converting-spoken-language-to-text-in-word-for-2024/"><u>Simplify Your Workflow Converting Spoken Language to Text in Word for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721101249949-the-old-school-usb-composite-device-puzzle-solved/"><u>The Old School USB Composite Device Puzzle: Solved!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-6-advanced-ai-llms-revolutionizing-text-generation/"><u>Top 6 Advanced AI LLMs Revolutionizing Text Generation</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/top-audio-hijack-pro-substitutes-ultimate-guide-for-mac-and-pc-users/"><u>Top Audio Hijack Pro Substitutes: Ultimate Guide for Mac & PC Users</u></a></li>
 </ul></div>
 

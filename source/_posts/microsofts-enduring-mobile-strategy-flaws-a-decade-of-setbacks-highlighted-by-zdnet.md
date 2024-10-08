@@ -1,7 +1,7 @@
 ---
 title: Microsoft's Enduring Mobile Strategy Flaws - A Decade of Setbacks Highlighted by ZDNet
-date: 2024-10-01T19:31:09.648Z
-updated: 2024-10-03T09:22:43.916Z
+date: 2024-10-02T16:03:13.141Z
+updated: 2024-10-08T18:00:23.135Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -91,10 +91,16 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -129,6 +135,19 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -136,22 +155,15 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,15 +208,16 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-techs-elite-selection-the-top-10-video-recorders-online/"><u>[New] In 2024, Tech's Elite Selection The Top 10 Video Recorders Online</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-leading-the-charge-top-15-influencers-for-your-drive-for-2024/"><u>[Updated] Leading the Charge Top 15 Influencers for Your Drive for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024avitop8/"><u>2024年に人気のある無料AVI再生ソフトウェアTOP8リスト</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/enhancing-image-performance-for-your-flip-gallery-on-flipbuilder-a-comprehensive-tutorial/"><u>Enhancing Image Performance for Your Flip Gallery on FlipBuilder – A Comprehensive Tutorial</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/free-online-chm-to-pdf-converter-safely-transform-microsoft-help-guides-into-pdf-ebooks-with-flipbuilder/"><u>Free Online CHM-to-PDF Converter: Safely Transform Microsoft Help Guides Into PDF Ebooks with FlipBuilder</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/how-to-fix-broken-links-on-your-flipbook-created-with-flipbuilder-expert-advice/"><u>How To Fix Broken Links on Your Flipbook Created With FlipBuilder - Expert Advice</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/importing-multiple-pages-into-flipbook-a-step-by-step-guide-at-flipbuildercom/"><u>Importing Multiple Pages Into FlipBook: A Step-by-Step Guide at FlipBuilder.com</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/solving-lag-issues-in-avatar-frontiers-of-pandora-a-step-by-step-guide/"><u>Solving Lag Issues in 'Avatar: Frontiers of Pandora' – A Step-by-Step Guide</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-vivo-t2-pro-5g-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Vivo T2 Pro 5G Location By Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/unveiling-the-intricacies-of-a-zero-day-exploit-a-comprehensive-guide-by-malwarefox/"><u>Unveiling the Intricacies of a Zero-Day Exploit: A Comprehensive Guide by MalwareFox</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-unravel-the-power-of-live-streaming-with-obs-on-youtube-and-twitch-for-2024/"><u>[New] Unravel the Power of Live Streaming with OBS on YouTube & Twitch for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/1716068907936-updated-2024-approved-how-to-minimize-stress-in-ipad-screen-recordings-heres-a-way/"><u>[Updated] 2024 Approved How to Minimize Stress in iPad Screen Recordings? Here's a Way!</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-demystifying-digital-dreamscapes-a-vr-primer/"><u>[Updated] In 2024, Demystifying Digital Dreamscapes A VR Primer</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/easy-methods-for-saving-your-favorite-espn-broadcasts-as-high-quality-mp4avi-files-on-pc-and-mac/"><u>Easy Methods for Saving Your Favorite ESPN Broadcasts as High-Quality MP4/AVI Files on PC and Mac</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/free-video-converter-for-bangbros-content-convert-and-save-in-mp4-mov-or-avi-format/"><u>Free Video Converter for Bangbros Content - Convert and Save in MP4, MOV, or AVI Format</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/get-top-notch-video-clarity-how-to-download-high-resolution-1080p-footage-from-youtube-using-windows-or-macos/"><u>Get Top-Notch Video Clarity: How to Download High-Resolution (1080P) Footage From YouTube Using Windows or MacOS</u></a></li>
+<li><a href="https://driver-download.techidaily.com/hassle-free-installation-of-ricoh-mp-c3003-printer-drivers-click-to-download/"><u>Hassle-Free Installation of Ricoh MP C3003 Printer Drivers – Click to Download</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-vivo-v29-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Vivo V29? | Dr.fone</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/mp3-conversion-of-kannada-music-files-a-step-by-step-guide-for-mac-and-pc-users/"><u>MP3 Conversion of Kannada Music Files: A Step-by-Step Guide for Mac & PC Users</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/top-audio-hijack-pro-substitutes-ultimate-guide-for-mac-and-pc-users/"><u>Top Audio Hijack Pro Substitutes: Ultimate Guide for Mac & PC Users</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-best-mp4-video-tag-editors-for-windows-and-mac/"><u>Updated 2024 Approved Best MP4 Video Tag Editors for Windows and Mac</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "1. Maximize Your Microsoft Surface Pro's Space & Save Big: A Simple 7-Step Guide (Free Tutorial)"
-date: 2024-09-29T10:33:53.684Z
-updated: 2024-10-02T16:45:22.340Z
+date: 2024-10-05T16:17:59.951Z
+updated: 2024-10-08T16:19:54.167Z
 tags:
   - microsoft
 categories:
@@ -53,13 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -71,10 +64,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -96,6 +89,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -129,6 +129,19 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -136,22 +149,15 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,20 +202,20 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-defining-your-visual-and-stylistic-identity-high-relevance/"><u>[Updated] 2024 Approved Defining Your Visual and Stylistic Identity [High Relevance]</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-revolutionary-ideas-to-empower-your-webcam/"><u>2024 Approved Revolutionary Ideas to Empower Your Webcam</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/1724766764426-2024dvd/"><u>初心者のための完全ガイド: 2024年のDVDから無料で高品質なブルーレイへの変換</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/best-beemp3-substitutes-essential-options-everyone-must-explore/"><u>Best BeeMP3 Substitutes: Essential Options Everyone Must Explore</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/deciphering-system-performance-hurdles-comparing-cpu-and-gpu-bottlenecks-determining-the-greater-challenge/"><u>Deciphering System Performance Hurdles: Comparing CPU and GPU Bottlenecks - Determining the Greater Challenge</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discovering-your-windows-11-wi-fi-network-key-a-step-by-step-guide/"><u>Discovering Your Windows 11 Wi-Fi Network Key: A Step-by-Step Guide</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-13-pro-to-other-iphone-13-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 13 Pro to other iPhone 13 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-update-or-downgrade-iphone-13-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade iPhone 13 Without Losing Anything? | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-a-comprehensible-guide-to-chromebooks-best-digital-pencils/"><u>In 2024, A Comprehensible Guide to Chromebook's Best Digital Pencils</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-10-password-cracking-tools-for-realme-c33-2023-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Realme C33 2023</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/psp-ready-video-format-how-to-easily-convert-videos-for-your-portable-entertainment-system/"><u>PSP-Ready Video Format: How to Easily Convert Videos for Your Portable Entertainment System</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/step-by-step-guide-recording-live-skiesports-broadcasts-on-pc-and-mac/"><u>Step-by-Step Guide: Recording Live Skiesports Broadcasts on PC & Mac</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/step-by-step-instructions-on-retrieving-lost-images-from-an-iphone-device/"><u>Step-by-Step Instructions on Retrieving Lost Images From an iPhone Device</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/streamlined-steps-syncing-television-series-from-ipad-to-desktoplaptop/"><u>Streamlined Steps: Syncing Television Series From iPad to Desktop/Laptop</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/transferring-videos-from-your-iphone-to-a-computer-top-5-methods/"><u>Transferring Videos From Your iPhone to a Computer: Top 5 Methods</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-ideal-remote-recording-gear/"><u>[Updated] 2024 Approved Ideal Remote Recording Gear</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/covid-19/"><u>「自宅で完結！COVID-19の影響で活力あふれる体を取り戻す無料トレーニング」</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/mkvmp4-moveave/"><u>「ムリョウオンラインMKVからMP4へのコストなし変換 - Moveave」</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/anatomia-de-las-imagenes-hd-diferencias-y-ventajas-entre-resolucion-4k-y-upscale-a-1080p/"><u>Anatomía De Las Imágenes HD: Diferencias Y Ventajas Entre Resolución 4K Y Upscale a 1080P</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-huawei-nova-y91-support-mov-videos-by-aiseesoft-video-converter-play-mov-on-android/"><u>Does Huawei Nova Y91 support MOV videos ?</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/gratuit-wmv-converteren-naar-m4a-online-movavi/"><u>Gratuit WMV-Converteren Naar M4A Online - Movavi</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/kostenloze-convertingen-van-m2p-bestandjes-online-de-ultieme-sleutel-met-movavi/"><u>Kostenloze Convertingen Van M2P Bestandjes Online - De Ultieme Sleutel Met Movavi</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-unleash-your-creativity-top-stop-motion-apps-for-ios-and-android-devices-for-2024/"><u>New Unleash Your Creativity Top Stop Motion Apps for iOS and Android Devices for 2024</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/online-kostenloze-konvertiering-van-nef-naar-png-profielbewijs-voor-movavi/"><u>Online Kostenloze Konvertiering Van NEF Naar PNG - Profielbewijs Voor Movavi</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/premium-selection-of-apple-and-android-camera-slow-motion-apps-for-2024/"><u>Premium Selection of Apple & Android Camera Slow-Motion Apps for 2024</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/1726226695444-rmvbmkvmovavi/"><u>RMVB到MKV自由轉換：利用在線移動Movavi工具快速改編</u></a></li>
+<li><a href="https://win-blog.techidaily.com/say-goodbye-to-pc-crashes-while-playing-halo-3-troubleshooting-tips-and-tricks/"><u>Say Goodbye to PC Crashes While Playing Halo 3: Troubleshooting Tips & Tricks</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/trasformatore-video-fatto-in-casa-renderli-compatibili-con-iphone-senza-problemi/"><u>Trasformatore Vidéo Fatto in Casa: Renderli Compatibili Con iPhone Senza Problemi</u></a></li>
+<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-tecno-spark-10-5g-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Tecno Spark 10 5G Screen | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-s-best-android-video-editors-free-paid-and-everything-in-between-for-2024/"><u>Updated S Best Android Video Editors Free, Paid, and Everything in Between for 2024</u></a></li>
 </ul></div>
 

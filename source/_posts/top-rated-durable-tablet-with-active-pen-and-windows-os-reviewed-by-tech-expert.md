@@ -1,7 +1,7 @@
 ---
 title: Top-Rated Durable Tablet With Active Pen and Windows OS Reviewed by Tech Expert
-date: 2024-10-02T05:00:39.884Z
-updated: 2024-10-03T03:26:00.115Z
+date: 2024-10-02T17:39:00.822Z
+updated: 2024-10-08T17:19:42.212Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -71,10 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -96,13 +96,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -136,22 +129,35 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,24 +202,22 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-unlocking-fbx-filming-in-games-for-2024/"><u>[New] Unlocking FBX Filming in Games for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-how-to-create-impactful-video-elements-cardsannotations/"><u>[Updated] 2024 Approved How to Create Impactful Video Elements Cards/Annotations</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-impressive-array-of-mobile-text-options/"><u>[Updated] Impressive Array of Mobile Text Options</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-revenue-revolution-joining-elite-at-500-subs-level/"><u>[Updated] Revenue Revolution Joining Elite at 500 Subs Level</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-top-6-must-try-instagram-reel-apps/"><u>[Updated] Top 6 Must-Try Instagram Reel Apps</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/best-top-rated-substitutes-for-solarmovie-an-expert-guide/"><u>Best Top-Rated Substitutes for SolarMovie: An Expert Guide</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1722148098381-embrace-the-future-of-text-generation-access-and-master-openais-bespoke-gpt-services-today/"><u>Embrace the Future of Text Generation: Access and Master OpenAI's Bespoke GPT Services Today</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/enhancing-computing-power-laptop-memory-upgrades/"><u>Enhancing Computing Power: Laptop Memory Upgrades</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/how-to-fix-broken-links-on-your-flipbook-created-with-flipbuilder-expert-advice/"><u>How To Fix Broken Links on Your Flipbook Created With FlipBuilder - Expert Advice</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/importing-multiple-pages-into-flipbook-a-step-by-step-guide-at-flipbuildercom/"><u>Importing Multiple Pages Into FlipBook: A Step-by-Step Guide at FlipBuilder.com</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-depth-analysis-av1-versus-vp9-video-encoding/"><u>In-Depth Analysis AV1 versus VP9 Video Encoding</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/incorporating-multiple-image-types-in-your-flipbook-creation-with-flipbuilder/"><u>Incorporating Multiple Image Types in Your FlipBook Creation with FlipBuilder</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/integrate-interactive-email-links-into-your-flipbooks-on-flipbuilder-a-step-by-step-guide/"><u>Integrate Interactive Email Links Into Your Flipbooks on FlipBuilder - A Step-by-Step Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/is-the-windows-settings-app-crashing-try-these-fixes/"><u>Is the Windows Settings App Crashing? Try These Fixes</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/learn-quick-tips-for-deleting-unwanted-content-in-flipbook-created-files/"><u>Learn Quick Tips for Deleting Unwanted Content in FlipBook Created Files</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-learn-final-cut-pro-from-scratch-90-day-free-trial-included/"><u>New 2024 Approved Learn Final Cut Pro From Scratch 90-Day Free Trial Included</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/solving-the-mystery-of-nonfunctioning-hyperlinks-in-html-based-ebooks-created-with-flipbuilder/"><u>Solving the Mystery of Nonfunctioning Hyperlinks in HTML-Based eBooks Created with FlipBuilder</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/step-by-step-guide-adding-bookmarks-in-your-flip-image-collection-using-flipbuilder/"><u>Step-by-Step Guide: Adding Bookmarks in Your Flip Image Collection Using FlipBuilder</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/title-option-1/"><u>Title Option 1</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-dominating-the-digital-space-5-tips-for-video-visibility-victory/"><u>[New] 2024 Approved Dominating the Digital Space 5 Tips for Video Visibility Victory</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-search-of-success-pivotal-youtube-gatherings-after-vidcon/"><u>[New] In Search of Success Pivotal YouTube Gatherings (After VidCon)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-getting-started-with-pro-level-youtube-tech/"><u>[Updated] In 2024, Getting Started with Pro-Level YouTube Tech</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-unlocking-online-potential-mastering-the-art-of-thumbnail-sizing/"><u>[Updated] In 2024, Unlocking Online Potential Mastering the Art of Thumbnail Sizing</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/engineering-and-science-video-pack-free-nptel-course-materials-get-your-copy-now/"><u>Engineering & Science Video Pack: Free NPTEL Course Materials - Get Your Copy Now!</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/find-your-perfect-youtube-download-solution-with-our-top-picks-an-excellent-alternative-to-dvdvideosoft-for-pc-and-mac-users/"><u>Find Your Perfect YouTube Download Solution with Our Top Picks, an Excellent Alternative to DVDVideoSoft for PC and MAC Users</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/free-downloads-of-vulture-films-and-series-watch-movies-and-tv-with-vultures/"><u>Free Downloads of Vulture Films & Series - Watch Movies and Tv with Vultures</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/get-your-free-video-downloads-from-the-ultimate-pattern-source-e-patterns-central/"><u>Get Your Free Video Downloads From the Ultimate Pattern Source - E-Patterns Central</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/guide-on-converting-youtube-rentals-into-popular-video-formats-like-mp4-mov-and-avi/"><u>Guide on Converting YouTube Rentals Into Popular Video Formats Like MP4, MOV, and AVI</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/how-to-save-and-convert-videolecturesnet-content-to-mp4-format-for-offline-viewing/"><u>How to Save and Convert VideoLectures.net Content to MP4 Format for Offline Viewing</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-nifty-editing-edits-discover-the-top-5-online-strategies-for-cutting-and-condensing-videos/"><u>In 2024, Nifty Editing Edits Discover the Top 5 Online Strategies for Cutting & Condensing Videos</u></a></li>
+<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-gionee-f3-pro-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Gionee F3 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/resolving-convert2mp3-issues-a-comprehensive-guide/"><u>Resolving Convert2MP3 Issues - A Comprehensive Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/ripifica-wma-ai-formati-aiff-senza-costi-con-movavi-guida-rapida/"><u>Ripifica WMA Ai Formati AIFF Senza Costi Con Movavi: Guida Rapida</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/save-and-play-codecademy-tutorials-anywhere-download-in-mp4-or-avi-format-for-pcs-and-macs/"><u>Save and Play Codecademy Tutorials Anywhere – Download in MP4 or AVI Format for PCs & Macs.</u></a></li>
+<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>Set Your Preferred Job Location on LinkedIn App of your Apple iPhone 15 Plus | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/streamlining-your-archive-converting-snapchats-ephemeral-snaps-for-2024/"><u>Streamlining Your Archive Converting Snapchat's Ephemeral Snaps for 2024</u></a></li>
 </ul></div>
 

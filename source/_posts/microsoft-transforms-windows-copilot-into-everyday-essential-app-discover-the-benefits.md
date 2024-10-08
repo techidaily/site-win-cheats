@@ -1,7 +1,7 @@
 ---
 title: Microsoft Transforms Windows Copilot Into Everyday Essential App – Discover the Benefits!
-date: 2024-09-25T19:32:29.860Z
-updated: 2024-10-02T16:37:03.906Z
+date: 2024-10-06T17:49:42.802Z
+updated: 2024-10-08T16:51:31.881Z
 tags:
   - microsoft
 categories:
@@ -53,13 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -71,10 +64,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -96,6 +89,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -129,19 +129,6 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -149,15 +136,22 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -202,22 +196,20 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-best-affordable-pc-video-grabbing-software-for-2024/"><u>[New] Best Affordable PC Video Grabbing Software for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-premier-humor-photoshop-studio-for-2024/"><u>[Updated] Premier Humor Photoshop Studio for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-the-secret-to-skyrocketing-revenue-crafting-engaging-video-trailers/"><u>[Updated] The Secret to Skyrocketing Revenue Crafting Engaging Video Trailers</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/1-convert-nponl-media-files-download-mp4-wmv-mov-avi-flv-formats-for-pc-and-mac/"><u>1. Convert npo.nl Media Files: Download MP4, WMV, MOV, AVI, FLV Formats for PC & Mac</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-online-and-local-photos-how-to-unite-them/"><u>2024 Approved Online and Local Photos How to Unite Them</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/allavsofts-premier-p2p-file-sharing-app-for-pc-and-mac-the-ideal-substitute-for-keeptube/"><u>Allavsoft's Premier P2P File Sharing App for PC and Mac: The Ideal Substitute for KeepTube!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/come-masterizzare-un-dvd-in-4-semplici-fasi-con-windows-10windows/"><u>Come Masterizzare Un DVD in 4 Semplici Fasi Con Windows 10/Windows</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/community-cinema-collector-pro-for-2024/"><u>Community Cinema Collector Pro for 2024</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/complete-guide-to-sbs-on-demand-downloads-for-all-the-latest-series-and-films/"><u>Complete Guide to SBS On Demand Downloads for All the Latest Series and Films</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/convert-and-save-your-favorite-limelight-streams-in-high-quality-formats-like-mp4-avi-and-more-with-easy-video-extractor/"><u>Convert and Save Your Favorite Limelight Streams in High-Quality Formats Like MP4, AVI & More with Easy Video Extractor</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-ideal-tools-for-creating-animation-with-models/"><u>In 2024, Ideal Tools for Creating Animation with Models</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-windows-8-flv-editor-convert-trim-and-enhance-your-videos/"><u>New Windows 8 FLV Editor Convert, Trim, and Enhance Your Videos</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-directx-compatibility-errors-in-fifa-20-for-a-seamless-gaming-experience/"><u>Resolving DirectX Compatibility Errors in FIFA 20 for a Seamless Gaming Experience</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/the-ultimate-guide-to-extracting-and-saving-v-live-shows-with-transcripts-for-offline-viewing/"><u>The Ultimate Guide to Extracting and Saving V-Live Shows with Transcripts for Offline Viewing</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/transferring-youtube-video-content-into-prores-files-on-macos-and-windows-tutorial/"><u>Transferring YouTube Video Content Into ProRes Files on macOS and Windows - Tutorial</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/ultimate-guide-converting-and-downloading-your-favorite-martial-arts-films-in-multiple-formats/"><u>Ultimate Guide: Converting and Downloading Your Favorite Martial Arts Films in Multiple Formats</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/ultimate-tutorial-on-securely-downloading-nbc-content-for-personal-collection/"><u>Ultimate Tutorial on Securely Downloading NBC Content for Personal Collection</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-vkontakte-profile-picture-info-pixel-count-codec-time/"><u>[New] 2024 Approved VKontakte Profile Picture Info Pixel Count, Codec, Time</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-how-to-manipulate-your-instagram-storys-playback-velocity/"><u>[New] How to Manipulate Your Instagram Story's Playback Velocity</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/actionable-steps-for-recording-a-google-hangout-session-a-complete-visual-walkthrough/"><u>Actionable Steps for Recording a Google Hangout Session: A Complete Visual Walkthrough</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/best-buy-specialists-unveil-the-ultimate-in-windows-laptops-exclusive-insights-backed-by-zdnet/"><u>Best Buy Specialists Unveil the Ultimate in Windows Laptops: Exclusive Insights Backed by ZDNet</u></a></li>
+<li><a href="https://windows11.techidaily.com/boost-windows-11-notepad-using-ai-mentor/"><u>Boost Windows 11 Notepad Using AI Mentor</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-into-the-depths-mastering-gopros-time-lapse-techniques/"><u>In 2024, Into the Depths Mastering GoPro's Time-Lapse Techniques</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-multiformat-manual-effortless-conversion-of-srt-files/"><u>In 2024, Multiformat Manual Effortless Conversion of SRT Files</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-speedy-strategies-for-crafting-a-facebook-visual-narrative/"><u>In 2024, Speedy Strategies for Crafting a Facebook Visual Narrative</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/intel-or-arm-based-surface-pro-making-the-smart-choice-in-depth-comparison-and-analysis-zdnet-insights/"><u>Intel or ARM-Based Surface Pro: Making the Smart Choice - In-Depth Comparison & Analysis | ZDNET Insights</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/leveraging-cookiebot-technology-for-tailored-web-experiences/"><u>Leveraging Cookiebot Technology for Tailored Web Experiences</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/microsoft-copilot-enhances-singapore-legal-tech-ecosystem-with-seamless-integration-zdnet-news/"><u>Microsoft Copilot Enhances Singapore Legal Tech Ecosystem with Seamless Integration | ZDNet News</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/microsofts-enduring-mobile-strategy-flaws-a-decade-of-setbacks-highlighted-by-zdnet/"><u>Microsoft's Enduring Mobile Strategy Flaws - A Decade of Setbacks Highlighted by ZDNet</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-the-hurdle-of-nonstop-teams-sign-ins-on-pc/"><u>Overcoming the Hurdle of Nonstop Teams Sign-Ins on PC</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/step-by-step-guide-capturing-directx-12-gameplay-with-screen-recording-tools/"><u>Step-by-Step Guide: Capturing DirectX 12 Gameplay with Screen Recording Tools</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/strategies-for-overcoming-action-error-107-in-system-operations/"><u>Strategies for Overcoming 'Action Error 107' In System Operations</u></a></li>
 </ul></div>
 
