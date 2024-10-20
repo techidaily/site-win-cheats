@@ -1,7 +1,7 @@
 ---
 title: Legal Summons Issued Against Individuals Involved in Email Phishing Scheme Targeting Minors
-date: 2024-10-12T13:58:25.279Z
-updated: 2024-10-13T22:45:12.015Z
+date: 2024-10-18T21:33:32.692Z
+updated: 2024-10-20T06:19:17.908Z
 tags:
   - product
   - antivirus
@@ -24,13 +24,6 @@ thumbnail: https://thmb.techidaily.com/8ac81d16fe79fad30026aca67e023b34a8f1d9b49
 2. **What to do?** Ignore and delete the message. Do not reply or download any file attachment.
 3. **How to stay safe?** You are good just by not taking any action. However, it is recommended to scan your device using powerful antivirus program. We recommend [TotalAV](https://tools.techidaily.com/malwarefox/products/) which has Identity Protection and Webshield.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What is Summon to Court for Pedophilia Email?
 
 “Summon to Court for Pedophilia” refers to fake government emails that look like court summonses. These emails say that the person receiving them is being accused of paedophilia. 
@@ -44,10 +37,10 @@ The “Summon To Court For Pedophilia” emails are a scam. In addition, the [Fr
 ![](https://www.malwarefox.com/wp-content/uploads/2023/01/summon-to-court-for-pedophilia-email-scam.webp "summon-to-court-for-pedophilia-email-scam")
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How does Summon to Court for Pedophilia Email Scam Work?
@@ -63,10 +56,10 @@ The first goal of this email is to get the people who get it to start talking to
 This is similar to [GeekSquad Email Scam](https://tools.techidaily.com/malwarefox/products/) or [Apple ID Phishing scam](https://tools.techidaily.com/malwarefox/products/) which creates fictional situation to make their victim pay money to cyber criminals.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Threat Analysis
@@ -82,10 +75,16 @@ This is similar to [GeekSquad Email Scam](https://tools.techidaily.com/malwarefo
 | **Solution**            | Ignore the email and delete any attachments if you have downloaded. If you want to make sure that there was no malicious activity - [Download MalwareFox](https://tools.techidaily.com/malwarefox/products/) to detect all possible Malware infections. |
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to avoid Summon to Court Email Scam?
@@ -97,6 +96,13 @@ Do not send personal information through email or any other method. Also, do not
 Block the sender if you share your computer with someone else so they don’t fall for the scam by mistake.
 
 To sum up, the best way to avoid the Summon to Court for Pedophilia scam email is to ignore it and block the sender.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What to do if you became victim of this Scam?
 
@@ -123,20 +129,22 @@ If you have made any payments disguised as fine, inform your Bank / PayPal or Cr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-safeguarding-against-scams-as-you-seek-to-amass-one-million-youtube-watches/"><u>[New] 2024 Approved Safeguarding Against Scams as You Seek to Amass One Million YouTube Watches</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-engineering-endgame-echoes/"><u>[New] In 2024, Engineering Endgame Echoes</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/1-seamless-transition-guide-migrating-your-media-library-from-itunes-for-windows-to-ios-with-zero-data-loss/"><u>1. Seamless Transition Guide: Migrating Your Media Library From iTunes for Windows to iOS with Zero Data Loss</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/10-in-popularity-with-gaming-enthusiasts-a-detailed-analysis-by-zdnet/"><u>10 in Popularity with Gaming Enthusiasts: A Detailed Analysis by ZDNet</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/accelerate-task-management-in-windows/"><u>Accelerate Task Management in Windows</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/boost-your-pcs-performance-master-the-hidden-feature-in-windows-11-that-speeds-up-shutting-down-laggy-programs-tips-from-tech-experts/"><u>Boost Your PC's Performance: Master the Hidden Feature in Windows 11 That Speeds Up Shutting Down Laggy Programs - Tips From Tech Experts</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/expert-advice-for-configuring-a-secure-connection-with-vpn-on-windows-11-zdnet/"><u>Expert Advice for Configuring a Secure Connection with VPN on Windows 11 (ZDNet)</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-samsung-galaxy-f54-5g-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Samsung Galaxy F54 5G</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Samsung Galaxy XCover 7? | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-magix-acid-pro-critique-and-comparable-products/"><u>In 2024, Magix ACID Pro Critique & Comparable Products</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-on-oneplus-12r-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on OnePlus 12R FRP Bypass</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/repaired-inkjet-non-operational/"><u>Repaired Inkjet Non-Operational</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/transform-your-macbook-into-a-tablet-with-this-innovative-external-display-discover-how/"><u>Transform Your MacBook Into a Tablet with This Innovative External Display - Discover How!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transforming-gameplay-chatgpt-dall-e-for-diverse-dandd-characters/"><u>Transforming Gameplay: ChatGPT, DALL-E for Diverse D&D Characters</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/unveiling-the-keychron-q5-review-by-zdnet-balancing-advanced-features-with-affordability/"><u>Unveiling the Keychron Q5 Review by ZDNet: Balancing Advanced Features with Affordability</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-audit-your-channels-financial-success/"><u>[New] In 2024, Audit Your Channel's Financial Success</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-lenslift-critique-essence/"><u>[Updated] LensLift Critique Essence</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/5aac5l2v5ywn6lk75zue5b6p56gs6auu5rif56m65b6m55qe6zu76iwm5pw45poa/"><u>如何免費回復硬體清空後的電腦數據</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/apples-latest-innovation-face-off-is-it-time-to-switch-from-apple-watch-series-8-to-series-e-10-expert-analysis-by-zdnet/"><u>Apple's Latest Innovation Face-Off: Is It Time to Switch From Apple Watch Series 8 to Series E 10? | Expert Analysis by ZDNET</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/behebt-fehler-im-startmenu-and-taskbar-bereich-auf-ihrem-windows-11-pc/"><u>Behebt Fehler Im Startmenü & Taskbar-Bereich Auf Ihrem Windows 11 PC</u></a></li>
+<li><a href="https://article-helps.techidaily.com/effortless-voice-customization-secrets-in-pubg-for-2024/"><u>Effortless Voice Customization Secrets in PUBG for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-google-pixel-8-pro-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Google Pixel 8 Pro to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-secrets-of-effortless-online-video-downloading-on-pinterest/"><u>In 2024, Secrets of Effortless Online Video Downloading on Pinterest</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/iphone-14-pro-asking-for-passcode-after-ios-1714-update-what-to-do-by-drfone-ios/"><u>iPhone 14 Pro Asking for Passcode after iOS 17/14 Update, What to Do?</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/macrium-reflect-free-version-safety-verified-fast-response-and-superior-substitutes-evaluated/"><u>Macrium Reflect Free Version Safety Verified - Fast Response & Superior Substitutes Evaluated</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/optimizing-your-pc-transition-with-leading-software-a-comparison-of-dells-internal-solution-and-aomei-backupper/"><u>Optimizing Your PC Transition with Leading Software: A Comparison of Dell's Internal Solution and AOMEI Backupper</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/protecting-your-email-a-five-step-guide-to-thwart-gmail-hackers-and-enhance-privacy-with-malwarefox-insights/"><u>Protecting Your Email: A Five-Step Guide to Thwart Gmail Hackers and Enhance Privacy with MalwareFox Insights</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/simplifying-igtv-access-on-computers-top-download-methods-unveiled-for-2024/"><u>Simplifying IGTV Access on Computers Top Download Methods Unveiled for 2024</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/step-by-step-guide-installing-a-samsung-evo-850-ssd-as-your-new-hard-drive/"><u>Step-by-Step Guide: Installing a Samsung EVO 850 SSD as Your New Hard Drive</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/techniques-de-conversion-imposantes-pour-adopter-windows-nouvelle-generation-windows-11/"><u>Techniques De Conversion Imposantes Pour Adopter Windows Nouvelle Génération (Windows 11)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/transform-your-online-presence-using-manycams-advanced-live-video-and-fake-webcam-features/"><u>Transform Your Online Presence Using ManyCam's Advanced Live Video and Fake Webcam Features</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/understanding-the-risk-can-malware-lurk-in-bios-files-essential-steps-for-defending-your-pc-from-cyber-threats/"><u>Understanding the Risk: Can Malware Lurk in BIOS Files? Essential Steps for Defending Your PC From Cyber Threats</u></a></li>
 </ul></div>
 
