@@ -1,7 +1,7 @@
 ---
 title: Cómo Realizar Copias De Seguridad De Archivo Sobre Almacenamiento Externo Con Windows 11 - Soluciones Simplificadas
-date: 2024-10-21T05:02:37.050Z
-updated: 2024-10-26T00:50:22.614Z
+date: 2024-10-28T19:43:15.294Z
+updated: 2024-10-31T17:59:30.875Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/ffa6265ad1a6a848473605e7aedcfa3ec46ffbe39326ff49e8d4fafd11fa0e00.jpg
@@ -78,6 +78,13 @@ Furthermore, AOMEI Backupper proves invaluable in tackling various problems such
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-logo-ab-32.svg)AOMEI Backupper
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Best free bootable media creation tool
 
 [**Download Freeware** Windows 11/10/8.1/8/7](https://tools.techidaily.com/ubackup/products/)
@@ -86,15 +93,22 @@ Step 1\. Download this software and open it. Click **Tools** and then choose **C
 
 [![Create Bootable Meida](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/adv/tools/create-bootable-media/create-bootable-meida.png)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 2\. Select a type of bootable media you want to create and click **Next** to continue. For better performance, the **Windows PE bootable disc** is recommended.
 
 [![Winpe](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/adv/tools/create-bootable-media/winpe.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step 3\. Select the CD, DVD, USB drive or ISO file as bootable media. Then click **Next** to create system repair disc in Windows 11.
@@ -124,10 +138,10 @@ Step 4\. Save the changes and exit the UEFI settings.
 Step 5\. Restart the system and check if it boots normally. If the issue persists, proceed to the next method.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Option 3\. Run CHKDSK to Check for Drive Errors
@@ -142,13 +156,6 @@ Step 3\. Select **Troubleshoot** and then **Command Prompt**.
 
 [![Command Prompt](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/windows-10-startup-repair/advanced-options.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 4\. Type or paste the following command and press **Enter**:
 
 **chkdsk c: /f** (This command checks and fixes errors on the system drive.)
@@ -158,10 +165,10 @@ Step 5\. Once the process is complete, unplug the USB and restart the computer.
 Check if the system boots normally after performing these steps.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Option 4\. Run SFC to Check System File Integrity
@@ -187,10 +194,10 @@ If the "sfc /scannow" command fails to repair the Winload.efi missing file, proc
 [![SFC Scannow](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/winload-efi-after-clone/sfc-scannow.png "SFC Scannow")
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Exercise caution to avoid potential system errors when using this command.
@@ -230,10 +237,10 @@ Step 4\. Assign the partition a drive letter. Enter each of the following comman
 Step 5\. Restart your computer after successfully repairing the EFI loader.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Suggestion: backup your crucial loading files in advance
@@ -265,13 +272,6 @@ Was the provided information useful? Your vote is important to us!
 [Yes](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
 
 ![Maggie](https://www.ubackup.com/assets/images/author/maggie.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [Maggie](https://tools.techidaily.com/ubackup/products/) · Editor
 
@@ -305,14 +305,14 @@ Safeguard any data of your computer with backup, sync and clone.
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Clean & Secure
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -329,22 +329,16 @@ Safeguard any data of your computer with backup, sync and clone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-exhaustive-breakdown-of-vsco-photography-tool/"><u>[New] 2024 Approved Exhaustive Breakdown of VSCO Photography Tool</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-accessing-hidden-social-engagement-in-video-streams/"><u>[New] Accessing Hidden Social Engagement in Video Streams</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/2024-windows-116/"><u>2024年度用: Windows 11互換、トップ6無料バックアップツール - 緊急配信！</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/bard-vs-chatgpt-googles-new-ai-showdown-announced/"><u>Bard Vs. ChatGPT: Google's New AI Showdown Announced</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/boost-your-online-presence-partnering-with-top-seo-professionals-at-digiarty/"><u>Boost Your Online Presence: Partnering with Top SEO Professionals at Digiarty!</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/disc-burning-fur-playlists-auf-cd-anleitung-mit-itunes-and-apple-music/"><u>Disc Burning Für Playlists Auf CD - Anleitung Mit iTunes & Apple Music</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-ways-to-switch-off-the-touchpad-in-windows-10-while-your-external-mouse-is-connected/"><u>Effective Ways to Switch Off the Touchpad in Windows 10 While Your External Mouse Is Connected</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/error-the-webpage-youre-seeking-cannot-be-located/"><u>Error: The Webpage You're Seeking Cannot Be Located</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-is-greyed-out-from-apple-iphone-15-pro-how-to-bypass-by-drfone-ios/"><u>In 2024, Apple ID is Greyed Out From Apple iPhone 15 Pro How to Bypass?</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-natures-canvas-a-variety-of-downloads-to-enhance-cinematic-work/"><u>In 2024, Nature’s Canvas A Variety of Downloads to Enhance Cinematic Work</u></a></li>
-<li><a href="https://win-forum.techidaily.com/navigating-the-digital-world-a-guide-to-facebook-twitter-instagram-and-youtube-usage/"><u>Navigating the Digital World: A Guide to Facebook, Twitter, Instagram and YouTube Usage</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/resolucion-inicio-fallido-en-windows-10-con-sistema-clonado-de-clonezilla/"><u>Resolución: Inicio Fallido en Windows 10 Con Sistema Clonado De Clonezilla</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/resolve-outlook-signature-issues-in-three-simple-steps-a-comprehensive-guide/"><u>Resolve Outlook Signature Issues in Three Simple Steps – A Comprehensive Guide</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/schnelle-und-sichere-datenubernahme-wie-sie-ihre-sql-datenbanken-effizient-importieren/"><u>Schnelle Und Sichere Datenübernahme: Wie Sie Ihre SQL-Datenbanken Effizient Importieren</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/soluciones-efectivas-para-problemas-de-carga-y-transferencia-lenta-en-windows-10-8-pasos-clave/"><u>Soluciones Efectivas Para Problemas De Carga Y Transferencia Lenta en Windows 10 - 8 Pasos Clave</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/stepwise-strategy-creating-effective-youtube-subscriber-buttons-for-2024/"><u>Stepwise Strategy Creating Effective YouTube Subscriber Buttons for 2024</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/vsphere-data-protection-and-recovery-top-tools-and-applications/"><u>Vsphere Data Protection & Recovery: Top Tools and Applications</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-7-types-of-color-grading-for-you-to-try/"><u>[New] 2024 Approved 7 Types of Color Grading for You to Try</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-rapid-rendering-of-fortnite-icons/"><u>[Updated] 2024 Approved Rapid Rendering of Fortnite Icons</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/eradicate-the-chromium-threat-comprehensive-guide-to-cleaning-your-pc-with-malwarefox/"><u>Eradicate the Chromium Threat: Comprehensive Guide to Cleaning Your PC with MalwareFox</u></a></li>
+<li><a href="https://blog-min.techidaily.com/exclusive-2023-offer-save-15-on-winx-platinum-dvd-ripper-with-official-promo-code/"><u>Exclusive 2023 Offer: Save $15 on WinX Platinum DVD Ripper with Official Promo Code</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-secure-is-it-to-turn-to-advanced-ai-such-as-chatgpt-or-googles-bard-for-your-personal-finance-strategy/"><u>How Secure Is It to Turn to Advanced AI Such as ChatGPT or Google's Bard for Your Personal Finance Strategy?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-wondering-the-best-alternative-to-hola-on-samsung-galaxy-a05-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>In 2024, Wondering the Best Alternative to Hola On Samsung Galaxy A05? Here Is the Answer | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/lenovo-hardware-optimization-quick-and-simple-power-management-drivers-refresh/"><u>Lenovo Hardware Optimization: Quick & Simple Power Management Drivers Refresh</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/probleme-bei-der-verwendung-von-diskpart-5-strategien-zur-behebung-des-nicht-arbeitsalters/"><u>Probleme Bei Der Verwendung Von 'Diskpart': 5 Strategien Zur Behebung Des Nicht-Arbeitsalters</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/top-4-exceptional-partition-restoration-apps-you-need-for-windows-11-10-8-and/"><u>Top 4 Exceptional Partition Restoration Apps You Need for Windows 11, 10, 8 &</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-vivo-y56-5g-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Vivo Y56 5G Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/windows-7-windows-10/"><u>Windows 7バックアップの復元手順を学ぶ - Windows 10で実践する方法</u></a></li>
 </ul></div>
 
