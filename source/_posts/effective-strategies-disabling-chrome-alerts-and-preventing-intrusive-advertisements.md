@@ -1,7 +1,7 @@
 ---
 title: "Effective Strategies: Disabling Chrome Alerts & Preventing Intrusive Advertisements"
-date: 2024-10-24T08:14:59.095Z
-updated: 2024-10-26T00:26:45.072Z
+date: 2024-10-30T17:43:52.346Z
+updated: 2024-11-06T16:53:56.823Z
 tags:
   - product
   - antivirus
@@ -87,13 +87,6 @@ Now enter the **URL** of the website that you want to block and click on **Add**
 
 ![Block Specific Website Notification Request 2](https://www.malwarefox.com/wp-content/uploads/2019/05/Block-Specific-Website-Notification-Request-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2- Stop Cookie Notifications in Google Chrome
 
 Do you feel annoyed when the cookie section covers some part of the website you are trying to read content on? Haven’t you felt frustrated by clicking on the accept and close icons?
@@ -101,10 +94,10 @@ Do you feel annoyed when the cookie section covers some part of the website you 
 ![Cookies Notifications in Chrome](https://www.malwarefox.com/wp-content/uploads/2019/05/Cookies-Notifications-in-Chrome.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 To banish the cookie notifications permanently we will be taking help of an extension, follow these simple steps :
@@ -113,25 +106,11 @@ Open [I don’t care about cookie extension](https://chrome.google.com/webstore/
 
 ![I don't care about cookies Extension](https://www.malwarefox.com/wp-content/uploads/2019/05/I-dont-care-about-cookies-Extension.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Now the extension will install on your browser.
 
 This extension will help you remove cookie notifications from most of the websites. I tested this extension on five different websites, and I was lucky enough to get rid of cookie extensions on all of them.
 
 **Note**: If a cookie notification doesn’t slip past the extension, report the notification by clicking on “Report a cookie warning.”
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3- Block Marketing Overlays in Chrome
 
@@ -145,6 +124,19 @@ Open [Poper Blocker](https://chrome.google.com/webstore/detail/pop-up-blocker-fo
 
 ![Poper Blocker Extension](https://www.malwarefox.com/wp-content/uploads/2019/05/Poper-Blocker-Extension.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Let the extension install and it will start working just after the installation.
 
 I tested this extension on five different websites with different overlay types:
@@ -157,6 +149,13 @@ Out of all the sites, Poper Blocker was able to block the pop-ups on about four 
 
 There isn’t a perfect solution to get rid of all the overlays and pop-ups. However, Poper Blocker would certainly help you a lot to prevent most of them and provide you a smooth browsing experience.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4- Block Auto-Playing Videos on Chrome
 
 One day you are listening to your favorite music with full volume on laptop speaker. The other day you are trying to focus on your work and visit a business website with an auto-playing video. The laptop is still at full volume. Wouldn’t it just catch you by surprise?
@@ -168,10 +167,10 @@ Open [AutoplayStopper](https://chrome.google.com/webstore/detail/autoplaystopper
 ![AutoplayStopper Extension](https://www.malwarefox.com/wp-content/uploads/2019/05/Autoplay-Stopper-Extension.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Once the extension install, it will start stopping videos from auto-playing. Though, you can add exceptions if you want some pages to auto-play videos. Click on the extension and enter the URL.
@@ -195,6 +194,13 @@ This app saves a lot of time by only displaying all the details on a single page
 How frustrated would you be when a website displays a random ad and ruins your browsing experience? If you find out ads to be slowing down your browsing experience, you need to block them right away. To get rid of them totally, I would recommend you to install the AdBlocker Ultimate extension.
 
 ![Block Ads in Chrome](https://www.malwarefox.com/wp-content/uploads/2019/05/Block-Ads-in-Chrome.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Open [AdBlocker Ultimate](https://chrome.google.com/webstore/detail/adblocker-ultimate/ohahllgiabjaoigichmmfljhkcfikeof) extension in Chrome Web Store and click on **Add to Chrome**.
 
@@ -231,19 +237,18 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-discover-the-precision-of-lg-ud88-w-monitor-specifications/"><u>[New] In 2024, Discover the Precision of LG UD88-W Monitor Specifications</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-short-form-script-template/"><u>[Updated] Short-Form Script Template</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-master-the-art-of-social-media-success-with-these-10-facebook-tips/"><u>2024 Approved Master the Art of Social Media Success with These 10 Facebook Tips</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/descubre-como-recuperar-archivos-ocultos-de-tu-unidad-usb-con-el-simbolo-del-sistema/"><u>Descubre Cómo Recuperar Archivos Ocultos De Tu Unidad USB Con El Símbolo Del Sistema</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/erfolgreiches-kopieren-ihrer-windows-11-64-bit-datentrager-eine-praktische-losung/"><u>Erfolgreiches Kopieren Ihrer Windows 11 64-Bit Datenträger: Eine Praktische Lösung</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/essential-steps-to-implement-video-card-anchors-on-youtube/"><u>Essential Steps to Implement Video Card Anchors on YouTube</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/how-to-set-up-a-dell-pc-recovery-partition-for-windows-10-system-restore/"><u>How to Set Up a Dell PC Recovery Partition for Windows 10 System Restore</u></a></li>
-<li><a href="https://win-great.techidaily.com/master-your-workflow-with-flipoffice-seamless-integration-of-all-office-file-formats-into-one-virtual-desk-space/"><u>Master Your Workflow with FlipOffice: Seamless Integration of All Office File Formats Into One Virtual Desk Space</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/streamlined-approaches-for-efficient-gif-design-for-2024/"><u>Streamlined Approaches for Efficient GIF Design for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-lava-storm-5g-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Lava Storm 5G | Dr.fone</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/troubleshoot-and-correct-0xc000014c-error-quickly-a-comprehensive-tutorial/"><u>Troubleshoot and Correct 0xC000014C Error Quickly - A Comprehensive Tutorial</u></a></li>
-<li><a href="https://win-forum.techidaily.com/understanding-todays-top-networking-sites-insights-into-facebook-twitter-instagram-and-youtube/"><u>Understanding Today's Top Networking Sites: Insights Into Facebook, Twitter, Instagram, and YouTube</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/wie-sie-ihre-laptop-hdd-auf-eine-externe-festplatte-klonen-konnen/"><u>Wie Sie Ihre Laptop-HDD Auf Eine Externe Festplatte Klonen Können</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/poshagovye-instrukcii-po-migracii-sistemy-windows-11-na-novyj-ssd-dva-effektivnyh-metoda/"><u>Пошаговые Инструкции По Миграции Системы Windows 11 На Новый SSD: Два Эффективных Метода</u></a></li>
+<li><a href="https://extra-information.techidaily.com/achieving-perfect-synchronization-google-upload/"><u>Achieving Perfect Synchronization Google Upload</u></a></li>
+<li><a href="https://win-dash.techidaily.com/boost-your-connectivity-updating-samsungs-mobile-usb-drivers-simplified/"><u>Boost Your Connectivity: Updating Samsung's Mobile USB Drivers Simplified</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/come-modificare-il-linguaggio-di-impostazione-nella-prova-beta-di-aomei-backupper/"><u>Come Modificare Il Linguaggio Di Impostazione Nella Prova Beta Di AOMEI Backupper</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/hering-youtube-monetization-success-codes/"><u>Deciphering YouTube Monetization Success Codes</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/defektierter-usb-speicherstick-methoden-zur-datenwiederholung-erklart/"><u>Defektierter USB-Speicherstick - Methoden Zur Datenwiederholung Erklärt</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/efficient-sql-management-automating-database-backups-and-cleanup-processes/"><u>Efficient SQL Management: Automating Database Backups & Cleanup Processes</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-motorola-moto-g-stylus-2023-drfone-by-drfone-virtual-android/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On Motorola Moto G Stylus (2023) | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/make-file-management-simple-using-windows-autodelete-feature/"><u>Make File Management Simple: Using Windows' Autodelete Feature</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/mastering-ios-the-secrets-of-screen-casts/"><u>Mastering iOS The Secrets of Screen Casts</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/onedrive-for-business-windows-111087/"><u>OneDrive for Businessへのバックアップ: Windows 11・10・8・7ご利用者向けガイド</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/passo-passo-per-la-sincronizzazione-simultanea-di-due-sistemi-macos-una-guida-approfondita/"><u>Passo Passo per La Sincronizzazione Simultanea Di Due Sistemi macOS: Una Guida Approfondita</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/quick-solutions-for-hulus-rununk13-error-resolved-in-minutes/"><u>Quick Solutions for Hulu's RUNUNK13 Error - Resolved in Minutes!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-essential-drone-gear-of-2022-unmissable-add-ons-every-pilot-needs-techradar/"><u>Top Essential Drone Gear of 2022: Unmissable Add-Ons Every Pilot Needs | TechRadar</u></a></li>
 </ul></div>
 

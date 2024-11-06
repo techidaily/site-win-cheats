@@ -1,7 +1,7 @@
 ---
 title: Instruction 2 - Much More Difficult with Added Constraints
-date: 2024-10-12T08:11:07.764Z
-updated: 2024-10-14T08:17:02.692Z
+date: 2024-11-01T18:38:15.264Z
+updated: 2024-11-06T21:16:46.931Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/94949839e44613400bd5d58f4fe6242909222f90165f20a133ed7c6cab443aea.png
@@ -81,32 +81,26 @@ Tout d'abord, cliquez sur **Ajouter un dossier** ou **Ajouter un fichier** sur l
 
 [![ajouter un fichier ou un dossier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ajouter-dossier-fichier.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
 
 [![share/nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ouvrir.png)
-
-<!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le nom d'affichage, l'adresse IP, le nom d'utilisateur et le mot de passe pour connecter votre espace de stockage NAS Buffalo. Double-cliquez ensuite dessus dans le volet de gauche et sélectionnez ce que vous souhaitez sauvegarder dans la liste de droite.
 
 [![ajouter périphérique share ou nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/emplacement-reseau.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Étape 3.** Cliquez là où la flèche pointe et sélectionnez le disque externe préparé comme destination.
@@ -126,10 +120,17 @@ De plus, vous pouvez activer la notification par e-mail une fois la tâche termi
 [![options](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/options-sauvegarder/sauvegarde-options.png "AOMEI Email SMS Notification Settings")
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Dernières réflexions sur l'utilitaire de sauvegarde Buffalo
@@ -149,16 +150,10 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 ![Aurore](https://www.ubackup.com/assets/images/author/aurore.png) 
 
 <!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [Aurore](https://tools.techidaily.com/ubackup/products/) · Éditeur
@@ -166,10 +161,10 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 Éditrice senior d'AOMEI Technology qui rédige principalement des articles sur la sauvegarde, la synchronisation, le clonage et la restauration de l'ordinateur, tout dans le but de proposer des solutions simples aux utilisateurs pour protéger les données de leur ordinateur. Grâce à ses expertises informatiques, elle propose souvent des astuces très utiles.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Autres articles connexes
@@ -202,13 +197,6 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -224,24 +212,15 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-stream.techidaily.com/new-self-animated-wonders-cutting-edge-techniques-for-you/"><u>[New] Self-Animated Wonders Cutting Edge Techniques for You</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/1-convert-nponl-media-files-download-mp4-wmv-mov-avi-flv-formats-for-pc-and-mac/"><u>1. Convert npo.nl Media Files: Download MP4, WMV, MOV, AVI, FLV Formats for PC & Mac</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-express-originality-craft-professional-logos-from-template-designs-free/"><u>2024 Approved Express Originality Craft Professional Logos From Template Designs (Free)</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/3-effective-ways-to-unlock-icloud-account-without-password-from-apple-iphone-11-by-drfone-ios/"><u>3 Effective Ways to Unlock iCloud Account Without Password From Apple iPhone 11</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/allavsofts-premier-p2p-file-sharing-app-for-pc-and-mac-the-ideal-substitute-for-keeptube/"><u>Allavsoft's Premier P2P File Sharing App for PC and Mac: The Ideal Substitute for KeepTube!</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/complete-guide-to-sbs-on-demand-downloads-for-all-the-latest-series-and-films/"><u>Complete Guide to SBS On Demand Downloads for All the Latest Series and Films</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/educational-transformation-the-vr-revolution-for-2024/"><u>Educational Transformation The VR Revolution for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-cast-xiaomi-civi-3-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Xiaomi Civi 3 Screen to PC Using WiFi | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-newbies-roadmap-to-understanding-av1/"><u>In 2024, The Newbie’s Roadmap to Understanding AV1</u></a></li>
-<li><a href="https://fox-that.techidaily.com/quick-and-simple-techniques-to-address-ordinary-apple-pay-glitches/"><u>Quick and Simple Techniques to Address Ordinary Apple Pay Glitches</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/sim-unlock-honor-90-gt-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Honor 90 GT Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/step-by-step-guide-downloading-acland-anatomy-educational-films-for-macos-and-windows-pcs/"><u>Step-by-Step Guide: Downloading Acland Anatomy Educational Films for macOS & Windows PCs</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/step-by-step-process-for-acquiring-syfy-series-episodes-online/"><u>Step-by-Step Process for Acquiring Syfy Series Episodes Online</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-xiaomi-13t-pro-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Xiaomi 13T Pro Device</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/the-ultimate-guide-to-extracting-and-saving-v-live-shows-with-transcripts-for-offline-viewing/"><u>The Ultimate Guide to Extracting and Saving V-Live Shows with Transcripts for Offline Viewing</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/transferring-youtube-video-content-into-prores-files-on-macos-and-windows-tutorial/"><u>Transferring YouTube Video Content Into ProRes Files on macOS and Windows - Tutorial</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/ultimate-guide-converting-and-downloading-your-favorite-martial-arts-films-in-multiple-formats/"><u>Ultimate Guide: Converting and Downloading Your Favorite Martial Arts Films in Multiple Formats</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/ultimate-tutorial-on-securely-downloading-nbc-content-for-personal-collection/"><u>Ultimate Tutorial on Securely Downloading NBC Content for Personal Collection</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unstuck-yourself-from-instagram-struggles-solutions-to-unsuccessful-story-uploads/"><u>Unstuck Yourself From Instagram Struggles - Solutions to Unsuccessful Story Uploads.</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-next-gen-stabilizing-tools-for-youtube-videographers/"><u>[New] Next-Gen Stabilizing Tools for YouTube Videographers</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-converting-vimeo-videos-to-mp3-format/"><u>2024 Approved Converting Vimeo Videos to MP3 Format</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/comment-recuperer-un-email-outlook-pst-efface-sous-windows-10-deux-techniques-utiles/"><u>Comment Récupérer Un Email Outlook PST Effacé Sous Windows 10 : Deux Techniques Utiles</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/comprehensive-guide-on-macro-virus-infections-and-effective-eradication-techniques/"><u>Comprehensive Guide on Macro Virus Infections & Effective Eradication Techniques</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/comprehensive-guide-on-setting-up-amazon-s3-access-control-list-acl-policies-for-optimized-data-management-and-accessibility/"><u>Comprehensive Guide on Setting Up Amazon S3 Access Control List (ACL) Policies for Optimized Data Management and Accessibility</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-fix-usb-drive-not-showing-up-in-windows-11-issue/"><u>How to Fix USB Drive Not Showing Up in Windows 11 Issue</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-ultimate-mp4-to-social-media-focus-on-facebook/"><u>In 2024, Ultimate MP4 to Social Media Focus on Facebook</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/restoring-vanished-imessages-and-pictures-following-the-ios-18-software-update/"><u>Restoring Vanished iMessages and Pictures Following the iOS 18 Software Update</u></a></li>
+<li><a href="https://games-able.techidaily.com/steam-deck-gaming-101-integrating-emudeck/"><u>Steam Deck Gaming 101: Integrating EmuDeck</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-hardware-unveiled-your-source-for-reliable-pc-and-peripherals-reviews/"><u>Tom’s Hardware Unveiled: Your Source for Reliable PC and Peripherals Reviews</u></a></li>
 </ul></div>
 

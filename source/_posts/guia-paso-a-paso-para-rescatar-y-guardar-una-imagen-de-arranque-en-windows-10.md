@@ -1,7 +1,7 @@
 ---
 title: Guía Paso a Paso Para Rescatar Y Guardar Una Imagen De Arranque en Windows 10
-date: 2024-10-08T01:52:45.833Z
-updated: 2024-10-13T22:14:32.073Z
+date: 2024-10-30T19:34:12.752Z
+updated: 2024-11-06T17:10:33.128Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/28460332c706ced456fd18767c0466a64d105614a00c30d76ebc074f7652f887.jpg
@@ -43,20 +43,13 @@ NAS Buffalo est la solution idéale pour la protection des données et peut faci
 
 [![buffalo](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/others/image/nas-buffalo.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Ne vous inquiétez pas trop. Vous pouvez envisager d'utiliser un logiciel de sauvegarde NAS tiers pour vous aider. [AOMEI Backupper Standard](https://tools.techidaily.com/ubackup/products/) est un excellent choix en raison de sa grande compatibilité (prise en charge de Windows 7/8/10/11/XP/Vista), de sa gratuité, de sa facilité d'utilisation, de sa flexibilité et de ses fonctionnalités riches.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Avantages du logiciel de sauvegarde NAS Buffalo - AOMEI Backupper Standard
@@ -79,6 +72,13 @@ Meilleur logiciel de sauvegarde Windows gratuit pour usage personnel.
 
 [**Télécharger gratuiciel** Windows 11/10/8.1/8/7](https://tools.techidaily.com/ubackup/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Comment utiliser le logiciel de sauvegarde NAS Buffalo pour Windows pour sauvegarder des fichiers
 
 Avant de commencer à sauvegarder des fichiers avec le logiciel de sauvegarde NAS Buffalo pour Windows, veuillez préparer un disque dur externe, une clé USB, etc. pour stocker l'image de sauvegarde. Ensuite, suivez attentivement les étapes ci-dessous.
@@ -96,10 +96,10 @@ Tout d'abord, cliquez sur **Ajouter un dossier** ou **Ajouter un fichier** sur l
 [![ajouter un fichier ou un dossier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ajouter-dossier-fichier.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
@@ -118,13 +118,6 @@ Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le no
 
 [![mode planifier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/mode-planifier.png)
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Par défaut, ce logiciel créera une sauvegarde complète et 6 sauvegardes incrémentielles si vous définissez une tâche de sauvegarde planifiée. Cela peut entraîner un problème d'espace disque plein à long terme, il est donc recommandé d'activer le [Plan de sauvegarde](https://tools.techidaily.com/ubackup/products/) et de supprimer automatiquement les fichiers de sauvegarde. Pour profiter de ces fonctions, passez à l'édition [Professional](https://tools.techidaily.com/ubackup/products/).
 
 Et la sauvegarde incrémentielle nécessite une récupération plus complexe tandis que la sauvegarde différentielle est beaucoup plus facile. Pour connaître les différences entre elles, consultez « [Sauvegarde incrémentielle ou différentielle](https://tools.techidaily.com/ubackup/products/) ».
@@ -132,6 +125,13 @@ Et la sauvegarde incrémentielle nécessite une récupération plus complexe tan
 De plus, vous pouvez activer la notification par e-mail une fois la tâche terminée. Commenter, fractionner, compresser l'image de sauvegarde ou sélectionner un mode de sauvegarde, etc.
 
 [![options](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/options-sauvegarder/sauvegarde-options.png "AOMEI Email SMS Notification Settings")
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Dernières réflexions sur l'utilitaire de sauvegarde Buffalo
 
@@ -149,22 +149,16 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 
 ![Aurore](https://www.ubackup.com/assets/images/author/aurore.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [Aurore](https://tools.techidaily.com/ubackup/products/) · Éditeur
 
 Éditrice senior d'AOMEI Technology qui rédige principalement des articles sur la sauvegarde, la synchronisation, le clonage et la restauration de l'ordinateur, tout dans le but de proposer des solutions simples aux utilisateurs pour protéger les données de leur ordinateur. Grâce à ses expertises informatiques, elle propose souvent des astuces très utiles.
-
-<!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Autres articles connexes
 
@@ -186,19 +180,6 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 
 [Oui](https://tools.techidaily.com/ubackup/products/)[Non](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Obtenez gratuitement AOMEI Backupper
 
 Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchronisation et le clonage.
@@ -206,6 +187,13 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 [**Télécharger gratuiciel**  Windows 11/10/8.1/8/7](https://tools.techidaily.com/ubackup/products/) 
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Propre & Sûr
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
@@ -224,18 +212,21 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/earn-the-art-of-video-to-animation-stepwise-guide-for-efficient-gif-creation/"><u>[New] Learn The Art Of Video to Animation Stepwise Guide for Efficient Gif Creation</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/mkvmp4-moveave/"><u>「ムリョウオンラインMKVからMP4へのコストなし変換 - Moveave」</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-strategies-to-integrate-b-roll-footage-seamlessly/"><u>2024 Approved Strategies to Integrate B-Roll Footage Seamlessly</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/anatomia-de-las-imagenes-hd-diferencias-y-ventajas-entre-resolucion-4k-y-upscale-a-1080p/"><u>Anatomía De Las Imágenes HD: Diferencias Y Ventajas Entre Resolución 4K Y Upscale a 1080P</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/elevating-your-storage-game-with-2024s-top-cloud-services/"><u>Elevating Your Storage Game with 2024'S Top Cloud Services</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/gratuit-wmv-converteren-naar-m4a-online-movavi/"><u>Gratuit WMV-Converteren Naar M4A Online - Movavi</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-realme-is-unlocked-by-drfone-android/"><u>How To Check if Your Realme Is Unlocked</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-honor-play-7t-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Honor Play 7T Is Unlocked</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/kostenloze-convertingen-van-m2p-bestandjes-online-de-ultieme-sleutel-met-movavi/"><u>Kostenloze Convertingen Van M2P Bestandjes Online - De Ultieme Sleutel Met Movavi</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/navigating-social-media-safely-a-step-by-step-guide-to-spotting-counterfeit-companions/"><u>Navigating Social Media Safely: A Step-by-Step Guide to Spotting Counterfeit Companions</u></a></li>
-<li><a href="https://extra-support.techidaily.com/premier-live-concert-streamers-for-2024/"><u>Premier Live Concert Streamers for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-accessing-gpeditmsc-in-windows-home-edition/"><u>Troubleshooting Guide: Accessing gpedit.msc in Windows Home Edition</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/uncover-the-past-your-complete-guide-to-digitizing-and-preserving-old-photographs-for-2024/"><u>Uncover the Past Your Complete Guide to Digitizing & Preserving Old Photographs for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-the-right-way-to-pick-spiritual-phone-tunes/"><u>[Updated] The Right Way to Pick Spiritual Phone Tunes</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/difficultes-a-executer-lenovo-onekey-recovery-f11-solutions-pour-retablir-la-fonctionnalite-perdue/"><u>Difficultés À Exécuter Lenovo OneKey Recovery F11 : Solutions Pour Rétablir La Fonctionnalité Perdue.</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-boox-tab-mini-the-ideal-colorful-e-reader-option-for-expanding-beyond-your-kindle-experience/"><u>Discover the Boox Tab Mini - The Ideal Colorful E-Reader Option for Expanding Beyond Your Kindle Experience</u></a></li>
+<li><a href="https://techtrends.techidaily.com/enabling-website-tracking-how-to-turn-on-cookies-in-chromefirefoxsafari/"><u>Enabling Website Tracking: How to Turn On Cookies in Chrome/Firefox/Safari</u></a></li>
+<li><a href="https://games-able.techidaily.com/fixing-glitchy-mouse-scroll-action/"><u>Fixing Glitchy Mouse Scroll Action</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-huawei-p60-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Huawei P60? | Dr.fone</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/how-to-transfer-your-os-from-hdd-to-ssd-effortlessly-without-losing-windows-files-windows-1087-for-free/"><u>How to Transfer Your OS From HDD to SSD Effortlessly Without Losing Windows Files (Windows 10/8/7) for Free</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-vivo-y100-5g-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Vivo Y100 5G FRP</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/instruction-2-much-more-difficult-with-added-constraints/"><u>Instruction 2 - Much More Difficult with Added Constraints</u></a></li>
+<li><a href="https://common-error.techidaily.com/keyboard-problem-solved-what-to-do-when-backspace-wont-work-anymore/"><u>Keyboard Problem Solved: What to Do When 'Backspace' Won't Work Anymore</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/kostenlose-und-schnelle-album-freigabe-auf-dem-iphone-keine-arbeit-erforderlich/"><u>Kostenlose Und Schnelle Album-Freigabe Auf Dem iPhone: Keine Arbeit Erforderlich!</u></a></li>
+<li><a href="https://review-topics.techidaily.com/lava-unlock-tool-remove-android-phone-password-pin-pattern-and-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Lava Unlock Tool - Remove android phone password, PIN, Pattern and fingerprint</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>Preparation to Beat Giovani in Pokemon Go For Apple iPhone 15 Plus | Dr.fone</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/ultimate-solutions-how-to-stop-the-photos-app-from-constantly-crashing-on-your-iphone/"><u>Ultimate Solutions: How to Stop the Photos App From Constantly Crashing on Your iPhone</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/waynes-world-of-data-troubleshooting-guide-for-wd-backup-issues/"><u>Wayne's World of Data: Troubleshooting Guide for WD Backup Issues</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/1728481475414-windows-11/"><u>Windows 11のシステムアップグレード完了に問題なし: 準備中状態が解消される方法</u></a></li>
 </ul></div>
 
