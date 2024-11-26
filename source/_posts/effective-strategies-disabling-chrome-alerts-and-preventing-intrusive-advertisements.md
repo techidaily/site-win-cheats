@@ -1,7 +1,7 @@
 ---
 title: "Effective Strategies: Disabling Chrome Alerts & Preventing Intrusive Advertisements"
-date: 2024-11-10T23:04:35.276Z
-updated: 2024-11-16T17:45:04.430Z
+date: 2024-11-23T16:12:42.285Z
+updated: 2024-11-26T16:25:21.981Z
 tags:
   - product
   - antivirus
@@ -55,6 +55,10 @@ When you open a new site in your Chrome browser, the website asks your permissio
 
 ![Notification Request in Chrome](https://www.malwarefox.com/wp-content/uploads/2019/05/Notification-Request-in-Chrome.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If you press allow then the website start sending push notifications on your computer. The legitimate websites send limited notifications, however, some rogue pages bombard your desktop with lots of push notifications. These notifications appear as pop-ups, you can **[remove pop-ups ads](https://tools.techidaily.com/malwarefox/products/)** from chrome.
 
 **Step 1** – Open Chrome’s **Menu** and click on the **Settings**.
@@ -73,6 +77,10 @@ If you press allow then the website start sending push notifications on your com
 
 ![Select Notifications](https://www.malwarefox.com/wp-content/uploads/2019/05/Select-Notifications.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 5** – Now you will see the first option Ask before sending (recommended) disable it by pressing the toggle button.
 
 ![Disable Notification Request](https://www.malwarefox.com/wp-content/uploads/2019/05/Disable-Notification-Request.jpg)
@@ -82,6 +90,10 @@ Now you won’t see any request to send push notifications. Remember it will dis
 To stop notification request from the specific websites, click on **Add** button in the Block section.
 
 ![Block Specific Website Notification Request 1](https://www.malwarefox.com/wp-content/uploads/2019/05/Block-Specific-Website-Notification-Request-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Now enter the **URL** of the website that you want to block and click on **Add** button.
 
@@ -93,24 +105,25 @@ Do you feel annoyed when the cookie section covers some part of the website you 
 
 ![Cookies Notifications in Chrome](https://www.malwarefox.com/wp-content/uploads/2019/05/Cookies-Notifications-in-Chrome.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 To banish the cookie notifications permanently we will be taking help of an extension, follow these simple steps :
 
 Open [I don’t care about cookie extension](https://chrome.google.com/webstore/detail/i-dont-care-about-cookies/fihnjjcciajhdojfnbdddfaoknhalnja) in the Chrome web store and click on **Add to Chrome**.
 
 ![I don't care about cookies Extension](https://www.malwarefox.com/wp-content/uploads/2019/05/I-dont-care-about-cookies-Extension.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Now the extension will install on your browser.
 
 This extension will help you remove cookie notifications from most of the websites. I tested this extension on five different websites, and I was lucky enough to get rid of cookie extensions on all of them.
 
 **Note**: If a cookie notification doesn’t slip past the extension, report the notification by clicking on “Report a cookie warning.”
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3- Block Marketing Overlays in Chrome
 
@@ -123,13 +136,6 @@ To eliminate the Marketing Overlays, we will be taking help of an extension, fol
 Open [Poper Blocker](https://chrome.google.com/webstore/detail/pop-up-blocker-for-chrome/bkkbcggnhapdmkeljlodobbkopceiche) in the Chrome Web store and click on **Add to Chrome**.
 
 ![Poper Blocker Extension](https://www.malwarefox.com/wp-content/uploads/2019/05/Poper-Blocker-Extension.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Let the extension install and it will start working just after the installation.
 
@@ -169,28 +175,22 @@ With the help of this extension, you will be able to save the articles. In case 
 
 This app saves a lot of time by only displaying all the details on a single page. You don’t even require to spend a lot of time and waste your clicks on the Paginated Articles.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6- Block Ads in Google Chrome
 
 How frustrated would you be when a website displays a random ad and ruins your browsing experience? If you find out ads to be slowing down your browsing experience, you need to block them right away. To get rid of them totally, I would recommend you to install the AdBlocker Ultimate extension.
 
 ![Block Ads in Chrome](https://www.malwarefox.com/wp-content/uploads/2019/05/Block-Ads-in-Chrome.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Open [AdBlocker Ultimate](https://chrome.google.com/webstore/detail/adblocker-ultimate/ohahllgiabjaoigichmmfljhkcfikeof) extension in Chrome Web Store and click on **Add to Chrome**.
 
 ![AdBlocker Ultimate Extension](https://www.malwarefox.com/wp-content/uploads/2019/05/AdBlocker-Ultimate-Extension.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Once it gets installed, you will not see any frustrating ads in the Chrome browser.
@@ -200,10 +200,7 @@ Other effective ad-blockers for Chrome are Ghostery and uBlock Origin.
 [How to Block Ads in Android Chrome](https://tools.techidaily.com/malwarefox/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Leave a Comment [Cancel reply](https://tools.techidaily.com/malwarefox/products/)
@@ -231,20 +228,16 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-selecting-the-best-mac-sniping-solutions/"><u>[Updated] 2024 Approved Selecting the Best Mac Sniping Solutions</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-exploring-the-core-inside-apples-m1-innovation/"><u>[Updated] In 2024, Exploring the Core Inside Apple’s M1 Innovation</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/aomei-partition-assistant-la-solution-la-plus-facile-pour-sauvegarder-cloner-et-synchroniser-sous-windows/"><u>AOMEI Partition Assistant : La Solution La Plus Facile Pour Sauvegarder, Cloner Et Synchroniser Sous Windows</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/bylaws-provide-detailed-governance-rules-within-the-corporation-and-must-align-with-state-law/"><u>Bylaws Provide Detailed Governance Rules Within the Corporation and Must Align with State Law.</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/ending-grey-shades-in-live-stream-translations/"><u>Ending Grey Shades in Live Stream Translations</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/erkennen-und-beheben-von-problemen-das-ratsel-um-die-unerwunschte-anmeldung-der-buffalo-externen-harddrive/"><u>Erkennen Und Beheben Von Problemen: Das Rätsel Um Die Unerwünschte Anmeldung Der Buffalo Externen Harddrive</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/evaluating-reliable-backup-software-how-does-aomei-backupper-stand-up-to-acronis-true-image/"><u>Evaluating Reliable Backup Software: How Does AOMEI Backupper Stand Up to Acronis True Image?</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/game-on-camera-strategies-for-videographers-in-sports/"><u>Game On, Camera! Strategies for Videographers in Sports</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/get-the-most-out-of-oneplus-prime-day-specials-ultimate-deal-roundup/"><u>Get the Most Out of OnePlus Prime Day Specials: Ultimate Deal Roundup!</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-broadcasting-fb-movies-on-whatsapp/"><u>In 2024, Broadcasting FB Movies on WhatsApp</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-understanding-instagrams-privacy-features-for-anonymous-livestreams/"><u>In 2024, Understanding Instagram's Privacy Features for Anonymous Livestreams</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-vimeo-video-structure-chapter-integration-guide/"><u>In 2024, Vimeo Video Structure Chapter Integration Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723210756908-overcome-the-0x80073712-error-in-windows-10-tips-and-tricks-for-a-smooth-operating-experience/"><u>Overcome the 0X80073712 Error in Windows 10: Tips and Tricks for a Smooth Operating Experience!</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/seamlessly-move-gopro-video-content-onto-iphoneipad-comprehensive-tutorial/"><u>Seamlessly Move GoPro Video Content Onto iPhone/iPad: Comprehensive Tutorial</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/uberwindung-von-winload-fehlern-und-das-fehlen-der-efi-firmware-in-windows-11-strategien-zum-erfolg-im-jahr-2024/"><u>Überwindung Von Winload-Fehlern Und Das Fehlen Der Efi-Firmware in Windows 11: Strategien Zum Erfolg Im Jahr 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-teaching-techniques-with-youtube-a-practical-approach/"><u>[New] 2024 Approved Teaching Techniques with YouTube A Practical Approach</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-earhearer-live-sound-critique/"><u>[New] In 2024, EarHearer Live Sound Critique</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-simplified-strategies-to-acquire-and-download-vimeo-videos/"><u>[New] Simplified Strategies to Acquire & Download Vimeo Videos</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-a-deep-dive-into-effective-youtube-banner-techniques-for-2024/"><u>[Updated] A Deep Dive Into Effective YouTube Banner Techniques for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-offline-android-delights-9-most-addictive-mobile-games/"><u>[Updated] Offline Android Delights 9 Most Addictive Mobile Games</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/1-acheter-loutil-de-sauvegarde-centralisee-aomei-backupper/"><u>1. Acheter L'outil De Sauvegarde Centralisée AOMEI BackUpper</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/1728491721002-windows/"><u>復原Windows中刪除文件 - 方法及資源</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/hddusb/"><u>HDDからUSBへの完全なクローニング手順 - シンプルガイド</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-realme-narzo-n55-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Realme Narzo N55</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/optimale-wahl-fur-gamers-windows-11-vs-windows-10-was-ist-besser/"><u>Optimale Wahl Für Gamers - Windows 11 Vs. Windows 10, Was Ist Besser?</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/understanding-the-bmp-format-and-tips-for-successful-image-retrieval/"><u>Understanding the BMP Format and Tips for Successful Image Retrieval</u></a></li>
 </ul></div>
 
