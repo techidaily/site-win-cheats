@@ -1,7 +1,7 @@
 ---
 title: Legal Summons Issued Against Individuals Involved in Email Phishing Scheme Targeting Minors
-date: 2024-11-21T16:18:16.945Z
-updated: 2024-11-26T16:02:32.954Z
+date: 2024-12-04T16:18:18.445Z
+updated: 2024-12-06T03:20:05.758Z
 tags:
   - product
   - antivirus
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/8ac81d16fe79fad30026aca67e023b34a8f1d9b49
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Article Summary
 
 1. **What is it?** Summon To Court For Pedophilia Email is a fake message and the recipient is not actually being charged for a crime.
@@ -25,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/8ac81d16fe79fad30026aca67e023b34a8f1d9b49
 3. **How to stay safe?** You are good just by not taking any action. However, it is recommended to scan your device using powerful antivirus program. We recommend [TotalAV](https://tools.techidaily.com/malwarefox/products/) which has Identity Protection and Webshield.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is Summon to Court for Pedophilia Email?
@@ -41,7 +45,11 @@ The “Summon To Court For Pedophilia” emails are a scam. In addition, the [Fr
 ![](https://www.malwarefox.com/wp-content/uploads/2023/01/summon-to-court-for-pedophilia-email-scam.webp "summon-to-court-for-pedophilia-email-scam")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How does Summon to Court for Pedophilia Email Scam Work?
@@ -56,10 +64,6 @@ The first goal of this email is to get the people who get it to start talking to
 
 This is similar to [GeekSquad Email Scam](https://tools.techidaily.com/malwarefox/products/) or [Apple ID Phishing scam](https://tools.techidaily.com/malwarefox/products/) which creates fictional situation to make their victim pay money to cyber criminals.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Threat Analysis
 
 | **Name**                | Summon To Court For Pedophilia                                                                                                                                                                                                                  |
@@ -73,7 +77,7 @@ This is similar to [GeekSquad Email Scam](https://tools.techidaily.com/malwarefo
 | **Solution**            | Ignore the email and delete any attachments if you have downloaded. If you want to make sure that there was no malicious activity - [Download MalwareFox](https://tools.techidaily.com/malwarefox/products/) to detect all possible Malware infections. |
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to avoid Summon to Court Email Scam?
@@ -85,10 +89,6 @@ Do not send personal information through email or any other method. Also, do not
 Block the sender if you share your computer with someone else so they don’t fall for the scam by mistake.
 
 To sum up, the best way to avoid the Summon to Court for Pedophilia scam email is to ignore it and block the sender.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What to do if you became victim of this Scam?
 
@@ -115,20 +115,22 @@ If you have made any payments disguised as fine, inform your Bank / PayPal or Cr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-clips.techidaily.com/new-connecting-twitters-vids-with-fb-audience-for-2024/"><u>[New] Connecting Twitter's Vids with FB Audience for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-in-depth-analysis-of-lgs-latest-360-cameras-for-the-year-2023-for-2024/"><u>[New] In-Depth Analysis of LG's Latest 360 Cameras for the Year 2023 for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-amplify-visual-narratives-with-audio-in-premiere-pro-for-2024/"><u>[Updated] Amplify Visual Narratives with Audio in Premiere Pro for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-from-selfies-to-skies-uncovering-the-intricacies-with-the-dji-spark/"><u>2024 Approved From Selfies to Skies Uncovering The Intricacies with the DJI Spark</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/esplora-i-tre-metodi-per-ripristinare-una-partizione-in-windows-11/"><u>Esplora I Tre Metodi per Ripristinare Una Partizione in Windows 11</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/fix-hoe-powerpoint-presentations-easily-free-tutorial/"><u>Fix Hoe Powerpoint Presentations Easily - Free Tutorial</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-the-latest-amd-gpio-device-driver-instant-access/"><u>Get the Latest AMD GPIO Device Driver – Instant Access</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/hddusb/"><u>HDDからUSBへの完全なクローニング手順 - シンプルガイド</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-apple-id-verification-code-not-working-from-iphone-se-2020-by-drfone-ios/"><u>In 2024, How To Fix Apple ID Verification Code Not Working From iPhone SE (2020)</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-unmatched-clarity-in-filming-top-rated-camera-stabilizers-guide/"><u>In 2024, Unmatched Clarity in Filming Top-Rated Camera Stabilizers Guide</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/malwarebytes-unveiled-does-investing-in-the-premium-version-truly-outshine-the-basic-offering/"><u>MalwareBytes Unveiled: Does Investing in the Premium Version Truly Outshine the Basic Offering?</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/pemantauan-resmi-jenis-jenis-solusi-mengembalinya-folder-unduhan-di-operating-system-windows-11/"><u>Pemantauan Resmi: Jenis-Jenis Solusi Mengembalinya Folder Unduhan Di Operating System Windows 11</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-magic-behind-generative-ai-explained-for-beginners/"><u>The Magic Behind Generative AI Explained for Beginners</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/top-3-methods-for-non-icloud-iphone-backups-a-comprehensive-guide/"><u>Top 3 Methods for Non-iCloud iPhone Backups: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/understanding-the-bmp-format-and-tips-for-successful-image-retrieval/"><u>Understanding the BMP Format and Tips for Successful Image Retrieval</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-free-easy-and-fast-youtubes-best-subtitle-getters/"><u>[New] 2024 Approved Free, Easy and Fast YouTube's Best Subtitle Getters</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-creating-captivating-iphone-lengthened-photos/"><u>[New] Creating Captivating iPhone Lengthened Photos</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-clarity-champions-top-10-smartphones-with-high-res-4k-cameras/"><u>[Updated] 2024 Approved Clarity Champions Top 10 Smartphones with High-Res 4K Cameras</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/1-efficiently-manage-system-resources-prevent-unwanted-applications-from-slowing-down-your-pc-tips-by-yl-computing/"><u>1. Efficiently Manage System Resources: Prevent Unwanted Applications From Slowing Down Your PC - Tips by YL Computing</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/effective-strategies-for-resolving-hardware-issues-with-guidance-from-yl-software-professionals/"><u>Effective Strategies for Resolving Hardware Issues with Guidance From YL Software Professionals</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/examining-vivocuts-impact-on-the-video-editor-writes-of-2024/"><u>Examining VivoCut's Impact on the Video Editor' Writes of 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-xiaomi-13t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Xiaomi 13T | Dr.fone</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/high-definition-starry-sky-wallpapers-and-backdrops-professional-image-collection-by-yl-computing/"><u>High-Definition Starry Sky Wallpapers & Backdrops - Professional Image Collection by YL Computing</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/identifying-and-troubleshooting-usb-device-problems-tech-tips-by-yl-computing/"><u>Identifying and Troubleshooting USB Device Problems - Tech Tips by YL Computing</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-oppo-a79-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Oppo A79 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-perfect-snapshot-seeker-commercial-abolished/"><u>In 2024, Perfect Snapshot Seeker - Commercial Abolished</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-video-vouchers-for-trust-in-brands/"><u>In 2024, Video Vouchers for Trust in Brands</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/mastering-reusable-text-templates-across-different-programs-on-windows-os-versions/"><u>Mastering Reusable Text Templates Across Different Programs on Windows OS Versions</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/protect-your-digital-assets-essential-cybersecurity-tips-for-crypto-users-by-yl-software-experts/"><u>Protect Your Digital Assets: Essential Cybersecurity Tips for Crypto Users by YL Software Experts</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-steps-repairing-sound-issues-in-windows-10-on-hp-computers/"><u>Solution Steps: Repairing Sound Issues in Windows 10 on HP Computers</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/understanding-the-potential-hazards-of-utilizing-a-crypto-asset-monitor-insights-from-yl-computing/"><u>Understanding the Potential Hazards of Utilizing a Crypto-Asset Monitor: Insights From YL Computing</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/verify-your-gpus-active-status-while-booting-into-safe-mode-a-comprehensive-guide-by-yl-computing/"><u>Verify Your GPU's Active Status While Booting Into Safe Mode - A Comprehensive Guide by YL Computing</u></a></li>
 </ul></div>
 

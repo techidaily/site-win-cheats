@@ -1,7 +1,7 @@
 ---
 title: "Download the Latest LYRX 1.7 Upgrade: New Feature Includes User-Friendly Karaoke Request Functionality"
-date: 2024-11-19T16:45:02.596Z
-updated: 2024-11-26T16:29:05.478Z
+date: 2024-11-29T03:37:02.382Z
+updated: 2024-12-06T04:18:58.060Z
 tags:
   - product
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/e5896cf8bd138a267d00eafc99f462dd02faf3099
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Download the official public release of LYRX 1.7 – now with KRS (Karaoke Singer Request) System!
@@ -27,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/e5896cf8bd138a267d00eafc99f462dd02faf3099
 [![LYRX with KSR and Party Tyme](https://i1.wp.com/pcdj.com/wp-content/uploads/2021/05/LYRX.png?fit=300%2C189&ssl=1 "LYRX")](https://i1.wp.com/pcdj.com/wp-content/uploads/2021/05/LYRX.png?fit=1030%2C650&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 LYRX 1.7 is ready for download and as always, it’s a free update for LYRX KJs. Learn more and install the update below.
@@ -41,7 +41,7 @@ Also included are a number of performance improvement, optimizations for macOS C
 After extensive public testing on the [PCDJ User Group](http://www.facebook.com/groups/pcdjusergroup/), LYRX 1.7 is ready for live performance. We suggest LYRX customers update to 1.7 today!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What’s New, Changed, and Fixed in LYRX 1.7
@@ -58,7 +58,7 @@ After extensive public testing on the [PCDJ User Group](http://www.facebook.com/
 _Have questions about the latest 1.7 version of our LYRX **Karaoke Software** or the new **KSR Karaoke Singer Request system**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -80,22 +80,19 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2021/06/ksr-back-copy.jpg?fit=1200
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-resolving-frame-rate-puzzle-which-fps-brings-sharper-videos/"><u>[Updated] Resolving Frame Rate Puzzle Which FPS Brings Sharper Videos</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-tweet-snaps-triumph-videos-dominating-discussions/"><u>[Updated] Tweet-Snaps Triumph Videos Dominating Discussions</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/1728488795739-windows-11-ssd/"><u>快適なWindows 11変更 - SSDへの簡易移行ガイド</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/comment-reparer-le-dysfonctionnement-lors-du-nettoyage-des-disques-sur-windows-11-guides-rapides-et-facilement-accessibles/"><u>Comment Réparer Le Dysfonctionnement Lors Du Nettoyage Des Disques Sur Windows 11: Guides Rapides Et Facilement Accessibles</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/como-recuperar-arquivos-apenas-apagados-de-um-pen-drive-externo/"><u>Como Recuperar Arquivos Apenas Apagados De Um Pen Drive Externo</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/complete-guide-for-apple-iphone-15-pro-max-lock-screen-by-drfone-ios/"><u>Complete Guide For Apple iPhone 15 Pro Max Lock Screen</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-solutions-for-blackout-glitch-when-launching-monster-hunter-world/"><u>Effective Solutions for Blackout Glitch When Launching Monster Hunter: World</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/guida-per-il-recupero-dei-file-eliminati-da-onedrive-quando-non-sono-presenti-nel-cestino-di-spostamento/"><u>Guida per Il Recupero Dei File Eliminati Da OneDrive Quando Non Sono Presenti Nel Cestino Di Spostamento</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/how-to-resolve-a-full-c-drive-issue-in-windows-11/"><u>How to Resolve a Full C: Drive Issue in Windows 11</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/how-to-stream-your-favorite-games-online-for-2024/"><u>How To Stream Your Favorite Games Online for 2024</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-12-without-passcode-or-face-id-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 12 without Passcode or Face ID</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-technology-with-tom-the-ultimate-guide/"><u>Navigating Technology with Tom - The Ultimate Guide</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/navigating-through-get-params-comprehensive-guide-to-definitions-real-world-uses-and-impact-on-seo/"><u>Navigating Through Get Params: Comprehensive Guide to Definitions, Real-World Uses & Impact on SEO</u></a></li>
-<li><a href="https://games-able.techidaily.com/nine-sentiment-swaying-duets-the-heartfelt-text-challenge/"><u>Nine Sentiment-Swaying Duets: The Heartfelt Text Challenge</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/solutions-efficaces-pour-la-gestion-des-fichiers-anciens-dans-windows-10/"><u>Solutions Efficaces Pour La Gestion Des Fichiers Anciens Dans Windows 10</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/1728469973299-windows-113/"><u>Windows 11でセキュリティが強制的に高められてしまったパソコンのリセット方法【3つ披露】</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/1728477414304-404/"><u>ウェブサイト上の不在を示す404ページ遭遇方法</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-perfect-your-editing-full-mastery-of-fcp/"><u>[New] 2024 Approved Perfect Your Editing Full Mastery of FCP</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-the-ultimate-mac-screenshot-strategy-revealed-for-2024/"><u>[New] The Ultimate Mac Screenshot Strategy Revealed for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-sony-vegas-transforms-ordinary-footage-into-youtube-stardom/"><u>[Updated] In 2024, How Sony Vegas Transforms Ordinary Footage Into YouTube Stardom</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/download-royalty-free-background-melodies-for-free-the-ultimate-list-of-sites-and-instructions/"><u>Download Royalty-Free Background Melodies for Free: The Ultimate List of Sites and Instructions</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/exploring-the-applications-whats-powering-your-pc-discover-with-yl-computing/"><u>Exploring the Applications: What's Powering Your PC? - Discover with YL Computing</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/hardware-vs-software-understanding-their-distinct-roles-an-insight-by-yl-computing/"><u>Hardware Vs. Software: Understanding Their Distinct Roles - An Insight by YL Computing</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Tecno Spark 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-failure-during-resetting-your-pc-challenges-on-windows-11-solutions-applied/"><u>Overcoming 'Failure During Resetting Your PC' Challenges on Windows 11: Solutions Applied</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/premium-hd-graphics-enjoy-a-cup-of-joe-with-stunning-wallpapers-and-images-from-yl-software-quality-meets-innovation/"><u>Premium, HD Graphics: Enjoy a Cup of Joe with Stunning Wallpapers and Images From YL Software - Quality Meets Innovation</u></a></li>
+<li><a href="https://games-able.techidaily.com/ps5-assist-controller-a-step-by-step-guide/"><u>Ps5 Assist Controller: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/rev-up-your-dj-career-with-key-insights-and-tips-for-a-thriving-2n16-dont-miss-our-in-depth-discussion-on-pcdj/"><u>Rev Up Your DJ Career with Key Insights and Tips for a Thriving 2N16 – Don't Miss Our In-Depth Discussion on #PCDJ!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-alternatives-a-inshot-para-windows-optimizar-tus-snapshots-en-la-pc/"><u>Top Alternatives a Inshot Para Windows: Optimizar Tus Snapshots en La PC</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/troubleshooting-guide-why-your-screen-shows-no-picture-and-how-to-fix-it-expert-advice-from-yl-computing/"><u>Troubleshooting Guide: Why Your Screen Shows No Picture & How to Fix It - Expert Advice From YL Computing</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/windows-defender-review-a-comprehensive-assessment-by-yl-software-experts-for-cybersecurity-protection/"><u>Windows Defender Review: A Comprehensive Assessment by YL Software Experts for Cybersecurity Protection</u></a></li>
 </ul></div>
 

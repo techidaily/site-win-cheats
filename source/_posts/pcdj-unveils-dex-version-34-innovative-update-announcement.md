@@ -1,7 +1,7 @@
 ---
 title: "PCDJ Unveils DEX Version 3.4: Innovative Update Announcement"
-date: 2024-11-23T16:03:47.401Z
-updated: 2024-11-26T16:08:32.900Z
+date: 2024-11-29T23:56:56.931Z
+updated: 2024-12-05T20:25:24.940Z
 tags:
   - product
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/367ee4c24820f3014ce079b27a52261c1491c40b5
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## DJ Software Creators Digital 1 Audio Launch DEX 3.4, a Major Update for Their Leading Mac and Windows Live Performance Mixing Software for Mixing Music, Videos, Karaoke
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/367ee4c24820f3014ce079b27a52261c1491c40b5
 [LEARN MORE ABOUT BROADCASTING WITH DEX 3 ![](https://i1.wp.com/pcdj.com/wp-content/uploads/2015/06/broadcastmix-coverimage.jpg?fit=300%2C169&ssl=1 "broadcastmix-coverimage")](https://tools.techidaily.com/pcdj/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 “With each update [DEX 3](https://tools.techidaily.com/pcdj/products/) is fine-tuned to meet the vast requirements of today’s versatile Digital DJ” says Digital 1 Audio’s General Manager Ryan Sherr. “The 3.4 update introduces a few highly-requested features, most notably the ability to real-time connect (_or disconnect_) up to 8 DJ controllers, Windows 10 support as well as internet radio broadcasting.” Sherr Continues “Users of DEX 3 can now broadcast their mix show online using the built-in [Icecast](http://icecast.org/) support. Internet Radio is big, and offers a platform for new DJ software users to hone their DJ skills in front of a virtual audience.”
@@ -82,7 +82,7 @@ DirectX/ASIO compatible multichannel soundcard (Mac: multichannel Core Audio sou
 Since 1999, Digital 1 Audio/PCDJ has been recognized as a leading developer and manufacturer of DJ and Karaoke live performance software. More than 80,000 professional DJs around the world now spin with their computer using one of company’s entertainment products.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -104,22 +104,22 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2015/08/pressrelease34-coverimage.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-perfect-video-title-generators-for-youtube/"><u>[New] 2024 Approved Perfect Video Title Generators for YouTube</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-guide-to-avoidable-exposure-hiding-objects-and-faces-online/"><u>[Updated] Guide to Avoidable Exposure Hiding Objects and Faces Online</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-mastering-lengthy-iphone-photo-captures/"><u>[Updated] Mastering Lengthy iPhone Photo Captures</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-top-9-iphone-tools-expertly-watermarking-your-pics/"><u>[Updated] Top 9 iPhone Tools Expertly Watermarking Your Pics</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/bringing-home-safety-setting-up-your-blink-4-camera-floodlight-surveillance-system/"><u>Bringing Home Safety: Setting Up Your Blink 4 Camera Floodlight Surveillance System</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/complete-guide-resetting-your-macbook-pro-for-optimal-performance/"><u>Complete Guide: Resetting Your MacBook Pro for Optimal Performance</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/download-seagate-discwizard-compatible-with-windows-11-and-effective-disk-management-solutions/"><u>Download Seagate DiscWizard Compatible with Windows 11 & Effective Disk Management Solutions</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/immediate-fixes-to-overcome-unexpected-csgo-shutdowns/"><u>Immediate Fixes to Overcome Unexpected CSGO Shutdowns</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/les-plus-efficaces-solutions-pour-securiser-vos-documents-personnels-avec-windows-11/"><u>Les Plus Efficaces Solutions Pour Sécuriser Vos Documents Personnels Avec Windows 11</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/losung-finder-fehlerbehebung-fur-die-installation-von-festplattenpartitionen-unter-windows/"><u>Lösung Finder: Fehlerbehebung Für Die Installation Von Festplattenpartitionen Unter Windows</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/resolve-aw-snap-glitch-in-chrome-when-pages-load-protect-with-malwarefox/"><u>Resolve 'Aw Snap!' Glitch in Chrome When Pages Load – Protect with MalwareFox</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/schritt-fur-schritt-leitfaden-zum-d2d2c-backup-vorgehen-disk-zu-disk-zur-cloud/"><u>Schritt-Für-Schritt-Leitfaden Zum D2D2C Backup Vorgehen (Disk Zu Disk Zur Cloud)</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/the-professionals-guide-to-smoothly-inserting-online-videos-into-slides/"><u>The Professional's Guide to Smoothly Inserting Online Videos Into Slides</u></a></li>
-<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-itel-s23-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Itel S23 Bricked Devices | Dr.fone</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/troubleshooting-error-the-virtual-storage-unit-fails-to-sync-with-your-computer-setup/"><u>Troubleshooting Error: The Virtual Storage Unit Fails to Sync with Your Computer Setup</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/tutoriel-facile-comment-transferer-windows-1011-dans-votre-ordinateur-avec-une-cle-usb-de-sauvegarde/"><u>Tutoriel Facile : Comment Transférer Windows 10/11 Dans Votre Ordinateur Avec Une Clé USB De Sauvegarde</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/os-windows-10windows-7/"><u>スムーズなOS変更 - Windows 10へのアップグレードを目指しWindows 7バックアップ完了ガイド</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-exploring-the-creme-de-la-creme-instas-influential-elite/"><u>[New] 2024 Approved Exploring the Crème De La Crème Insta's Influential Elite</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-which-is-better-for-streamers-obs-studio-or-fraps/"><u>[Updated] Which Is Better for Streamers, OBS Studio or Fraps?</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-guide-to-youtubes-latest-income-strategies/"><u>2024 Approved Guide to YouTube's Latest Income Strategies</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/accelerate-your-pcs-boot-process-essential-tips-from-yl-software/"><u>Accelerate Your PC's Boot Process: Essential Tips From YL Software</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/complete-guide-restoring-microsoft-windows-programs-efficiently-expert-tips-from-yl-computing/"><u>Complete Guide: Restoring Microsoft Windows Programs Efficiently - Expert Tips From YL Computing</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/cryptographic-protection-for-monetary-transactions-unveiling-the-mechanisms-with-yl-softwares-insights/"><u>Cryptographic Protection for Monetary Transactions: Unveiling the Mechanisms with YL Software's Insights</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/elevate-your-lounge-with-pro-karaoke-mastery-essential-advice-from-top-pcdj-mixers/"><u>Elevate Your Lounge with Pro Karaoke Mastery: Essential Advice From Top PCDJ Mixers</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/find-your-devices-newest-scanner-drivers-up-to-date-solutions-by-yl-computing/"><u>Find Your Device's Newest Scanner Drivers: Up-to-Date Solutions by YL Computing</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-detailed-full-rotation-cam-insight/"><u>In 2024, Detailed Full-Rotation Cam Insight</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/iphone-15-pro-vs-iphone-14-pro-assessing-the-enhancements-in-apples-newest-release-tech-analysis/"><u>IPhone 15 Pro vs iPhone 14 Pro: Assessing the Enhancements in Apple's Newest Release | Tech Analysis</u></a></li>
+<li><a href="https://extra-support.techidaily.com/lg-360-degree-headset-review-next-gen-immersion-for-2024/"><u>LG 360-Degree Headset Review - Next-Gen Immersion for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210932978-9781855843486-living-with-the-dead/"><u>Living with the Dead | Free Book</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/mastering-uplight-techniques-for-your-setups-featuring-pcdj-insights/"><u>Mastering UPLIGHT Techniques for Your Setups, Featuring PCDJ Insights</u></a></li>
+<li><a href="https://techidaily.com/optimize-windows-11-for-gamers-by-switching-off-mouse-acceleration-feature/"><u>Optimize Windows 11 for Gamers by Switching Off Mouse Acceleration Feature</u></a></li>
+<li><a href="https://win-net.techidaily.com/seamless-transfer-free-software-for-moving-data-from-wd-my-cloud-to-google-drive/"><u>Seamless Transfer: Free Software for Moving Data From WD My Cloud to Google Drive</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/strategies-for-decreasing-ram-utilization-with-yl-software-solutions/"><u>Strategies for Decreasing RAM Utilization with YL Software Solutions</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/the-ripple-effects-of-the-tiananmen-square-events-explored-by-yl-digital-solutions/"><u>The Ripple Effects of the Tiananmen Square Events Explored by YL Digital Solutions</u></a></li>
 </ul></div>
 
