@@ -1,7 +1,7 @@
 ---
 title: "Download the Latest LYRX 1.7 Upgrade: New Feature Includes User-Friendly Karaoke Request Functionality"
-date: 2024-11-29T03:37:02.382Z
-updated: 2024-12-06T04:18:58.060Z
+date: 2024-12-07T20:18:09.229Z
+updated: 2024-12-12T08:10:03.572Z
 tags:
   - product
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/e5896cf8bd138a267d00eafc99f462dd02faf3099
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Download the official public release of LYRX 1.7 – now with KRS (Karaoke Singer Request) System!
@@ -27,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/e5896cf8bd138a267d00eafc99f462dd02faf3099
 [![LYRX with KSR and Party Tyme](https://i1.wp.com/pcdj.com/wp-content/uploads/2021/05/LYRX.png?fit=300%2C189&ssl=1 "LYRX")](https://i1.wp.com/pcdj.com/wp-content/uploads/2021/05/LYRX.png?fit=1030%2C650&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 LYRX 1.7 is ready for download and as always, it’s a free update for LYRX KJs. Learn more and install the update below.
@@ -41,7 +41,7 @@ Also included are a number of performance improvement, optimizations for macOS C
 After extensive public testing on the [PCDJ User Group](http://www.facebook.com/groups/pcdjusergroup/), LYRX 1.7 is ready for live performance. We suggest LYRX customers update to 1.7 today!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What’s New, Changed, and Fixed in LYRX 1.7
@@ -58,7 +58,7 @@ After extensive public testing on the [PCDJ User Group](http://www.facebook.com/
 _Have questions about the latest 1.7 version of our LYRX **Karaoke Software** or the new **KSR Karaoke Singer Request system**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -80,19 +80,20 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2021/06/ksr-back-copy.jpg?fit=1200
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-perfect-your-editing-full-mastery-of-fcp/"><u>[New] 2024 Approved Perfect Your Editing Full Mastery of FCP</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-the-ultimate-mac-screenshot-strategy-revealed-for-2024/"><u>[New] The Ultimate Mac Screenshot Strategy Revealed for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-sony-vegas-transforms-ordinary-footage-into-youtube-stardom/"><u>[Updated] In 2024, How Sony Vegas Transforms Ordinary Footage Into YouTube Stardom</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/download-royalty-free-background-melodies-for-free-the-ultimate-list-of-sites-and-instructions/"><u>Download Royalty-Free Background Melodies for Free: The Ultimate List of Sites and Instructions</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/exploring-the-applications-whats-powering-your-pc-discover-with-yl-computing/"><u>Exploring the Applications: What's Powering Your PC? - Discover with YL Computing</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/hardware-vs-software-understanding-their-distinct-roles-an-insight-by-yl-computing/"><u>Hardware Vs. Software: Understanding Their Distinct Roles - An Insight by YL Computing</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Tecno Spark 10 Pro | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-failure-during-resetting-your-pc-challenges-on-windows-11-solutions-applied/"><u>Overcoming 'Failure During Resetting Your PC' Challenges on Windows 11: Solutions Applied</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/premium-hd-graphics-enjoy-a-cup-of-joe-with-stunning-wallpapers-and-images-from-yl-software-quality-meets-innovation/"><u>Premium, HD Graphics: Enjoy a Cup of Joe with Stunning Wallpapers and Images From YL Software - Quality Meets Innovation</u></a></li>
-<li><a href="https://games-able.techidaily.com/ps5-assist-controller-a-step-by-step-guide/"><u>Ps5 Assist Controller: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/rev-up-your-dj-career-with-key-insights-and-tips-for-a-thriving-2n16-dont-miss-our-in-depth-discussion-on-pcdj/"><u>Rev Up Your DJ Career with Key Insights and Tips for a Thriving 2N16 – Don't Miss Our In-Depth Discussion on #PCDJ!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/top-alternatives-a-inshot-para-windows-optimizar-tus-snapshots-en-la-pc/"><u>Top Alternatives a Inshot Para Windows: Optimizar Tus Snapshots en La PC</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/troubleshooting-guide-why-your-screen-shows-no-picture-and-how-to-fix-it-expert-advice-from-yl-computing/"><u>Troubleshooting Guide: Why Your Screen Shows No Picture & How to Fix It - Expert Advice From YL Computing</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/windows-defender-review-a-comprehensive-assessment-by-yl-software-experts-for-cybersecurity-protection/"><u>Windows Defender Review: A Comprehensive Assessment by YL Software Experts for Cybersecurity Protection</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-guide-to-getting-1000-subscribers-for-your-youtube-channel/"><u>[New] In 2024, Guide to Getting 1000 Subscribers for Your YouTube Channel</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-the-basics-of-aspect-ratio-compliance-on-twitter/"><u>[New] The Basics of Aspect Ratio Compliance on Twitter</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unveiling-vrs-elite-accessories-top-10/"><u>[Updated] Unveiling VR's Elite Accessories (Top 10)</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-identifying-ideal-pace-for-premium-slow-motion-cinematography/"><u>2024 Approved Identifying Ideal Pace for Premium Slow Motion Cinematography</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-the-ultimate-playbook-for-crafting-engaging-podcast-titles/"><u>2024 Approved The Ultimate Playbook for Crafting Engaging Podcast Titles</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/changing-user-permissions-through-windows-control-panel-a-step-by-step-guide-by-yl-computing/"><u>Changing User Permissions Through Windows Control Panel: A Step-by-Step Guide by YL Computing</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/exploring-the-advantages-of-embracing-cryptocurrencies-a-comprehensive-guide-by-yl-computing/"><u>Exploring the Advantages of Embracing Cryptocurrencies: A Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/how-to-fix-a-computer-when-it-doesnt-recognize-your-hard-drive-solutions-by-yl-computing/"><u>How to Fix a Computer When It Doesn't Recognize Your Hard Drive - Solutions by YL Computing</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/how-to-fix-dreamlight-valley-glitches-and-stabilize-your-game-on-pc/"><u>How to Fix Dreamlight Valley Glitches and Stabilize Your Game on PC</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-elevating-visual-effects-the-impact-of-magix-vpx/"><u>In 2024, Elevating Visual Effects The Impact of Magix VPX</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/online-diagnostics-for-graphics-card-problems-insights-and-assistance-from-yl-software/"><u>Online Diagnostics for Graphics Card Problems: Insights and Assistance From YL Software</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/recognizing-signs-of-a-dying-hard-drive-a-guide-by-yl-computing/"><u>Recognizing Signs of a Dying Hard Drive: A Guide by YL Computing</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/switch-your-os-language-settings-easily-a-step-by-step-guide-by-yl-computing/"><u>Switch Your OS Language Settings Easily: A Step-by-Step Guide by YL Computing</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/the-tale-of-two-platforms-youtube-and-dailymention-for-2024/"><u>The Tale of Two Platforms YouTube and DailyMention for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/what-was-the-journey-behind-netflixs-revolutionary-dvd-subscription-service/"><u>What Was the Journey Behind Netflix's Revolutionary DVD Subscription Service?</u></a></li>
 </ul></div>
 

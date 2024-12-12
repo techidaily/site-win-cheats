@@ -1,7 +1,7 @@
 ---
 title: "Easy Guide: Adjusting DEX 3 Skin Interface - A DJ Software Pro-Tips Video"
-date: 2024-12-03T16:24:23.285Z
-updated: 2024-12-06T09:13:12.824Z
+date: 2024-12-10T23:39:28.018Z
+updated: 2024-12-11T22:13:20.857Z
 tags:
   - product
 categories:
@@ -29,13 +29,13 @@ In this [DEX 3 DJ software](https://tools.techidaily.com/pcdj/products/) quick t
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### DEX 3 QUICK TIP VIDEO: RESIZING THE GUI
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -57,24 +57,21 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2014/10/dex3gui-quicktip-coverimag
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/ed-master-your-mp3-ultimate-guide-to-youtube-converters/"><u>[Updated] Master Your MP3 Ultimate Guide to YouTube Converters</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-securing-streams-of-cash-from-content-creation/"><u>2024 Approved Securing Streams of Cash From Content Creation</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/discover-the-latest-advances-prepare-for-the-release-of-pcdj-softwares-dex-update-31/"><u>Discover the Latest Advances: Prepare for the Release of PCDJ Software's Dex Update 3.1!</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/easy-steps-for-personalizing-computer-sounds-using-windows-control-panel-tutorial-from-yl-systems/"><u>Easy Steps for Personalizing Computer Sounds Using Windows Control Panel - Tutorial From YL Systems</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/effective-solutions-a-guide-to-diagnosing-and-fixing-graphics-card-issues-tips-from-yl-computings-expertise/"><u>Effective Solutions: A Guide to Diagnosing and Fixing Graphics Card Issues - Tips From YL Computing's Expertise</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/enhance-live-broadcast-quality-with-streamlabs-obs-tips-for-2024/"><u>Enhance Live Broadcast Quality with Streamlabs OBS Tips for 2024</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/exploring-causes-of-fluctuating-internet-connectivity-with-yl-software-solutions/"><u>Exploring Causes of Fluctuating Internet Connectivity with YL Software Solutions</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/high-quality-bmw-m3-2019-hd-resolution-wallpaper-graphics-and-desktop-backgrounds-premium-digital-artwork-by-yl-computing/"><u>High-Quality BMW M3 (2019) HD Resolution Wallpaper Graphics & Desktop Backgrounds - Premium Digital Artwork by YL Computing</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/how-to-fix-unresponsive-keyboard-and-mouse-issues-expert-tips-from-yl-software/"><u>How to Fix Unresponsive Keyboard & Mouse Issues - Expert Tips From YL Software</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/how-to-personalize-display-preferences-via-control-panel-tips-by-yl-computing/"><u>How to Personalize Display Preferences via Control Panel - Tips by YL Computing</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-vivo-y100-5g-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Vivo Y100 5G?</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-obs-studio-screen-capture-an-in-depth-analysis/"><u>In 2024, OBS Studio Screen Capture An In-Depth Analysis</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/instagram-shout-out-for-podcast-fans/"><u>Instagram Shout-Out for Podcast Fans</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/step-by-step-guide-accessing-windows-control-panel-tips-by-yl-computing/"><u>Step-by-Step Guide: Accessing Windows Control Panel - Tips by YL Computing</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-ultimate-zoom-strategy-for-fb-live-success/"><u>The Ultimate Zoom Strategy for FB Live Success</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/unlimited-song-selection-for-your-private-parties-with-party-tymes-subscription-dj-service/"><u>Unlimited Song Selection for Your Private Parties with Party Tyme’s Subscription DJ Service!</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/unlock-tecno-spark-go-2024-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Tecno Spark Go (2024) Phone Password Without Factory Reset Full Guide Here</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/views-for-livelihood-mastering-youtubes-true-numbers/"><u>Views for Livelihood Mastering YouTube's True Numbers</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/wireless-audio-success-mastering-the-bose-soundlink-pairing-process/"><u>Wireless Audio Success: Mastering the Bose SoundLink Pairing Process</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/-journey-beyond-top-10-global-explorer-channels-for-2024/"><u>[New] A Journey Beyond Top 10 Global Explorer Channels for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-digital-extension-fb-stories-archive-for-2024/"><u>[New] Digital Extension Fb Stories Archive for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-empower-yourself-learning-the-ins-and-outs-of-io-screen-recorder-for-2024/"><u>[New] Empower Yourself Learning the Ins and Outs of IO Screen Recorder for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-the-art-of-connection-thriving-amidst-algorithm-updates/"><u>[New] In 2024, The Art of Connection Thriving Amidst Algorithm Updates</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-elevate-your-videos-start-with-top-youtube-intro-tips/"><u>[Updated] In 2024, Elevate Your Video's Start with Top YouTube Intro Tips</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/discover-why-your-pc-may-be-sluggish-expert-insights-from-yl-computings-tech-experts/"><u>Discover Why Your PC May Be Sluggish: Expert Insights From YL Computing's Tech Experts</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/dr-folder-icon-personalization-tutorial-setting-country-flag-icons-for-file-management-version-2663-expertise-from-yl-software/"><u>Dr. Folder Icon Personalization Tutorial: Setting Country Flag Icons for File Management (Version 2.6.6.3) – Expertise From YL Software</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-protecting-your-privacy-how-to-remove-apple-id-from-iphone-14-pro-by-drfone-ios/"><u>In 2024, Protecting Your Privacy How To Remove Apple ID From iPhone 14 Pro</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-unlicensed-yet-lawful-music-repositories-games/"><u>In 2024, Unlicensed, Yet Lawful Music Repositories (Games)</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/mastering-network-connection-management-with-insights-from-yl-software-solutions/"><u>Mastering Network Connection Management with Insights From YL Software Solutions</u></a></li>
+<li><a href="https://blog-min.techidaily.com/movavi-convertendo-pef-em-png-sem-custo-funcionando-na-web-agora/"><u>Movavi: Convertendo PEF Em PNG Sem Custo - Funcionando Na Web Agora!</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/navigating-windows-file-explorers-master-class-by-yl-software-experts/"><u>Navigating Windows File Explorers: Master Class by YL Software Experts</u></a></li>
+<li><a href="https://extra-information.techidaily.com/one-minute-color-magic/"><u>One Minute Color Magic</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/precious-metals-in-focus-overcoming-challenges-of-international-trends-and-local-projections-through-yl-software-solutions/"><u>Precious Metals in Focus: Overcoming Challenges of International Trends and Local Projections Through YL Software Solutions</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/understanding-permissions-can-you-edit-the-control-panel-without-being-an-admin-yl-tech-solutions-explored/"><u>Understanding Permissions: Can You Edit the Control Panel Without Being an Admin? - YL Tech Solutions Explored</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/yl-softwares-ultimate-solution-to-hard-drive-malfunctions-troubleshooting-essentials/"><u>YL Software's Ultimate Solution to Hard Drive Malfunctions: Troubleshooting Essentials</u></a></li>
 </ul></div>
 
