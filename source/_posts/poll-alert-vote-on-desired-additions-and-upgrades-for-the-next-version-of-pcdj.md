@@ -1,7 +1,7 @@
 ---
 title: Poll Alert! Vote on Desired Additions and Upgrades for the Next Version of PCDJ
-date: 2024-12-10T07:28:13.761Z
-updated: 2024-12-12T03:30:41.753Z
+date: 2024-12-11T16:33:31.391Z
+updated: 2024-12-18T16:04:09.414Z
 tags:
   - product
 categories:
@@ -28,7 +28,7 @@ Please feel free to comment below, or share your thoughts on the PCDJ Message Fo
 _Together let’s make 2015 a year of pioneering innovation!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -50,15 +50,18 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2015/01/wanttohearfromyou-coverima
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-integrating-youtube-into-your-imovie-projects/"><u>[Updated] 2024 Approved Integrating YouTube Into Your iMovie Projects</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-photo-editing-mastery-with-polarr-a-comprehensive-guide/"><u>[Updated] Photo Editing Mastery with Polarr A Comprehensive Guide</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-repair-a-damaged-video-file-of-lava-using-video-repair-utility-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair a Damaged video file of Lava using Video Repair Utility on Mac?</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-samsung-galaxy-a23-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Samsung Galaxy A23 5G without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/identifying-a-malfunctioning-video-card-a-guide-insights-from-yl-computing/"><u>Identifying a Malfunctioning Video Card: A Guide - Insights From YL Computing</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-samsung-galaxy-f04-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Samsung Galaxy F04 FRP Without Computer</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solve-unregistered-program-components-in-windows-11-a-step-by-step-tutorial/"><u>Solve Unregistered Program Components in Windows 11: A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/step-by-step-guide-access-and-review-your-pcs-hardware-components-via-windows-control-panel-tech-savvy-tips/"><u>Step-by-Step Guide: Access and Review Your PC's Hardware Components via Windows Control Panel - Tech Savvy Tips</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/understanding-the-spectrum-of-digital-tokens-a-guide-to-crypto-types-with-yl-computing-yl-software/"><u>Understanding the Spectrum of Digital Tokens: A Guide to Crypto Types with YL Computing | YL Software</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/unveiling-key-influences-on-your-pcs-performance-insights-from-yl-computing/"><u>Unveiling Key Influences on Your PC's Performance: Insights From YL Computing</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-educational-videography-mastery-in-cutting-and-pacing/"><u>2024 Approved Educational Videography Mastery in Cutting & Pacing</u></a></li>
+<li><a href="https://win11.techidaily.com/deciphering-the-secrets-of-devhome-in-windows-11/"><u>Deciphering the Secrets of DevHome in Windows 11</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/eliminate-jscriptdll-file-missing-issues-practical-tips-and-expert-advice-for-windows-users/"><u>Eliminate JScript.dll File Missing Issues: Practical Tips and Expert Advice for Windows Users</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/elite-8-streaming-software-selections/"><u>Elite 8 Streaming Software Selections</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/essential-guidelines-for-a-thorough-computer-cleanse-and-maintenance-by-yl-software-experts/"><u>Essential Guidelines for a Thorough Computer Cleanse & Maintenance by YL Software Experts</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Nubia Z50 Ultra | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-realme-v30t-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Realme V30T Phones with/without a PC</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/mastery-of-magnified-mining-maps/"><u>Mastery of Magnified Mining Maps</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/navigating-uncertainties-comprehensive-analysis-of-crypto-investment-dangers-insights-from-yl-software/"><u>Navigating Uncertainties: Comprehensive Analysis of Crypto-Investment Dangers – Insights From YL Software</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/pro-audio-tech-review-exploring-the-top-6-stream-ready-mics-for-2024/"><u>Pro Audio Tech Review Exploring the Top 6 Stream-Ready Mics for 2024</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/section-3b-5-facts-to-remember/"><u>Section 3B: 5 Facts to Remember</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/troubleshooting-your-printer-issues-on-windows-11-a-step-by-step-guide-tips-by-yl-computing/"><u>Troubleshooting Your Printer Issues on Windows 11: A Step-by-Step Guide - Tips by YL Computing</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/updated-in-2024-how-to-make-your-own-emoji-in-2-ways-step-by-step-guide/"><u>Updated In 2024, How to Make Your Own Emoji in 2 Ways Step-By Step Guide</u></a></li>
 </ul></div>
 

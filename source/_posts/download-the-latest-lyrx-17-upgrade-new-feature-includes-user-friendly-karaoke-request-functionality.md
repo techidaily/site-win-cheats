@@ -1,7 +1,7 @@
 ---
 title: "Download the Latest LYRX 1.7 Upgrade: New Feature Includes User-Friendly Karaoke Request Functionality"
-date: 2024-12-07T20:18:09.229Z
-updated: 2024-12-12T08:10:03.572Z
+date: 2024-12-15T17:22:15.619Z
+updated: 2024-12-18T17:47:36.460Z
 tags:
   - product
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/e5896cf8bd138a267d00eafc99f462dd02faf3099
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Download the official public release of LYRX 1.7 – now with KRS (Karaoke Singer Request) System!
@@ -27,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/e5896cf8bd138a267d00eafc99f462dd02faf3099
 [![LYRX with KSR and Party Tyme](https://i1.wp.com/pcdj.com/wp-content/uploads/2021/05/LYRX.png?fit=300%2C189&ssl=1 "LYRX")](https://i1.wp.com/pcdj.com/wp-content/uploads/2021/05/LYRX.png?fit=1030%2C650&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 LYRX 1.7 is ready for download and as always, it’s a free update for LYRX KJs. Learn more and install the update below.
@@ -41,7 +41,7 @@ Also included are a number of performance improvement, optimizations for macOS C
 After extensive public testing on the [PCDJ User Group](http://www.facebook.com/groups/pcdjusergroup/), LYRX 1.7 is ready for live performance. We suggest LYRX customers update to 1.7 today!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What’s New, Changed, and Fixed in LYRX 1.7
@@ -58,7 +58,7 @@ After extensive public testing on the [PCDJ User Group](http://www.facebook.com/
 _Have questions about the latest 1.7 version of our LYRX **Karaoke Software** or the new **KSR Karaoke Singer Request system**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -80,20 +80,18 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2021/06/ksr-back-copy.jpg?fit=1200
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-guide-to-getting-1000-subscribers-for-your-youtube-channel/"><u>[New] In 2024, Guide to Getting 1000 Subscribers for Your YouTube Channel</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-the-basics-of-aspect-ratio-compliance-on-twitter/"><u>[New] The Basics of Aspect Ratio Compliance on Twitter</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-unveiling-vrs-elite-accessories-top-10/"><u>[Updated] Unveiling VR's Elite Accessories (Top 10)</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-identifying-ideal-pace-for-premium-slow-motion-cinematography/"><u>2024 Approved Identifying Ideal Pace for Premium Slow Motion Cinematography</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-the-ultimate-playbook-for-crafting-engaging-podcast-titles/"><u>2024 Approved The Ultimate Playbook for Crafting Engaging Podcast Titles</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/changing-user-permissions-through-windows-control-panel-a-step-by-step-guide-by-yl-computing/"><u>Changing User Permissions Through Windows Control Panel: A Step-by-Step Guide by YL Computing</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/exploring-the-advantages-of-embracing-cryptocurrencies-a-comprehensive-guide-by-yl-computing/"><u>Exploring the Advantages of Embracing Cryptocurrencies: A Comprehensive Guide by YL Computing</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/how-to-fix-a-computer-when-it-doesnt-recognize-your-hard-drive-solutions-by-yl-computing/"><u>How to Fix a Computer When It Doesn't Recognize Your Hard Drive - Solutions by YL Computing</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/how-to-fix-dreamlight-valley-glitches-and-stabilize-your-game-on-pc/"><u>How to Fix Dreamlight Valley Glitches and Stabilize Your Game on PC</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-elevating-visual-effects-the-impact-of-magix-vpx/"><u>In 2024, Elevating Visual Effects The Impact of Magix VPX</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/online-diagnostics-for-graphics-card-problems-insights-and-assistance-from-yl-software/"><u>Online Diagnostics for Graphics Card Problems: Insights and Assistance From YL Software</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/recognizing-signs-of-a-dying-hard-drive-a-guide-by-yl-computing/"><u>Recognizing Signs of a Dying Hard Drive: A Guide by YL Computing</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/switch-your-os-language-settings-easily-a-step-by-step-guide-by-yl-computing/"><u>Switch Your OS Language Settings Easily: A Step-by-Step Guide by YL Computing</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/the-tale-of-two-platforms-youtube-and-dailymention-for-2024/"><u>The Tale of Two Platforms YouTube and DailyMention for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/what-was-the-journey-behind-netflixs-revolutionary-dvd-subscription-service/"><u>What Was the Journey Behind Netflix's Revolutionary DVD Subscription Service?</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-full-exploration-of-googles-voice-to-text-speech-recognition-tool/"><u>[New] 2024 Approved Full Exploration of Google's Voice-to-Text Speech Recognition Tool</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-the-palette-primer-compreenasive-guide-to-coloring/"><u>[Updated] 2024 Approved The Palette Primer Compreenasive Guide to Coloring</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-make-every-podcast-session-count-with-these-15-powerful-activities/"><u>2024 Approved Make Every Podcast Session Count with These 15 Powerful Activities</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-tiktok-unboxers-playbook-for-likes/"><u>2024 Approved The Ultimate TikTok Unboxer's Playbook for Likes</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/pletely-different-places-to-get-youtube-icons-and-logos/"><u>6 Completely Different Places to Get YouTube Icons and Logos</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/a-step-by-step-guide-to-configuring-your-firewall-tips-from-yl-computings-experts/"><u>A Step-by-Step Guide to Configuring Your Firewall: Tips From YL Computing's Experts</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-workflow-favor-the-windows-terminal-over-others/"><u>Enhance Workflow: Favor the Windows Terminal Over Others</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-spotify-promotion-a-comprehensive-guide/"><u>In 2024, Mastering Spotify Promotion A Comprehensive Guide</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/is-it-possible-to-add-extra-memory-to-a-portable-computer/"><u>Is It Possible To Add Extra Memory to a Portable Computer?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-new-technology-trends-with-toms-hardware-wisdom/"><u>Mastering New Technology Trends with Tom's Hardware Wisdom</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/mastering-trouble-free-sounds-with-tips-from-yl-software-experts/"><u>Mastering Trouble-Free Sounds with Tips From YL Software Experts</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/resolving-audio-issues-effective-solutions-for-a-non-functional-sound-card-by-yl-software-professionals/"><u>Resolving Audio Issues: Effective Solutions for a Non-Functional Sound Card by YL Software Professionals</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/yl-softwares-exquisite-collection-of-butterfly-patterns-for-backgrounds-photographs-and-inspiration/"><u>YL Software's Exquisite Collection of Butterfly Patterns for Backgrounds, Photographs, and Inspiration</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "PCDJ Unveils DEX Version 3.4: Innovative Update Announcement"
-date: 2024-12-05T07:57:01.804Z
-updated: 2024-12-11T22:55:28.783Z
+date: 2024-12-12T17:46:09.330Z
+updated: 2024-12-18T17:27:39.314Z
 tags:
   - product
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/367ee4c24820f3014ce079b27a52261c1491c40b5
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## DJ Software Creators Digital 1 Audio Launch DEX 3.4, a Major Update for Their Leading Mac and Windows Live Performance Mixing Software for Mixing Music, Videos, Karaoke
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/367ee4c24820f3014ce079b27a52261c1491c40b5
 [LEARN MORE ABOUT BROADCASTING WITH DEX 3 ![](https://i1.wp.com/pcdj.com/wp-content/uploads/2015/06/broadcastmix-coverimage.jpg?fit=300%2C169&ssl=1 "broadcastmix-coverimage")](https://tools.techidaily.com/pcdj/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 “With each update [DEX 3](https://tools.techidaily.com/pcdj/products/) is fine-tuned to meet the vast requirements of today’s versatile Digital DJ” says Digital 1 Audio’s General Manager Ryan Sherr. “The 3.4 update introduces a few highly-requested features, most notably the ability to real-time connect (_or disconnect_) up to 8 DJ controllers, Windows 10 support as well as internet radio broadcasting.” Sherr Continues “Users of DEX 3 can now broadcast their mix show online using the built-in [Icecast](http://icecast.org/) support. Internet Radio is big, and offers a platform for new DJ software users to hone their DJ skills in front of a virtual audience.”
@@ -82,7 +82,7 @@ DirectX/ASIO compatible multichannel soundcard (Mac: multichannel Core Audio sou
 Since 1999, Digital 1 Audio/PCDJ has been recognized as a leading developer and manufacturer of DJ and Karaoke live performance software. More than 80,000 professional DJs around the world now spin with their computer using one of company’s entertainment products.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -104,21 +104,16 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2015/08/pressrelease34-coverimage.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-find-elite-instagram-tones-and-craft-unique-alarm-sounds/"><u>2024 Approved How to Find Elite Instagram Tones and Craft Unique Alarm Sounds</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-virtual-verification-app-standards-by-vll/"><u>2024 Approved Virtual Verification App Standards by VLL</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/captivating-elisha-cuthbert-image-gallery-for-pc-and-mobile-ultra-clear-photos-wallpapers-and-images-provided-by-yl-software/"><u>Captivating Elisha Cuthbert Image Gallery for PC & Mobile: Ultra Clear Photos, Wallpapers, and Images Provided by YL Software</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/celestial-beauty-at-your-fingertips-stunning-lunar-hd-wallpapers-from-yl-software/"><u>Celestial Beauty at Your Fingertips: Stunning Lunar HD Wallpapers From YL Software</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722975544834-effortless-download-of-nvidia-geforce-gt-drivers-optimize-your-pc-today/"><u>Effortless Download of NVIDIA GeForce GT Drivers - Optimize Your PC Today</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/expert-tips-for-diagnosing-and-fixing-windows-memory-errors-yl-software-solutions/"><u>Expert Tips for Diagnosing and Fixing Windows Memory Errors - YL Software Solutions</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/file-funneling-features-5-techniques-to-desktops/"><u>File Funneling Features 5 Techniques to Desktops</u></a></li>
-<li><a href="https://media-tips.techidaily.com/free-steps-converting-your-mkv-videos-into-3gp-format/"><u>Free Steps: Converting Your MKV Videos Into 3GP Format</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/how-can-i-fix-a-malfunctioning-graphics-card-expert-advice-by-yl-computing/"><u>How Can I Fix a Malfunctioning Graphics Card? - Expert Advice by YL Computing</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-apple-iphone-8-plus-to-other-iphone-without-icloud-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Photos from Apple iPhone 8 Plus to other iPhone without iCloud | Dr.fone</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-toolwiz-visualize-a-comprehensive-2023-evaluation/"><u>In 2024, Toolwiz Visualize - A Comprehensive 2023 Evaluation</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/mastering-web-navigation-utilizing-browser-bookmarks-and-favorites-a-guide-by-yl-computing/"><u>Mastering Web Navigation: Utilizing Browser Bookmarks and Favorites - A Guide by YL Computing</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/reviving-the-second-largest-stock-exchange-chinas-strategic-tax-cut-on-securities-transactions-takes-effect-sparking-hope-in-troubled-times/"><u>Reviving the Second-Largest Stock Exchange: China's Strategic Tax Cut on Securities Transactions Takes Effect, Sparking Hope in Troubled Times</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-generate-mind-bending-glitches-online-for-free-top-picks-2023/"><u>Updated 2024 Approved Generate Mind-Bending Glitches Online for Free Top Picks 2023</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Realme Narzo 60 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/yl-computing-solutions-mastering-the-art-of-computer-network-configuration-for-optimal-performance/"><u>YL Computing Solutions: Mastering the Art of Computer Network Configuration for Optimal Performance</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-polishing-screens-incorporating-filters-in-video/"><u>[New] In 2024, Polishing Screens Incorporating Filters in Video</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-disruptive-beatscape-best-rhythm-altering-tools/"><u>[Updated] In 2024, Disruptive Beatscape Best Rhythm Altering Tools</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/chronicles-of-change-pinpointing-the-pivotal-periods-of-chinas-revolutionary-movement-with-yl-software-solutions/"><u>Chronicles of Change: Pinpointing the Pivotal Periods of China's Revolutionary Movement with YL Software Solutions</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/factors-leading-to-the-fall-of-the-qing-dynasty-explained-expert-insights-from-yl-computing-solutions/"><u>Factors Leading to the Fall of the Qing Dynasty Explained - Expert Insights From YL Computing Solutions</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-oppo-f25-pro-5g-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Oppo F25 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-innovations-in-youtube-video-editing-software-reviewed/"><u>In 2024, Innovations in YouTube Video Editing Software Reviewed</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/looking-beneath-surface-understanding-vr-drawbacks-for-2024/"><u>Looking Beneath Surface Understanding VR Drawbacks for 2024</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/navigating-cybersecurity-whats-the-current-version-of-windows-defender-expertise-from-yl-software/"><u>Navigating Cybersecurity: What's the Current Version of Windows Defender? - Expertise From YL Software</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-revealed-the-5-superior-mac-compatible-audio-mixers/"><u>New 2024 Approved Revealed The 5 Superior Mac-Compatible Audio Mixers</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/troubleshooting-why-your-scanner-wont-connect-with-pc-solutions-from-yl-computing/"><u>Troubleshooting: Why Your Scanner Won't Connect with PC - Solutions From YL Computing</u></a></li>
+<li><a href="https://win-data.techidaily.com/watch-the-2022-world-cup-on-your-computer-using-your-smartphone/"><u>Watch the 2022 World Cup on Your Computer Using Your Smartphone</u></a></li>
 </ul></div>
 
