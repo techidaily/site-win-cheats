@@ -1,7 +1,7 @@
 ---
 title: "Download the Latest LYRX 1.7 Upgrade: New Feature Includes User-Friendly Karaoke Request Functionality"
-date: 2024-12-15T17:22:15.619Z
-updated: 2024-12-18T17:47:36.460Z
+date: 2024-12-23T06:34:57.333Z
+updated: 2024-12-26T23:37:03.633Z
 tags:
   - product
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/e5896cf8bd138a267d00eafc99f462dd02faf3099
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Download the official public release of LYRX 1.7 – now with KRS (Karaoke Singer Request) System!
@@ -27,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/e5896cf8bd138a267d00eafc99f462dd02faf3099
 [![LYRX with KSR and Party Tyme](https://i1.wp.com/pcdj.com/wp-content/uploads/2021/05/LYRX.png?fit=300%2C189&ssl=1 "LYRX")](https://i1.wp.com/pcdj.com/wp-content/uploads/2021/05/LYRX.png?fit=1030%2C650&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 LYRX 1.7 is ready for download and as always, it’s a free update for LYRX KJs. Learn more and install the update below.
@@ -41,7 +41,7 @@ Also included are a number of performance improvement, optimizations for macOS C
 After extensive public testing on the [PCDJ User Group](http://www.facebook.com/groups/pcdjusergroup/), LYRX 1.7 is ready for live performance. We suggest LYRX customers update to 1.7 today!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What’s New, Changed, and Fixed in LYRX 1.7
@@ -58,7 +58,7 @@ After extensive public testing on the [PCDJ User Group](http://www.facebook.com/
 _Have questions about the latest 1.7 version of our LYRX **Karaoke Software** or the new **KSR Karaoke Singer Request system**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -80,18 +80,19 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2021/06/ksr-back-copy.jpg?fit=1200
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-full-exploration-of-googles-voice-to-text-speech-recognition-tool/"><u>[New] 2024 Approved Full Exploration of Google's Voice-to-Text Speech Recognition Tool</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-the-palette-primer-compreenasive-guide-to-coloring/"><u>[Updated] 2024 Approved The Palette Primer Compreenasive Guide to Coloring</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-make-every-podcast-session-count-with-these-15-powerful-activities/"><u>2024 Approved Make Every Podcast Session Count with These 15 Powerful Activities</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-tiktok-unboxers-playbook-for-likes/"><u>2024 Approved The Ultimate TikTok Unboxer's Playbook for Likes</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/pletely-different-places-to-get-youtube-icons-and-logos/"><u>6 Completely Different Places to Get YouTube Icons and Logos</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/a-step-by-step-guide-to-configuring-your-firewall-tips-from-yl-computings-experts/"><u>A Step-by-Step Guide to Configuring Your Firewall: Tips From YL Computing's Experts</u></a></li>
-<li><a href="https://win11.techidaily.com/enhance-workflow-favor-the-windows-terminal-over-others/"><u>Enhance Workflow: Favor the Windows Terminal Over Others</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-spotify-promotion-a-comprehensive-guide/"><u>In 2024, Mastering Spotify Promotion A Comprehensive Guide</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/is-it-possible-to-add-extra-memory-to-a-portable-computer/"><u>Is It Possible To Add Extra Memory to a Portable Computer?</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-new-technology-trends-with-toms-hardware-wisdom/"><u>Mastering New Technology Trends with Tom's Hardware Wisdom</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/mastering-trouble-free-sounds-with-tips-from-yl-software-experts/"><u>Mastering Trouble-Free Sounds with Tips From YL Software Experts</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/resolving-audio-issues-effective-solutions-for-a-non-functional-sound-card-by-yl-software-professionals/"><u>Resolving Audio Issues: Effective Solutions for a Non-Functional Sound Card by YL Software Professionals</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/yl-softwares-exquisite-collection-of-butterfly-patterns-for-backgrounds-photographs-and-inspiration/"><u>YL Software's Exquisite Collection of Butterfly Patterns for Backgrounds, Photographs, and Inspiration</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-decoding-the-fisheye-dilemma-in-gopro-videos-for-2024/"><u>[New] Decoding the Fisheye Dilemma in GoPro Videos for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-instagram-innovation-how-final-cut-x-shapes-your-tall-screen-footage/"><u>[New] In 2024, Instagram Innovation How Final Cut X Shapes Your Tall-Screen Footage</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-from-passive-to-profitable-youtube-revenue-techniques/"><u>[Updated] 2024 Approved From Passive to Profitable YouTube Revenue Techniques</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-clear-video-logger-for-windows-10-systems-for-2024/"><u>[Updated] Clear Video Logger for Windows 10 Systems for 2024</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/1728480302614-windows-7/"><u>如何在不失去任何設置的情況下，將Windows 7 平稳地移动到其他电脑上:一步步指南</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/dwindows/"><u>Dドライブが見当たらない？Windows ˈ亭解決方法と修復ガイド</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/hddxbox-360one/"><u>HDDを保護するためのXbox 360/Oneのデータバックアップ方法 - 失うことなくセーブ可能です!</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-rewiring-windows-photo-viewer-on-windows-10-two-methods-explored/"><u>In 2024, Rewiring Windows Photo Viewer on Windows 10 - Two Methods Explored</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/maximizing-performance-with-whoop-and-apple-watch-a-dual-tech-approach-for-elite-athletes/"><u>Maximizing Performance with Whoop and Apple Watch: A Dual-Tech Approach for Elite Athletes</u></a></li>
+<li><a href="https://extra-information.techidaily.com/pureimages-backdrop-refinement-feature/"><u>PureImage's Backdrop Refinement Feature</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/sicherung-von-iphone-kontakten-ohne-den-einsatz-von-icloud-drei-effiziente-methoden/"><u>Sicherung Von iPhone Kontakten Ohne Den Einsatz Von iCloud – Drei Effiziente Methoden</u></a></li>
+<li><a href="https://facebook.techidaily.com/simplifying-group-discussions-with-channels-integration/"><u>Simplifying Group Discussions with Channels Integration</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/top-5-kommandozeilen-tricks-um-windows-10-probleme-zu-beheben/"><u>Top 5 Kommandozeilen-Tricks, Um Windows 10 Probleme Zu Beheben</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/unveiling-the-intricacies-of-a-zero-day-exploit-a-comprehensive-guide-by-malwarefox/"><u>Unveiling the Intricacies of a Zero-Day Exploit: A Comprehensive Guide by MalwareFox</u></a></li>
 </ul></div>
 

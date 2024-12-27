@@ -1,7 +1,7 @@
 ---
 title: "PCDJ Unveils DEX Version 3.4: Innovative Update Announcement"
-date: 2024-12-12T17:46:09.330Z
-updated: 2024-12-18T17:27:39.314Z
+date: 2024-12-21T16:49:39.075Z
+updated: 2024-12-26T18:53:27.303Z
 tags:
   - product
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/367ee4c24820f3014ce079b27a52261c1491c40b5
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## DJ Software Creators Digital 1 Audio Launch DEX 3.4, a Major Update for Their Leading Mac and Windows Live Performance Mixing Software for Mixing Music, Videos, Karaoke
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/367ee4c24820f3014ce079b27a52261c1491c40b5
 [LEARN MORE ABOUT BROADCASTING WITH DEX 3 ![](https://i1.wp.com/pcdj.com/wp-content/uploads/2015/06/broadcastmix-coverimage.jpg?fit=300%2C169&ssl=1 "broadcastmix-coverimage")](https://tools.techidaily.com/pcdj/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 “With each update [DEX 3](https://tools.techidaily.com/pcdj/products/) is fine-tuned to meet the vast requirements of today’s versatile Digital DJ” says Digital 1 Audio’s General Manager Ryan Sherr. “The 3.4 update introduces a few highly-requested features, most notably the ability to real-time connect (_or disconnect_) up to 8 DJ controllers, Windows 10 support as well as internet radio broadcasting.” Sherr Continues “Users of DEX 3 can now broadcast their mix show online using the built-in [Icecast](http://icecast.org/) support. Internet Radio is big, and offers a platform for new DJ software users to hone their DJ skills in front of a virtual audience.”
@@ -82,7 +82,7 @@ DirectX/ASIO compatible multichannel soundcard (Mac: multichannel Core Audio sou
 Since 1999, Digital 1 Audio/PCDJ has been recognized as a leading developer and manufacturer of DJ and Karaoke live performance software. More than 80,000 professional DJs around the world now spin with their computer using one of company’s entertainment products.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -104,16 +104,19 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2015/08/pressrelease34-coverimage.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-in-2024-polishing-screens-incorporating-filters-in-video/"><u>[New] In 2024, Polishing Screens Incorporating Filters in Video</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-disruptive-beatscape-best-rhythm-altering-tools/"><u>[Updated] In 2024, Disruptive Beatscape Best Rhythm Altering Tools</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/chronicles-of-change-pinpointing-the-pivotal-periods-of-chinas-revolutionary-movement-with-yl-software-solutions/"><u>Chronicles of Change: Pinpointing the Pivotal Periods of China's Revolutionary Movement with YL Software Solutions</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/factors-leading-to-the-fall-of-the-qing-dynasty-explained-expert-insights-from-yl-computing-solutions/"><u>Factors Leading to the Fall of the Qing Dynasty Explained - Expert Insights From YL Computing Solutions</u></a></li>
-<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-oppo-f25-pro-5g-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Oppo F25 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-innovations-in-youtube-video-editing-software-reviewed/"><u>In 2024, Innovations in YouTube Video Editing Software Reviewed</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/looking-beneath-surface-understanding-vr-drawbacks-for-2024/"><u>Looking Beneath Surface Understanding VR Drawbacks for 2024</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/navigating-cybersecurity-whats-the-current-version-of-windows-defender-expertise-from-yl-software/"><u>Navigating Cybersecurity: What's the Current Version of Windows Defender? - Expertise From YL Software</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-revealed-the-5-superior-mac-compatible-audio-mixers/"><u>New 2024 Approved Revealed The 5 Superior Mac-Compatible Audio Mixers</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/troubleshooting-why-your-scanner-wont-connect-with-pc-solutions-from-yl-computing/"><u>Troubleshooting: Why Your Scanner Won't Connect with PC - Solutions From YL Computing</u></a></li>
-<li><a href="https://win-data.techidaily.com/watch-the-2022-world-cup-on-your-computer-using-your-smartphone/"><u>Watch the 2022 World Cup on Your Computer Using Your Smartphone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-profile-perfection-101-expert-strategies-for-facebook-biography-enhancement-for-2024/"><u>[New] Profile Perfection 101 Expert Strategies for Facebook Biography Enhancement for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-step-by-step-guide-to-pairing-your-camera-gimbal-for-2024/"><u>[Updated] Step-by-Step Guide to Pairing Your Camera Gimbal for 2024</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/best-practices-for-efficient-ms-sql-backups-techniques-for-sql-server-2012-2-and-2019/"><u>Best Practices for Efficient MS SQL Backups: Techniques for SQL Server 2012, 2# & 2019</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-installation-tutorial-epson-et-3760-printer-drivers-on-windows/"><u>Download & Installation Tutorial: Epson ET-3760 Printer Drivers on Windows</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/enter-the-ai-realm-easily-accessible-knowledge-in-our-9-communities/"><u>Enter the AI Realm: Easily Accessible Knowledge in Our 9 Communities</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-lost-data-on-apple-iphone-12-pro-max-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data on Apple iPhone 12 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-enhance-your-browsing-fixing-fuzzy-videos-in-chrome-and-phone-apps/"><u>In 2024, Enhance Your Browsing Fixing Fuzzy Videos in Chrome and Phone Apps</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/perfect-your-phones-pixels-top-10-facial-modifiers-for-2024/"><u>Perfect Your Phone's Pixels Top 10 Facial Modifiers for 2024</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/problemlosung-fehler-inaccessible-boot-device-in-windows-server-2019-schritte-zum-beheben/"><u>Problemlösung: Fehler - Inaccessible Boot Device in Windows Server 2019 - Schritte Zum Beheben</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/simple-solutions-for-repairing-a-compromised-systems-primary-storage-section/"><u>Simple Solutions for Repairing a Compromised System's Primary Storage Section</u></a></li>
+<li><a href="https://win11.techidaily.com/top-tips-for-managing-files-without-renaming-directories-on-windows-11/"><u>Top Tips for Managing Files without Renaming Directories on Windows 11</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/windows-10-mydocs/"><u>Windows 10用: MyDocsフォルダーを新しいストレージへシフトする完全ガイド</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722973378204-windows-11-compatible-sound-blaster-z-driver-get-it-now/"><u>Windows 11 Compatible Sound Blaster Z Driver - Get It Now!</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/52024/"><u>パソコンの不要ファイルやデータを確実に復元！5つの最新手順【2024年版解決方法】</u></a></li>
 </ul></div>
 

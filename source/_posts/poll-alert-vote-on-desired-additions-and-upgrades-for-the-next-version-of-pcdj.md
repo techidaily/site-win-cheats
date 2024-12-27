@@ -1,7 +1,7 @@
 ---
 title: Poll Alert! Vote on Desired Additions and Upgrades for the Next Version of PCDJ
-date: 2024-12-11T16:33:31.391Z
-updated: 2024-12-18T16:04:09.414Z
+date: 2024-12-19T21:17:14.802Z
+updated: 2024-12-26T18:50:29.538Z
 tags:
   - product
 categories:
@@ -28,7 +28,7 @@ Please feel free to comment below, or share your thoughts on the PCDJ Message Fo
 _Together let’s make 2015 a year of pioneering innovation!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -50,18 +50,20 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2015/01/wanttohearfromyou-coverima
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-educational-videography-mastery-in-cutting-and-pacing/"><u>2024 Approved Educational Videography Mastery in Cutting & Pacing</u></a></li>
-<li><a href="https://win11.techidaily.com/deciphering-the-secrets-of-devhome-in-windows-11/"><u>Deciphering the Secrets of DevHome in Windows 11</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/eliminate-jscriptdll-file-missing-issues-practical-tips-and-expert-advice-for-windows-users/"><u>Eliminate JScript.dll File Missing Issues: Practical Tips and Expert Advice for Windows Users</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/elite-8-streaming-software-selections/"><u>Elite 8 Streaming Software Selections</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/essential-guidelines-for-a-thorough-computer-cleanse-and-maintenance-by-yl-software-experts/"><u>Essential Guidelines for a Thorough Computer Cleanse & Maintenance by YL Software Experts</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Nubia Z50 Ultra | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-realme-v30t-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Realme V30T Phones with/without a PC</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/mastery-of-magnified-mining-maps/"><u>Mastery of Magnified Mining Maps</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/navigating-uncertainties-comprehensive-analysis-of-crypto-investment-dangers-insights-from-yl-software/"><u>Navigating Uncertainties: Comprehensive Analysis of Crypto-Investment Dangers – Insights From YL Software</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/pro-audio-tech-review-exploring-the-top-6-stream-ready-mics-for-2024/"><u>Pro Audio Tech Review Exploring the Top 6 Stream-Ready Mics for 2024</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/section-3b-5-facts-to-remember/"><u>Section 3B: 5 Facts to Remember</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/troubleshooting-your-printer-issues-on-windows-11-a-step-by-step-guide-tips-by-yl-computing/"><u>Troubleshooting Your Printer Issues on Windows 11: A Step-by-Step Guide - Tips by YL Computing</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/updated-in-2024-how-to-make-your-own-emoji-in-2-ways-step-by-step-guide/"><u>Updated In 2024, How to Make Your Own Emoji in 2 Ways Step-By Step Guide</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-how-to-disable-live-recording-in-quicktime-player/"><u>[New] In 2024, How to Disable Live Recording in QuickTime Player</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-the-ultimate-playbook-top-20-best-practices-for-maximizing-facebook-video-success/"><u>[New] In 2024, The Ultimate Playbook Top 20 Best Practices for Maximizing Facebook Video Success</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-the-ultimate-walkthrough-for-movie-making-on-windows-8/"><u>[New] In 2024, The Ultimate Walkthrough for Movie Making on Windows 8</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-securing-memories-the-best-methods-for-saving-discords-live-conversations-for-2024/"><u>[New] Securing Memories The Best Methods for Saving Discord's Live Conversations for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-unlock-ultimate-performance-with-best-video-controller-add-ons/"><u>[New] Unlock Ultimate Performance with Best Video Controller Add-Ons</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/nlocking-the-past-best-educational-historical-content-on-yt/"><u>[New] Unlocking the Past Best Educational Historical Content on YT</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/como-solucionar-errores-de-restauracion-del-sistema-fallos-sin-disco-utilizable/"><u>Cómo Solucionar Errores De Restauración Del Sistema: Fallos Sin Disco Utilizable</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/difficultes-a-executer-lenovo-onekey-recovery-f11-solutions-pour-retablir-la-fonctionnalite-perdue/"><u>Difficultés À Exécuter Lenovo OneKey Recovery F11 : Solutions Pour Rétablir La Fonctionnalité Perdue.</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/how-to-transfer-your-os-from-hdd-to-ssd-effortlessly-without-losing-windows-files-windows-1087-for-free/"><u>How to Transfer Your OS From HDD to SSD Effortlessly Without Losing Windows Files (Windows 10/8/7) for Free</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-easily-download-specific-youtube-sections/"><u>In 2024, Easily Download Specific YouTube Sections</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/instruction-2-much-more-difficult-with-added-constraints/"><u>Instruction 2 - Much More Difficult with Added Constraints</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/kostenlose-und-schnelle-album-freigabe-auf-dem-iphone-keine-arbeit-erforderlich/"><u>Kostenlose Und Schnelle Album-Freigabe Auf Dem iPhone: Keine Arbeit Erforderlich!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/revive-your-bricked-iphone-in-just-four-simple-steps/"><u>Revive Your Bricked iPhone in Just Four Simple Steps</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/ultimate-solutions-how-to-stop-the-photos-app-from-constantly-crashing-on-your-iphone/"><u>Ultimate Solutions: How to Stop the Photos App From Constantly Crashing on Your iPhone</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/waynes-world-of-data-troubleshooting-guide-for-wd-backup-issues/"><u>Wayne's World of Data: Troubleshooting Guide for WD Backup Issues</u></a></li>
 </ul></div>
 
