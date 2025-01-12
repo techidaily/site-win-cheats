@@ -1,7 +1,7 @@
 ---
 title: Poll Alert! Vote on Desired Additions and Upgrades for the Next Version of PCDJ
-date: 2024-12-19T21:17:14.802Z
-updated: 2024-12-26T18:50:29.538Z
+date: 2025-01-11T06:53:39.257Z
+updated: 2025-01-11T18:06:05.098Z
 tags:
   - product
 categories:
@@ -28,7 +28,7 @@ Please feel free to comment below, or share your thoughts on the PCDJ Message Fo
 _Together let’s make 2015 a year of pioneering innovation!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -50,20 +50,19 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2015/01/wanttohearfromyou-coverima
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-how-to-disable-live-recording-in-quicktime-player/"><u>[New] In 2024, How to Disable Live Recording in QuickTime Player</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-the-ultimate-playbook-top-20-best-practices-for-maximizing-facebook-video-success/"><u>[New] In 2024, The Ultimate Playbook Top 20 Best Practices for Maximizing Facebook Video Success</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-the-ultimate-walkthrough-for-movie-making-on-windows-8/"><u>[New] In 2024, The Ultimate Walkthrough for Movie Making on Windows 8</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-securing-memories-the-best-methods-for-saving-discords-live-conversations-for-2024/"><u>[New] Securing Memories The Best Methods for Saving Discord's Live Conversations for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-unlock-ultimate-performance-with-best-video-controller-add-ons/"><u>[New] Unlock Ultimate Performance with Best Video Controller Add-Ons</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/nlocking-the-past-best-educational-historical-content-on-yt/"><u>[New] Unlocking the Past Best Educational Historical Content on YT</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/como-solucionar-errores-de-restauracion-del-sistema-fallos-sin-disco-utilizable/"><u>Cómo Solucionar Errores De Restauración Del Sistema: Fallos Sin Disco Utilizable</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/difficultes-a-executer-lenovo-onekey-recovery-f11-solutions-pour-retablir-la-fonctionnalite-perdue/"><u>Difficultés À Exécuter Lenovo OneKey Recovery F11 : Solutions Pour Rétablir La Fonctionnalité Perdue.</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/how-to-transfer-your-os-from-hdd-to-ssd-effortlessly-without-losing-windows-files-windows-1087-for-free/"><u>How to Transfer Your OS From HDD to SSD Effortlessly Without Losing Windows Files (Windows 10/8/7) for Free</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-easily-download-specific-youtube-sections/"><u>In 2024, Easily Download Specific YouTube Sections</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/instruction-2-much-more-difficult-with-added-constraints/"><u>Instruction 2 - Much More Difficult with Added Constraints</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/kostenlose-und-schnelle-album-freigabe-auf-dem-iphone-keine-arbeit-erforderlich/"><u>Kostenlose Und Schnelle Album-Freigabe Auf Dem iPhone: Keine Arbeit Erforderlich!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/revive-your-bricked-iphone-in-just-four-simple-steps/"><u>Revive Your Bricked iPhone in Just Four Simple Steps</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/ultimate-solutions-how-to-stop-the-photos-app-from-constantly-crashing-on-your-iphone/"><u>Ultimate Solutions: How to Stop the Photos App From Constantly Crashing on Your iPhone</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/waynes-world-of-data-troubleshooting-guide-for-wd-backup-issues/"><u>Wayne's World of Data: Troubleshooting Guide for WD Backup Issues</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-women-in-warfare-youtubes-elite-ten/"><u>[Updated] In 2024, Women in Warfare YouTube’s Elite Ten</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-rapid-transition-from-srt-to-subc-with-simple-steps-for-2024/"><u>[Updated] Rapid Transition From SRT to SUBC with Simple Steps for 2024</u></a></li>
+<li><a href="https://fox-search.techidaily.com/bridging-continents-through-peace-china-and-africa-unite-at-the-3rd-national-defense-forum-exclusive-coverage-by-yl-software/"><u>Bridging Continents Through Peace: China & Africa Unite at the 3Rd National Defense Forum - Exclusive Coverage by YL Software</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/defektierter-usb-speicherstick-methoden-zur-datenwiederholung-erklart/"><u>Defektierter USB-Speicherstick - Methoden Zur Datenwiederholung Erklärt</u></a></li>
+<li><a href="https://article-posts.techidaily.com/dji-mavic-pro-vs-gopro-karma/"><u>DJI Mavic Pro Vs GoPro Karma</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/efficient-sql-management-automating-database-backups-and-cleanup-processes/"><u>Efficient SQL Management: Automating Database Backups & Cleanup Processes</u></a></li>
+<li><a href="https://fox-place.techidaily.com/guide-simple-utilisation-donedrive-pour-la-synchronisation-entre-deux-pc/"><u>Guide Simple : Utilisation D'OneDrive Pour La Synchronisation Entre Deux PC</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-oneplus-11r-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your OnePlus 11R Device</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/in-2024-which-platform-triumphs-in-revenue-generation-dailymotion-vs-youtube/"><u>In 2024, Which Platform Triumphs in Revenue Generation? Dailymotion Vs YouTube</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-unresponsive-to-touch-here-are-7-possible-reasons-explained/"><u>IPhone Unresponsive to Touch? Here Are 7 Possible Reasons Explained!</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/onedrive-for-business-windows-111087/"><u>OneDrive for Businessへのバックアップ: Windows 11・10・8・7ご利用者向けガイド</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/passo-passo-per-la-sincronizzazione-simultanea-di-due-sistemi-macos-una-guida-approfondita/"><u>Passo Passo per La Sincronizzazione Simultanea Di Due Sistemi macOS: Una Guida Approfondita</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/quick-solutions-for-hulus-rununk13-error-resolved-in-minutes/"><u>Quick Solutions for Hulu's RUNUNK13 Error - Resolved in Minutes!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-innovative-solutions-from-toms-hardware-universe/"><u>Tom's Tech Insights: Innovative Solutions From Tom's Hardware Universe</u></a></li>
 </ul></div>
 
