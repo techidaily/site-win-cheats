@@ -1,7 +1,7 @@
 ---
 title: "PCDJ Unveils DEX Version 3.4: Innovative Update Announcement"
-date: 2025-01-11T00:38:52.769Z
-updated: 2025-01-11T21:18:01.933Z
+date: 2025-01-16T21:40:01.093Z
+updated: 2025-01-18T01:03:03.830Z
 tags:
   - product
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/367ee4c24820f3014ce079b27a52261c1491c40b5
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## DJ Software Creators Digital 1 Audio Launch DEX 3.4, a Major Update for Their Leading Mac and Windows Live Performance Mixing Software for Mixing Music, Videos, Karaoke
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/367ee4c24820f3014ce079b27a52261c1491c40b5
 [LEARN MORE ABOUT BROADCASTING WITH DEX 3 ![](https://i1.wp.com/pcdj.com/wp-content/uploads/2015/06/broadcastmix-coverimage.jpg?fit=300%2C169&ssl=1 "broadcastmix-coverimage")](https://tools.techidaily.com/pcdj/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 “With each update [DEX 3](https://tools.techidaily.com/pcdj/products/) is fine-tuned to meet the vast requirements of today’s versatile Digital DJ” says Digital 1 Audio’s General Manager Ryan Sherr. “The 3.4 update introduces a few highly-requested features, most notably the ability to real-time connect (_or disconnect_) up to 8 DJ controllers, Windows 10 support as well as internet radio broadcasting.” Sherr Continues “Users of DEX 3 can now broadcast their mix show online using the built-in [Icecast](http://icecast.org/) support. Internet Radio is big, and offers a platform for new DJ software users to hone their DJ skills in front of a virtual audience.”
@@ -82,7 +82,7 @@ DirectX/ASIO compatible multichannel soundcard (Mac: multichannel Core Audio sou
 Since 1999, Digital 1 Audio/PCDJ has been recognized as a leading developer and manufacturer of DJ and Karaoke live performance software. More than 80,000 professional DJs around the world now spin with their computer using one of company’s entertainment products.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -104,18 +104,17 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2015/08/pressrelease34-coverimage.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-maximizing-ipad-audio-record-best-tips/"><u>[New] Maximizing iPad Audio Record Best Tips</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-crafting-your-gaming-channel-on-youtube-for-2024/"><u>[Updated] Crafting Your Gaming Channel on YouTube for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-from-project-board-to-public-display-imovie-on-youtube-for-2024/"><u>[Updated] From Project Board to Public Display IMovie on YouTube for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-crafting-engaging-youtube-thumbnails-a-step-by-step-guide/"><u>[Updated] In 2024, Crafting Engaging YouTube Thumbnails A Step-by-Step Guide</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-securing-your-zoom-conference-room-audio-and-video-considerations/"><u>[Updated] Securing Your Zoom Conference Room Audio & Video Considerations</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/1728498906346-windows-11/"><u>簡易指南：在新電腦上安裝 Windows 11 - 兩大有效方法</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/easy-hard-drive-transition-for-windows-server-2016-migrate-hdd-to-new-ssdhdd-instantly-without-reinstalling/"><u>Easy Hard Drive Transition for Windows Server 2016: Migrate HDD to New SSD/HDD Instantly Without Reinstalling</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/erneuern-sie-ihren-leeren-papierkorb-mit-diesen-einfachen-tipps-komplette-restaurierungsanleitung-von-myrecoveryexperts/"><u>Erneuern Sie Ihren Leeren Papierkorb Mit Diesen Einfachen Tipps! Komplette Restaurierungsanleitung Von MyRecoveryExperts</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/pugilism-power-play-against-viewership-virtue-for-2024/"><u>Pugilism Power Play Against Viewership Virtue for 2024</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/recover-missing-files-on-windows-11-with-ifind-data-recovery/"><u>Recover Missing Files on Windows 11 with IFind Data Recovery</u></a></li>
-<li><a href="https://fox-http.techidaily.com/understanding-the-upside-to-asmrs-sensory-experience-for-2024/"><u>Understanding the Upside to ASMR's Sensory Experience for 2024</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-the-art-of-gamers-vocal-disguise-selecting-the-ultimate-toolkit/"><u>Updated The Art of Gamers Vocal Disguise Selecting the Ultimate Toolkit</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/44oh44kj44k544kv44gu5pwf6zqc44or44o844og44kj44k344on44oz44gr44gk44gr44kl5oof5acx5b6p5ywd5oml5rov44go5luy5yqg55qe44os44oz44oi/"><u>ディスクの故障パーティションにおける情報復元手法と付加的ヒント</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-critically-acclaimed-video-cards-for-clear-youtube-broadcasts/"><u>[New] In 2024, Critically Acclaimed Video Cards for Clear YouTube Broadcasts</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-prime-gear-for-traditional-animators-needs/"><u>[Updated] Prime Gear for Traditional Animators' Needs</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-step-by-step-instructions-for-using-telegram-online-professionally/"><u>[Updated] Step-By-Step Instructions For Using Telegram Online Professionally</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-honor-magic-5-lite-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Honor Magic 5 Lite | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-update-hp-laserjet-p3015-printer-drivers-on-windows-pc/"><u>Download and Update HP LaserJet P3015 Printer Drivers on Windows PC</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/easy-steps-for-personalizing-computer-sounds-using-windows-control-panel-tutorial-from-yl-systems/"><u>Easy Steps for Personalizing Computer Sounds Using Windows Control Panel - Tutorial From YL Systems</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/effective-solutions-a-guide-to-diagnosing-and-fixing-graphics-card-issues-tips-from-yl-computings-expertise/"><u>Effective Solutions: A Guide to Diagnosing and Fixing Graphics Card Issues - Tips From YL Computing's Expertise</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/exploring-causes-of-fluctuating-internet-connectivity-with-yl-software-solutions/"><u>Exploring Causes of Fluctuating Internet Connectivity with YL Software Solutions</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/high-quality-bmw-m3-2019-hd-resolution-wallpaper-graphics-and-desktop-backgrounds-premium-digital-artwork-by-yl-computing/"><u>High-Quality BMW M3 (2019) HD Resolution Wallpaper Graphics & Desktop Backgrounds - Premium Digital Artwork by YL Computing</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-itel-p55plus-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Itel P55+ Phone with Broken Screen</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/portable-stabilizer-for-clear-videographers-footage/"><u>Portable Stabilizer for Clear Videographer’s Footage</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/say-no-to-unsolicited-content-on-insta/"><u>Say No to Unsolicited Content on Insta</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Easy Guide: Adjusting DEX 3 Skin Interface - A DJ Software Pro-Tips Video"
-date: 2025-01-10T06:50:52.737Z
-updated: 2025-01-11T17:06:26.075Z
+date: 2025-01-12T17:26:01.919Z
+updated: 2025-01-17T16:54:28.323Z
 tags:
   - product
 categories:
@@ -29,13 +29,13 @@ In this [DEX 3 DJ software](https://tools.techidaily.com/pcdj/products/) quick t
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### DEX 3 QUICK TIP VIDEO: RESIZING THE GUI
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -57,15 +57,22 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2014/10/dex3gui-quicktip-coverimag
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-top-ten-image-amplifiers-for-social-media/"><u>[New] In 2024, Top Ten Image Amplifiers for Social Media</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-top-10-visual-gratification-tools-for-instagram-grids-for-2024/"><u>[Updated] Top 10 Visual Gratification Tools for Instagram Grids for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-live-streamer-showdown-pick-your-champion-between-wirecast-and-obs/"><u>In 2024, Live Streamer Showdown Pick Your Champion Between Wirecast and OBS</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-honor-100-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Honor 100 to PC- Detailed Steps | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/rising-above-the-crowd-trending-techniques-for-youtubers-for-2024/"><u>Rising Above the Crowd Trending Techniques for YouTubers for 2024</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/tutorial-kecil-untuk-restu-file-terhapus-dalam-memori-stick-ps-playstation-portable/"><u>Tutorial Kecil Untuk Restu File Terhapus Dalam Memori Stick PS PLAYSTATION PORTABLE</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/unlocking-disconnected-file-access-on-windows-11-a-step-by-step-guide-for-three-approaches/"><u>Unlocking Disconnected File Access on Windows 11: A Step-by-Step Guide for Three Approaches</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-best-online-video-rotators-for-rotating-videos-winmac/"><u>Updated Best Online Video Rotators for Rotating Videos Win/Mac</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/windows-10-mydocs/"><u>Windows 10用: MyDocsフォルダーを新しいストレージへシフトする完全ガイド</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/alhdth-alakthr-shmola-thmyl-mlfat-windows-togo-bshola-windows-11-10-8-7/"><u>الحدث الأكثر شمولا: تحميل ملفات Windows ToGo بسهولة - Windows 11, 10, 8, 7</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-action-captured-top-choice-in-recorders-explored/"><u>[New] 2024 Approved Action Captured Top Choice in Recorders Explored</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-crack-the-code-of-tinders-elite-profiles-with-these-tricks/"><u>[New] Crack the Code of Tinder's Elite Profiles with These Tricks</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-discovering-the-best-vr-camera-for-adventures-for-2024/"><u>[Updated] Discovering the Best VR Camera for Adventures for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-the-insiders-handbook-for-instagram-video-woes/"><u>[Updated] The Insider’s Handbook for Instagram Video Woes</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-cutting-edge-techniques-for-video-production-in-windows-photos/"><u>2024 Approved Cutting-Edge Techniques for Video Production in Windows Photos</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/accelerate-your-business-launch-with-expert-strategies-from-yl-software/"><u>Accelerate Your Business Launch with Expert Strategies From YL Software</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/can-deleting-your-browsing-history-and-cookies-impact-your-online-safety-expert-advice-from-yl-computing/"><u>Can Deleting Your Browsing History & Cookies Impact Your Online Safety? - Expert Advice From YL Computing</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/clear-paper-jams-with-ease-essential-tips-by-yl-software-professionals/"><u>Clear Paper Jams with Ease: Essential Tips by YL Software Professionals</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/clearscan-guide-diagnosing-and-fixing-scanner-fuzziness-with-yls-expert-advice/"><u>ClearScan Guide: Diagnosing and Fixing Scanner Fuzziness with YL's Expert Advice</u></a></li>
+<li><a href="https://fox-access.techidaily.com/how-to-remove-jello-effect-from-an-aerial-video-for-2024/"><u>How to Remove Jello Effect From an Aerial Video for 2024</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/master-file-compression-on-windows-pcs-with-yls-step-by-step-instructions/"><u>Master File Compression on Windows PCs with YL's Step-by-Step Instructions</u></a></li>
+<li><a href="https://article-files.techidaily.com/mastering-netflixs-split-screen-functionality/"><u>Mastering Netflix's Split Screen Functionality</u></a></li>
+<li><a href="https://win-top.techidaily.com/optimize-your-site-the-comprehensive-guide-to-seo-driven-data-processing-tools/"><u>Optimize Your Site: The Comprehensive Guide to SEO-Driven Data Processing Tools</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/pros-and-cons-of-using-non-original-gpu-drivers-insights-from-yl-computing/"><u>Pros and Cons of Using Non-Original GPU Drivers - Insights From YL Computing</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/tailoring-windows-defender-settings-for-optimal-personal-security-a-comprehensive-guide-by-yl-computing/"><u>Tailoring Windows Defender Settings for Optimal Personal Security: A Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/temporary-deactivation-of-windows-defender-a-step-by-step-guide-cyberguardian-pros/"><u>Temporary Deactivation of Windows Defender: A Step-by-Step Guide - CyberGuardian Pros</u></a></li>
+<li><a href="https://change-location.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-vivo-y100a-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On Vivo Y100A? | Dr.fone</u></a></li>
 </ul></div>
 
