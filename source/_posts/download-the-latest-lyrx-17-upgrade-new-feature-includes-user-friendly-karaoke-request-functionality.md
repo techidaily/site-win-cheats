@@ -1,7 +1,7 @@
 ---
 title: "Download the Latest LYRX 1.7 Upgrade: New Feature Includes User-Friendly Karaoke Request Functionality"
-date: 2025-01-23T04:22:04.984Z
-updated: 2025-01-23T21:39:05.111Z
+date: 2025-01-29T19:51:49.523Z
+updated: 2025-01-31T18:37:14.370Z
 tags:
   - product
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/e5896cf8bd138a267d00eafc99f462dd02faf3099
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Download the official public release of LYRX 1.7 – now with KRS (Karaoke Singer Request) System!
@@ -27,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/e5896cf8bd138a267d00eafc99f462dd02faf3099
 [![LYRX with KSR and Party Tyme](https://i1.wp.com/pcdj.com/wp-content/uploads/2021/05/LYRX.png?fit=300%2C189&ssl=1 "LYRX")](https://i1.wp.com/pcdj.com/wp-content/uploads/2021/05/LYRX.png?fit=1030%2C650&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 LYRX 1.7 is ready for download and as always, it’s a free update for LYRX KJs. Learn more and install the update below.
@@ -41,7 +41,7 @@ Also included are a number of performance improvement, optimizations for macOS C
 After extensive public testing on the [PCDJ User Group](http://www.facebook.com/groups/pcdjusergroup/), LYRX 1.7 is ready for live performance. We suggest LYRX customers update to 1.7 today!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What’s New, Changed, and Fixed in LYRX 1.7
@@ -58,7 +58,7 @@ After extensive public testing on the [PCDJ User Group](http://www.facebook.com/
 _Have questions about the latest 1.7 version of our LYRX **Karaoke Software** or the new **KSR Karaoke Singer Request system**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -80,22 +80,24 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2021/06/ksr-back-copy.jpg?fit=1200
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/updated-how-to-enable-grid-view-on-google-meet-to-see-every-participant-for-2024/"><u>[Updated] How to Enable Grid View on Google Meet to See Every Participant for 2024</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/1728474568081-cf/"><u>CFカードの初期化後、どうやって情報を回復するか?</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/comment-accelerer-le-recuperation-des-informations-sur-un-ssd/"><u>Comment Accélérer Le Récupération Des Informations Sur Un SSD ?</u></a></li>
-<li><a href="https://win-top.techidaily.com/comment-configurer-des-sauvegardes-automatisees-pour-votre-systeme-windows-avec-truenas-les-meilleures-approches-efficaces/"><u>Comment Configurer Des Sauvegardes Automatisées Pour Votre Système Windows Avec TrueNAS : Les Meilleures Approches Efficaces</u></a></li>
-<li><a href="https://techidaily.com/complete-tutorial-for-oppo-find-x7-ultra-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Oppo Find X7 Ultra Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/effective-strategies-to-rapidly-correct-the-code-0x80004005-issue/"><u>Effective Strategies to Rapidly Correct the 'Code: 0X80004005' Issue</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/efficient-system-monitoring-ram-gpu-and-cpu-status-guide/"><u>Efficient System Monitoring: RAM, GPU, and CPU Status Guide</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/fixing-your-hp-printers-error-mode-in-windows-11-with-these-5-simple-techniques/"><u>Fixing Your HP Printer's Error Mode in Windows 11 with These 5 Simple Techniques</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/getting-acquainted-with-quantum-hdr-techniques/"><u>Getting Acquainted with Quantum HDR Techniques</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/how-to-recover-data-after-accidental-deletion-with-avast-antivirus-expert-tips-and-tricks/"><u>How to Recover Data After Accidental Deletion with Avast Antivirus – Expert Tips and Tricks</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-tecno-spark-20-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your Tecno Spark 20 in 3 Ways | Dr.fone</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-how-to-edit-youtube-videos-in-sony-vegas/"><u>In 2024, How to Edit YouTube Videos in Sony Vegas</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/the-essential-steps-of-moving-your-servers-effectively-and-securely/"><u>The Essential Steps of Moving Your Servers Effectively & Securely</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-ultimate-affordable-asmr-experience-awaits-for-2024/"><u>The Ultimate Affordable ASMR Experience Awaits for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-steps-how-to-stop-red-dead-redemption-amo-from-crashing-on-windows/"><u>Troubleshooting Steps: How to Stop 'Red Dead Redemption Amo' From Crashing on Windows</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/tutorial-kecil-untuk-restu-file-terhapus-dalam-memori-stick-ps-playstation-portable/"><u>Tutorial Kecil Untuk Restu File Terhapus Dalam Memori Stick PS PLAYSTATION PORTABLE</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/windows-10-5-windows-10/"><u>データ不損失：Windows 지원 10에서 삭제된 데이터를 다시 가져오는 5가지 방법 - Windows 10</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-guide-to-equipment-selection-for-youtube-creators-for-2024/"><u>[New] Guide to Equipment Selection for YouTube Creators for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-guerrilla-marketing-for-youtube-upping-video-traffic/"><u>[Updated] In 2024, Guerrilla Marketing for YouTube Upping Video Traffic</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-mastering-instagram-essential-hashtag-tips/"><u>[Updated] In 2024, Mastering Instagram Essential Hashtag Tips</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/1728497019224-0x80/"><u>「エラー0x80#:修正完了後、システムのリカバリプロセス中に突然見つからない誤りを探知します」</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-quick-steps-to-become-a-9gag-meme-genius/"><u>2024 Approved Quick Steps to Become a 9GAG Meme Genius</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/windows-7-v7601/"><u>非公式 Windows 7 V7.601版対処ガイド - 不正なシステムを安全に管理する方法</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-step-by-step-guide-to-using-dism-on-win11/"><u>A Step-by-Step Guide to Using Dism on Win11</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/come-effettuare-il-ripristino-di-vecchie-versioni-su-un-disco-rigido-esterno/"><u>Come Effettuare Il Ripristino Di Vecchie Versioni Su Un Disco Rigido Esterno</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/dropbox-upload-hochladen-von-iphone-fotos-auf-deinen-pc/"><u>Dropbox-Upload: Hochladen Von iPhone-Fotos Auf Deinen PC</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/efficient-editing-harnessing-photoshops-powerful-eraser/"><u>Efficient Editing Harnessing Photoshop’s Powerful Eraser</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/erfolgreich-beschadigte-bilddateien-von-einer-sd-karte-retten-tipps-und-tricks/"><u>Erfolgreich Beschädigte Bilddateien Von Einer SD-Karte Retten - Tipps Und Tricks</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/guida-passo-passo-per-il-salvataggio-della-cronologia-e-delle-versioni-precedenti-dei-file-in-windows-7/"><u>Guida Passo-Passo per Il Salvataggio Della Cronologia E Delle Versioni Precedenti Dei File in Windows 7</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/guide-complet-comment-conserver-vos-donnees-windows-10-avant-de-passer-a-windows-11/"><u>Guide Complet : Comment Conserver Vos Données Windows 10 Avant De Passer À Windows 11</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/securely-save-your-adventures-learn-the-best-practices-for-backing-up-pc-game-saves-with-our-expert-tips/"><u>Securely Save Your Adventures: Learn the Best Practices for Backing Up PC Game Saves with Our Expert Tips</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-the-last-epoch-pc-release-issue-comprehensive-guide-and-fixes/"><u>Solving the 'Last Epoch' PC Release Issue: Comprehensive Guide & Fixes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/triple-column-widget-setup-in-windows-11-guide/"><u>Triple Column Widget Setup in Windows 11 Guide</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/ultimate-tutorial-on-deleting-your-vm-with-vmware/"><u>Ultimate Tutorial on Deleting Your VM with VMWare</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/1728463509153-windows-11usb/"><u>Windows 11に最適なデルのリカバリーUSB作り詳しい手引き</u></a></li>
+<li><a href="https://driver-download.techidaily.com/windows-7-stereo-driver-update-packs-available-now-secure-free-download/"><u>Windows 7 Stereo Driver Update Packs Available Now - Secure Free Download</u></a></li>
 </ul></div>
 

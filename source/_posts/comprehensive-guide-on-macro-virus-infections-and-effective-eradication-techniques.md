@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Guide on Macro Virus Infections & Effective Eradication Techniques
-date: 2025-01-16T22:24:34.112Z
-updated: 2025-01-24T01:37:16.494Z
+date: 2025-01-27T18:09:57.922Z
+updated: 2025-01-31T19:13:04.623Z
 tags:
   - product
   - antivirus
@@ -46,6 +46,10 @@ Macro viruses are a type of malware that uses macros to infect your computer. A 
 
 Macros can be very helpful when used correctly but they can also be dangerous if used to create malware. Macro viruses use macros to infect your computer by hiding themselves in legitimate files like Word documents or Excel spreadsheets. When you open the infected file, the virus will run and infect your computer. They then go about replicating themselves by changing the macro commands in Microsoft Office documents to make them do malicious things like sending out spam emails to contacts on your behalf.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How does a Macro Virus spread?
 
 Macro viruses are usually spread through email attachments, malware downloads, and social engineering. Let us discuss how exactly. 
@@ -61,6 +65,10 @@ Macro viruses are also spread by malware downloads, i.e., you downloading and in
 ### **Through Social engineering**
 
 Macro viruses can also spread through social engineering techniques. Social engineering is a type of hacking where cybercriminals use various methods to trick users into revealing their sensitive information like passwords or credit card details. For example, phishing emails are email messages that attempt to lure the user into clicking on a link or opening an attachment that contains the virus. These emails usually look very legitimate and often have convincing subject lines and sender addresses that make them appear as if they’re from a trusted source. As part of the scam, these emails might also ask you to provide personal information like your name, address, date of birth, etc., which can then be used to hijack your accounts and steal your identity.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How does a Macro Virus Work?
 
@@ -98,10 +106,6 @@ So, if any adware started to load automatically into your PC, it will remove the
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Step 2: Delete Temporary Files**
 
 The temporary files folder can also be a carrier of malicious files of Macro Viruses. You should delete all the temporary files and folders regularly for the smooth running of the system. Removing the temporary files would also clear the unnecessary clutter from your system and free up valuable space.
@@ -122,7 +126,7 @@ Here are the steps to eliminate the temporary files on Windows 10:
 5. Next right-click on the **Recycle Bin** and select **Empty Recycle Bin.**![Empty recycle bin](https://www.malwarefox.com/wp-content/uploads/2020/07/Empty-recycle-bin.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### **Remove Temporary Files from Windows 11**
@@ -151,15 +155,15 @@ Windows 10Windows 11
 ![Open Task Manager](https://www.malwarefox.com/wp-content/uploads/2020/05/Open-Task-Manger.png)
 2. Watch out for the applications that are consuming the system memory even though you did not install or launch them.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. Right-click on the suspicious application and open its file location.  
 ![uninstall suspicous files](https://www.malwarefox.com/wp-content/uploads/2020/07/uninstall-suspicous-files.png)
 4. Delete the file from its root location.
 
 5. Open Control Panel and click on **Uninstall a program** and check for suspicious apps. One by one, select and uninstall them.![uninstall the apps](https://www.malwarefox.com/wp-content/uploads/2020/07/uninstall-the-apps.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### **Uninstall Suspicious Apps on Windows 11**
 
@@ -169,18 +173,14 @@ Windows 10Windows 11
 3. Right-click on such applications and open their file location.![uninstall suspicous files](https://www.malwarefox.com/wp-content/uploads/2020/07/uninstall-suspicous-files.png)
 4. Delete all files from the targeted folder. Some files won’t be deleted as the application is still active.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Open **Control Panel** and click on **Uninstall a program**.![uninstall-a-program](https://www.malwarefox.com/wp-content/uploads/2021/09/uninstall-a-program.png)
 6. Check for suspicious apps. One by one, select and uninstall them.![uninstall the apps](https://www.malwarefox.com/wp-content/uploads/2020/07/uninstall-the-apps.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Step 4: Remove System Restore Points**
 
@@ -189,12 +189,12 @@ The system restore points can also have the potential to contain the malicious f
 1. To do this, press the _“Windows + pause break”_ keys to open the System window from the control panel and choose the _“System protection”._![remove malware from Windows 10](https://www.malwarefox.com/wp-content/uploads/2017/08/3-2.png)
 2. From the System Properties window, select the _drive_ whose system protection is located (Local Disk: C) and click _“Configure”_ and _“Ok”._  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![remove malware from Windows 10](https://www.malwarefox.com/wp-content/uploads/2017/08/4-2.png)
 3. Tap the _“Delete”_ button to delete the restore points for your system. Now, the small confirmation dialog window will persist, click _“continue”_ to remove all the restore points on the selected drive.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -215,10 +215,6 @@ Here are the steps to reset the Google Chrome browser:
 2. On the Settings page, click on the **Advanced** at the left pane.![adanced-chrome-settings](https://www.malwarefox.com/wp-content/uploads/2021/09/adanced-chrome-settings.png)
 3. Under Advanced settings, click on **Reset and clean up**.![reset-and-clean-up](https://www.malwarefox.com/wp-content/uploads/2021/09/reset-and-clean-up.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Next, click on the **Reset Settings** button to finish resetting the Chrome Browser.![reset-settings](https://www.malwarefox.com/wp-content/uploads/2021/09/reset-settings.png)
 
 [How to Control a Chrome Extension’s Permissions](https://tools.techidaily.com/malwarefox/products/)
@@ -231,7 +227,7 @@ Follow these steps to reset the Mozilla Firefox:
 2. Under Firefox Help, choose **More troubleshooting information**.![more-troubleshooting-options](https://www.malwarefox.com/wp-content/uploads/2021/09/more-troubleshooting-options.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. On the Troubleshooting Information page, click on the **Refresh Firefox** button under **Give Firefox a tune up**. This is on the right side of the page.![refresh-firefox](https://www.malwarefox.com/wp-content/uploads/2021/09/refresh-firefox.png)
@@ -246,7 +242,7 @@ On Microsoft Edge, follow these instructions to reset it:
 2. Under the settings page, click on **Reset settings** on the left pane.![reset-settings-edge](https://www.malwarefox.com/wp-content/uploads/2021/09/reset-settings-edge.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. Click on **Restore settings to their default value**.![reset-edge](https://www.malwarefox.com/wp-content/uploads/2021/09/reset-edge.png)
@@ -265,7 +261,7 @@ Though TrickBot tends to hide from the security programs or disable them, that�
 2. Perform a full system scan to get rid of every malware that is troubling your system.![MalwareFox Antimalware](https://www.malwarefox.com/wp-content/uploads/2020/02/malwarefox.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to prevent Macro Virus attacks?
@@ -295,6 +291,10 @@ The best way to prevent Macro Virus attacks is to follow the security best pract
 
 There are many kinds of viruses like boot sector virus, stealth virus, polymorphic virus, and memory-resident virus which infects disk sectors and allows other malicious programs/viruses to attach themselves to legitimate programs so as to conceal their presence in the computer system. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Leave a Comment [Cancel reply](https://tools.techidaily.com/malwarefox/products/)
 
 Comment
@@ -320,20 +320,24 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-balanced-photography-top-phones-and-cameras-tripod-for-2024/"><u>[New] Balanced Photography Top Phones & Cameras Tripod for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-claim-the-crown-strategies-for-staff-picked-videos-at-vimeo/"><u>[Updated] In 2024, Claim the Crown Strategies for Staff-Picked Videos at Vimeo</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/1-mastering-photo-retrieval-expert-tips-on-restoring-images-from-a-minolta-camera/"><u>1. Mastering Photo Retrieval: Expert Tips on Restoring Images From a Minolta Camera</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/comment-resoudre-le-probleme-de-la-partition-efi-manquante-solutions-et-patchs/"><u>Comment Résoudre Le Problème De La Partition EFI Manquante : Solutions Et Patchs</u></a></li>
-<li><a href="https://os-tips.techidaily.com/easy-steps-navigating-the-android-devices-contact-list/"><u>Easy Steps: Navigating the Android Device's Contact List</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/get-rid-of-the-google-threat-notice-error-using-malwarefox-your-ultimate-removal-tutorial/"><u>Get Rid of the Google Threat Notice Error Using MalwareFox – Your Ultimate Removal Tutorial</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/how-can-malicious-software-evade-detection-by-security-suites-insights-from-malwarefox/"><u>How Can Malicious Software Evade Detection by Security Suites: Insights From MalwareFox</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-iphone-12-from-backup-when-itunes-backup-is-corrupt-or-not-compatible-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Restore iPhone 12 from Backup when iTunes Backup is Corrupt or not compatible | Stellar</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/how-to-set-up-a-system-restore-in-windows-server-2003-two-effective-methods/"><u>How To Set Up a System Restore in Windows Server 2003 - Two Effective Methods</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-depth-exploration-of-morphvox-for-precise-sound-alteration-for-2024/"><u>In-Depth Exploration of MorphVOX for Precise Sound Alteration for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/mastering-airtunes-on-your-apple-devices-quick-guide-to-repairs-for-2024/"><u>Mastering Airtunes on Your Apple Devices - Quick Guide to Repairs for 2024</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/pny-ssd-copier-sans-probleme-clonage-optimise-pour-windows-grace-a-un-logiciel-innovant-et-performant/"><u>PNY SSD Copier Sans Problème - Clonage Optimisé Pour Windows Grâce À Un Logiciel Innovant Et Performant</u></a></li>
-<li><a href="https://games-able.techidaily.com/tactical-steps-for-gps-reconnaissance-in-pokemon-go-adventures/"><u>Tactical Steps for GPS Reconnaissance in Pokémon GO Adventures</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/top-relevante-lizenzfreie-datensicherungsprogramme-fur-windows-server-2008-r2-fuhren-sie-ihre-daten-sicher/"><u>Top-Relevante Lizenzfreie Datensicherungsprogramme Für Windows Server 2008 R2 – Führen Sie Ihre Daten Sicher</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/transcend-hdd/"><u>スピーディかつ安全！Transcend HDDバックアップガイド</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-craft-a-sonic-whatsapp-update/"><u>[New] Craft a Sonic WhatsApp Update</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-essential-guidelines-for-implementing-music-emojis-in-instagram-for-2024/"><u>[New] Essential Guidelines for Implementing Music Emojis in Instagram for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-guffaw-generation-generating-7-hilarious-video-moments-online/"><u>[Updated] In 2024, Guffaw Generation Generating 7 Hilarious Video Moments Online</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/1716069583771-updated-in-2024-xbox-game-memories-save-them-with-screenshots/"><u>[Updated] In 2024, Xbox Game Memories, Save Them with Screenshots!</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/boot-from-a-windows-10-installation-media-and-choose-repair-your-computer-)-troubleshoot-)-command-prompt/"><u>Boot From a Windows 10 Installation Media and Choose Repair Your Computer > Troubleshoot > Command Prompt.</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/cartes-sdi-vers-disques-durs-transfert-interne-et-externe/"><u>Cartes SDI Vers Disques Durs: Transfert Interne Et Externe</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/come-eseguire-il-backup-dei-propri-dati-su-una-chiave-usb-con-windows-7/"><u>Come Eseguire Il Backup Dei Propri Dati Su Una Chiave USB Con Windows 7</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/efektivitas-untuk-memperbaiki-kesalahan-pencarian-dokumen-di-windows-1011-dengan-perangkat-pertuturan-microsoft/"><u>Efektivitas Untuk Memperbaiki Kesalahan Pencarian Dokumen Di Windows 10/11 Dengan Perangkat Pertuturan Microsoft</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/fonebackup-wie-man-icloud-meldungen-loscht-ohne-das-iphone-zu-benutzen/"><u>FoneBackup - Wie Man iCloud-Meldungen Löscht, Ohne Das iPhone Zu Benutzen</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/how-to-recover-a-corrupted-or-missing-windows-1011-partition-step-by-step/"><u>How to Recover a Corrupted or Missing Windows 10/11 Partition Step-by-Step</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-amplify-your-voice-on-youtube-mastery-through-tubebuddy/"><u>In 2024, Amplify Your Voice on YouTube - Mastery Through TubeBuddy</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-personalizing-your-android-a-step-by-step-guide-to-ringtone-and-sound-settings/"><u>In 2024, Personalizing Your Android A Step-by-Step Guide to Ringtone & Sound Settings</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-simplified-storytelling-methodology/"><u>In 2024, Simplified Storytelling Methodology</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/mastering-qnap-cloud-backups-drei-effektive-ansatze-fur-zuverlassige-datensicherung-schritt-fur-schritt-guideline/"><u>Mastering QNAP Cloud Backups: Drei Effektive Ansätze Für Zuverlässige Datensicherung (Schritt-Für-Schritt-Guideline)</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/notice-cannot-locate-the-requested-site-pages/"><u>Notice: Cannot Locate the Requested Site Pages</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/partitiontabellen-repareren-in-windows-11-scherp-aan-de-hand/"><u>Partitiontabellen Repareren in Windows 11 - Scherp Aan De Hand</u></a></li>
+<li><a href="https://win-news.techidaily.com/top-free-tools-revive-your-photos-quick-fixes-for-the-picture-library-on-windows-11/"><u>Top Free Tools] Revive Your Photos: Quick Fixes for the Picture Library on Windows 11</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/understanding-browser-hijackers-a-deep-dive-with-malwarefox/"><u>Understanding Browser Hijackers: A Deep Dive with MalwareFox</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/unseen-by-your-computer-heres-how-to-reset-the-blue-yeti-microphone/"><u>Unseen by Your Computer? Here’s How to Reset the Blue Yeti Microphone</u></a></li>
 </ul></div>
 
