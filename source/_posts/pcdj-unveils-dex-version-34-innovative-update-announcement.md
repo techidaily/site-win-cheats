@@ -1,7 +1,7 @@
 ---
 title: "PCDJ Unveils DEX Version 3.4: Innovative Update Announcement"
-date: 2025-01-28T18:17:00.161Z
-updated: 2025-01-31T18:09:23.447Z
+date: 2025-02-11T23:27:25.585Z
+updated: 2025-02-13T03:10:31.449Z
 tags:
   - product
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/367ee4c24820f3014ce079b27a52261c1491c40b5
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## DJ Software Creators Digital 1 Audio Launch DEX 3.4, a Major Update for Their Leading Mac and Windows Live Performance Mixing Software for Mixing Music, Videos, Karaoke
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/367ee4c24820f3014ce079b27a52261c1491c40b5
 [LEARN MORE ABOUT BROADCASTING WITH DEX 3 ![](https://i1.wp.com/pcdj.com/wp-content/uploads/2015/06/broadcastmix-coverimage.jpg?fit=300%2C169&ssl=1 "broadcastmix-coverimage")](https://tools.techidaily.com/pcdj/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 “With each update [DEX 3](https://tools.techidaily.com/pcdj/products/) is fine-tuned to meet the vast requirements of today’s versatile Digital DJ” says Digital 1 Audio’s General Manager Ryan Sherr. “The 3.4 update introduces a few highly-requested features, most notably the ability to real-time connect (_or disconnect_) up to 8 DJ controllers, Windows 10 support as well as internet radio broadcasting.” Sherr Continues “Users of DEX 3 can now broadcast their mix show online using the built-in [Icecast](http://icecast.org/) support. Internet Radio is big, and offers a platform for new DJ software users to hone their DJ skills in front of a virtual audience.”
@@ -82,7 +82,7 @@ DirectX/ASIO compatible multichannel soundcard (Mac: multichannel Core Audio sou
 Since 1999, Digital 1 Audio/PCDJ has been recognized as a leading developer and manufacturer of DJ and Karaoke live performance software. More than 80,000 professional DJs around the world now spin with their computer using one of company’s entertainment products.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -104,17 +104,19 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2015/08/pressrelease34-coverimage.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-chromatic-coherence-helper/"><u>[New] 2024 Approved Chromatic Coherence Helper</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-speak-and-stun-on-snapchat-voice-change-made-simple/"><u>[Updated] In 2024, Speak and Stun on Snapchat Voice Change Made Simple</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/back-from-the-dead-a-step-by-step-guide-to-retrieving-lost-files-across-windows-operating-systems-11-10-8-and-7/"><u>Back From the Dead: A Step-by-Step Guide to Retrieving Lost Files Across Windows Operating Systems (11, 10, 8, and 7)</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/backing-up-windows-10-on-qnap-nas-two-effective-strategies-explained/"><u>Backing Up Windows 10 on QNAP NAS: Two Effective Strategies Explained</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-activation-lock-on-iphone-14-plus-4-easy-ways-by-drfone-ios/"><u>In 2024, Bypass Activation Lock On iPhone 14 Plus - 4 Easy Ways</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-tecno-spark-20-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Tecno Spark 20 Pro+ | Dr.fone</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/protecting-corporate-information-bitraser-data-erasure-solutions-explained-in-video-format/"><u>Protecting Corporate Information: BitRaser Data Erasure Solutions Explained in Video Format</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/seamless-transfer-of-photos-and-videos-from-iphone-to-computer/"><u>Seamless Transfer of Photos & Videos From iPhone to Computer</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/strategia-dettagliata-per-eseguire-il-backup-delle-tue-cartelle-di-posta-elettronica-outlook-una-guida-facile-da-seguire/"><u>Strategia Dettagliata per Eseguire Il Backup Delle Tue Cartelle Di Posta Elettronica Outlook: Una Guida Facile Da Seguire</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/the-race-for-supercomputing-supremacy-how-china-plans-to-skyrocket-state-computer-capacity-by-30-hitting-300-exaflops-before-2025/"><u>The Race for Supercomputing Supremacy: How China Plans to Skyrocket State Computer Capacity by 30%, Hitting 300 ExaFLOPS Before 2025</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/understanding-the-vcenter-web-client-a-comprehensive-guide/"><u>Understanding the vCenter Web Client: A Comprehensive Guide</u></a></li>
-<li><a href="https://facebook.techidaily.com/unfolding-the-storyline-of-your-digital-companions/"><u>Unfolding the Storyline of Your Digital Companions</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-essential-mobile-privacy-the-best-7-adblocker-apps-for-android/"><u>[New] In 2024, Essential Mobile Privacy The Best 7 AdBlocker Apps for Android</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-leaderboard-of-first-zeoid-innovations/"><u>2024 Approved The Leaderboard of First Zeoid Innovations</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/experience-the-ultimate-robust-microsoft-tablet-expert-zdnet-analysis-of-its-unbeatable-stylus-integration-and-reliability-features/"><u>Experience the Ultimate Robust Microsoft Tablet: Expert ZDNET Analysis of Its Unbeatable Stylus Integration and Reliability Features</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-and-education-the-shift-from-student-drafted-to-ai-generated-papers/"><u>GPT and Education: The Shift From Student-Drafted to AI-Generated Papers</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-elevate-your-creative-content-on-instagram-using-loops/"><u>In 2024, Elevate Your Creative Content on Instagram Using Loops</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-mastering-xbox-screencast-capture-techniques/"><u>In 2024, Mastering Xbox Screencast Capture Techniques</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-tips-and-tricks-to-tell-if-your-apple-iphone-15-pro-is-unlocked-by-drfone-ios/"><u>In 2024, Tips And Tricks To Tell if Your Apple iPhone 15 Pro Is Unlocked</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/the-game-changing-arrival-of-new-apps-for-windows-on-arm-what-makes-it-so-significant/"><u>The Game-Changing Arrival of New Apps for Windows on ARM: What Makes It So Significant?</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-nokia-c22-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Nokia C22 Bricked Devices | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211317595-9798869292957-unite-and-thrive/"><u>Unite and Thrive | Free Book</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ling-the-best-strategies-how-to-boost-engagement-and-growth-on-youtube-for-2024/"><u>Unveiling the Best Strategies How to Boost Engagement and Growth on YouTube for 2024</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/windows-10-crisis-looms-for-microsoft-as-one-year-deadline-approaches-reveals-zdnet-analysis/"><u>Windows 10 Crisis Looms for Microsoft as One-Year Deadline Approaches, Reveals ZDNet Analysis</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/zdnet-exclusive-ai-competencies-critical-for-career-advancement-majority-leaders-agree-top-talent-trends/"><u>ZDNet Exclusive: AI Competencies Critical for Career Advancement, Majority Leaders Agree | Top Talent Trends</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/zdnet-reveals-free-artificial-intelligence-companion-by-microsoft-and-khan-academy-exclusively-for-teachers-in-the-usa/"><u>ZDNet Reveals: Free Artificial Intelligence Companion by Microsoft and Khan Academy Exclusively for Teachers in the USA</u></a></li>
 </ul></div>
 

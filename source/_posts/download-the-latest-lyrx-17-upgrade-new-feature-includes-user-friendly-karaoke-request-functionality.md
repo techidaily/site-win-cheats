@@ -1,7 +1,7 @@
 ---
 title: "Download the Latest LYRX 1.7 Upgrade: New Feature Includes User-Friendly Karaoke Request Functionality"
-date: 2025-01-29T19:51:49.523Z
-updated: 2025-01-31T18:37:14.370Z
+date: 2025-02-09T05:21:25.325Z
+updated: 2025-02-13T00:51:36.573Z
 tags:
   - product
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/e5896cf8bd138a267d00eafc99f462dd02faf3099
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Download the official public release of LYRX 1.7 – now with KRS (Karaoke Singer Request) System!
@@ -27,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/e5896cf8bd138a267d00eafc99f462dd02faf3099
 [![LYRX with KSR and Party Tyme](https://i1.wp.com/pcdj.com/wp-content/uploads/2021/05/LYRX.png?fit=300%2C189&ssl=1 "LYRX")](https://i1.wp.com/pcdj.com/wp-content/uploads/2021/05/LYRX.png?fit=1030%2C650&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 LYRX 1.7 is ready for download and as always, it’s a free update for LYRX KJs. Learn more and install the update below.
@@ -41,7 +41,7 @@ Also included are a number of performance improvement, optimizations for macOS C
 After extensive public testing on the [PCDJ User Group](http://www.facebook.com/groups/pcdjusergroup/), LYRX 1.7 is ready for live performance. We suggest LYRX customers update to 1.7 today!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What’s New, Changed, and Fixed in LYRX 1.7
@@ -58,7 +58,7 @@ After extensive public testing on the [PCDJ User Group](http://www.facebook.com/
 _Have questions about the latest 1.7 version of our LYRX **Karaoke Software** or the new **KSR Karaoke Singer Request system**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -80,24 +80,24 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2021/06/ksr-back-copy.jpg?fit=1200
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-guide-to-equipment-selection-for-youtube-creators-for-2024/"><u>[New] Guide to Equipment Selection for YouTube Creators for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-guerrilla-marketing-for-youtube-upping-video-traffic/"><u>[Updated] In 2024, Guerrilla Marketing for YouTube Upping Video Traffic</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-mastering-instagram-essential-hashtag-tips/"><u>[Updated] In 2024, Mastering Instagram Essential Hashtag Tips</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/1728497019224-0x80/"><u>「エラー0x80#:修正完了後、システムのリカバリプロセス中に突然見つからない誤りを探知します」</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-quick-steps-to-become-a-9gag-meme-genius/"><u>2024 Approved Quick Steps to Become a 9GAG Meme Genius</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/windows-7-v7601/"><u>非公式 Windows 7 V7.601版対処ガイド - 不正なシステムを安全に管理する方法</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-step-by-step-guide-to-using-dism-on-win11/"><u>A Step-by-Step Guide to Using Dism on Win11</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/come-effettuare-il-ripristino-di-vecchie-versioni-su-un-disco-rigido-esterno/"><u>Come Effettuare Il Ripristino Di Vecchie Versioni Su Un Disco Rigido Esterno</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/dropbox-upload-hochladen-von-iphone-fotos-auf-deinen-pc/"><u>Dropbox-Upload: Hochladen Von iPhone-Fotos Auf Deinen PC</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/efficient-editing-harnessing-photoshops-powerful-eraser/"><u>Efficient Editing Harnessing Photoshop’s Powerful Eraser</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/erfolgreich-beschadigte-bilddateien-von-einer-sd-karte-retten-tipps-und-tricks/"><u>Erfolgreich Beschädigte Bilddateien Von Einer SD-Karte Retten - Tipps Und Tricks</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/guida-passo-passo-per-il-salvataggio-della-cronologia-e-delle-versioni-precedenti-dei-file-in-windows-7/"><u>Guida Passo-Passo per Il Salvataggio Della Cronologia E Delle Versioni Precedenti Dei File in Windows 7</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/guide-complet-comment-conserver-vos-donnees-windows-10-avant-de-passer-a-windows-11/"><u>Guide Complet : Comment Conserver Vos Données Windows 10 Avant De Passer À Windows 11</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/securely-save-your-adventures-learn-the-best-practices-for-backing-up-pc-game-saves-with-our-expert-tips/"><u>Securely Save Your Adventures: Learn the Best Practices for Backing Up PC Game Saves with Our Expert Tips</u></a></li>
-<li><a href="https://win-blog.techidaily.com/solving-the-last-epoch-pc-release-issue-comprehensive-guide-and-fixes/"><u>Solving the 'Last Epoch' PC Release Issue: Comprehensive Guide & Fixes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/triple-column-widget-setup-in-windows-11-guide/"><u>Triple Column Widget Setup in Windows 11 Guide</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/ultimate-tutorial-on-deleting-your-vm-with-vmware/"><u>Ultimate Tutorial on Deleting Your VM with VMWare</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/1728463509153-windows-11usb/"><u>Windows 11に最適なデルのリカバリーUSB作り詳しい手引き</u></a></li>
-<li><a href="https://driver-download.techidaily.com/windows-7-stereo-driver-update-packs-available-now-secure-free-download/"><u>Windows 7 Stereo Driver Update Packs Available Now - Secure Free Download</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-ancient-images-modern-preservation-the-art-and-science-of-old-print-digitizing-for-2024/"><u>[New] Ancient Images, Modern Preservation The Art & Science of Old Print Digitizing for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-digital-display-delights-top-plugins-and-apps-for-photo-frames/"><u>[New] In 2024, Digital Display Delights Top Plugins & Apps for Photo Frames</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-maximizing-impact-with-tiktok-video-uploads-from-pcmac/"><u>[New] Maximizing Impact with TikTok Video Uploads From PC/Mac</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/1-seamless-transition-guide-migrating-your-media-library-from-itunes-for-windows-to-ios-with-zero-data-loss/"><u>1. Seamless Transition Guide: Migrating Your Media Library From iTunes for Windows to iOS with Zero Data Loss</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/10-in-popularity-with-gaming-enthusiasts-a-detailed-analysis-by-zdnet/"><u>10 in Popularity with Gaming Enthusiasts: A Detailed Analysis by ZDNet</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/accelerate-task-management-in-windows/"><u>Accelerate Task Management in Windows</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/visual-alchemy-formulating-your-youtube-playlist/"><u>Audiovisual Alchemy Formulating Your YouTube Playlist</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/dont-miss-the-deadline-protect-your-pc-by-switching-from-windows-11-21h2-and-nh2-before-its-too-late-tech-news/"><u>Don't Miss the Deadline: Protect Your PC by Switching From Windows 11 21H2 and Nh2 Before It's Too Late | Tech News</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-vivo-t2-pro-5gwithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Vivo T2 Pro 5Gwith/without a PC</u></a></li>
+<li><a href="https://fox-info.techidaily.com/instant-insight-method-for-punctuation-of-timelines-in-images-for-2024/"><u>Instant Insight Method for Punctuation of Timelines in Images for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/learn-to-turn-comments-on-or-off-on-youtube-easily/"><u>Learn to Turn Comments On or Off on YouTube Easily</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/swift-windows-document-reviewing-techniques/"><u>Swift Windows Document Reviewing Techniques</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/the-ideal-mac-sniping-software-here-are-5-picks/"><u>The Ideal Mac Sniping Software - Here Are 5 Picks</u></a></li>
+<li><a href="https://program-issues.techidaily.com/tips-to-cut-down-on-god-of-wars-demand-on-your-computers-processor/"><u>Tips to Cut Down on God of War's Demand on Your Computer's Processor</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/top-recommended-under-desk-stand-up-converter-find-the-perfect-solution-from-zdnets-picks/"><u>Top Recommended Under-Desk Stand Up Converter: Find the Perfect Solution From ZDNet's Picks!</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/top-rated-durable-tablet-with-active-pen-and-windows-os-reviewed-by-tech-expert/"><u>Top-Rated Durable Tablet With Active Pen and Windows OS Reviewed by Tech Expert</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/transform-your-macbook-into-a-tablet-with-this-innovative-external-display-discover-how/"><u>Transform Your MacBook Into a Tablet with This Innovative External Display - Discover How!</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/unveiling-the-keychron-q5-review-by-zdnet-balancing-advanced-features-with-affordability/"><u>Unveiling the Keychron Q5 Review by ZDNet: Balancing Advanced Features with Affordability</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/why-microsofts-new-approach-with-window-copilot-as-an-app-is-exciting-for-users-tech-insights/"><u>Why Microsoft's New Approach with Window Copilot as an App Is Exciting for Users | Tech Insights</u></a></li>
 </ul></div>
 
